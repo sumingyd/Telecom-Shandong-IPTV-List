@@ -8,3 +8,4 @@
 # 直播工具：
 - 1.Windows：[Potplayer](http://potplayer.tv/)
 - 2.Mac：[IINA](https://www.iina.io/)
+- 3.Services：[Emby](https://emby.media/)
