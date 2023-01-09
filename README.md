@@ -1,4 +1,4 @@
-# China-Telecom-ShangDong-IPTV-list
+# China-Telecom-ShanDong-IPTV-list
 山东电信IPTV直播源
 
 # 更新时间记录：
