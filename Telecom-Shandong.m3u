@@ -97,7 +97,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="辽宁",辽宁卫视【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="洞房",东方卫视【1080P】
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="东方",东方卫视【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川卫视【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
