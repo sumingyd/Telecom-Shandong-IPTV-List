@@ -41,3 +41,7 @@
 1. 在TXT列表中的示例：
 - avi,Video pro Zajchika,http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4
 - avi,Music 1,http://siptv.eu/temp/malandra.mp3
+
+# 交流
+
+QQ群：757694351
