@@ -53,6 +53,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="教育部",教育1
 http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="教育部",教育4
+http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安徽",安徽卫视【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京",北京卫视【1080P】
@@ -111,7 +113,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南",金鹰纪实【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="河南",梨园频道【1080P】
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="限时试看",梨园频道【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
@@ -119,9 +121,9 @@ http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/haiyangpindao.png" group-title="央视",海洋频道
 http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="湖南",湖南快乐垂钓【1080P】
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="限时试看",湖南快乐垂钓【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="湖南",湖南茶频道【1080P】
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="限时试看",湖南茶频道【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东",山东齐鲁【1080P】
 http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
@@ -179,6 +181,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 #EXTINF:-1 tvg-id="宁津新闻综合" tvg-name="宁津新闻综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",宁津新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 tvg-id="淄川新闻" tvg-name="淄川新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",淄川新闻
+http://150.138.8.143/00/SNM/CHANNEL00001007/index.m3u8
 #EXTINF:-1 tvg-id="安丘新闻综合" tvg-name="安丘新闻综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",安丘新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001015/index.m3u8
 #EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",嘉祥综合
@@ -229,6 +233,8 @@ http://150.138.8.143/00/SNM/CHANNEL00001060/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001061/index.m3u8
 #EXTINF:-1 tvg-id="禹城综艺" tvg-name="禹城综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",禹城综艺
 http://150.138.8.143/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 tvg-id="定陶综合" tvg-name="定陶综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",定陶综合
+http://150.138.8.143/00/SNM/CHANNEL00001063/index.m3u8
 #EXTINF:-1 tvg-id="平原新闻" tvg-name="平原新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",平原新闻
 http://150.138.8.143/00/SNM/CHANNEL00001064/index.m3u8
 #EXTINF:-1 tvg-id="新泰乡村" tvg-name="新泰乡村" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",新泰乡村
@@ -273,9 +279,54 @@ http://150.138.8.143/00/SNM/CHANNEL00001095/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001098/index.m3u8
 #EXTINF:-1 tvg-id="沂水生活" tvg-name="沂水生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",沂水生活
 http://150.138.8.143/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 tvg-id="济宁高新" tvg-name="济宁高新" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",济宁高新
+http://150.138.8.143/00/SNM/CHANNEL00001101/index.m3u8
 #EXTINF:-1 tvg-id="临清综合" tvg-name="临清综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",临清综合
 http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
 #EXTINF:-1 tvg-id="临邑综合" tvg-name="临邑综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",临邑综合
 http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="未知" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方",未知【只有声音】
+#EXTINF:-1 tvg-id="潍坊高新" tvg-name="潍坊高新" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="山东",潍坊高新
+http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="限时试看",动漫秀场
+http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1 tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="限时试看",极速汽车
+http://150.138.8.143/00/SNM/CHANNEL00002001/index.m3u8
+#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="限时试看",法治天地
+http://150.138.8.143/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="限时试看",精彩影视
+http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="限时试看",乐游
+http://150.138.8.143/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="限时试看",金色学堂
+http://150.138.8.143/00/SNM/CHANNEL00002018/index.m3u8
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="限时试看",生活时尚
+http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="限时试看",魅力足球
+http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="限时试看",都市剧场
+http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 tvg-id="幸福彩" tvg-name="幸福彩" tvg-logo="https://epg.112114.xyz/logo/幸福彩.png" group-title="限时试看",幸福彩
+http://150.138.8.143/00/SNM/CHANNEL00002023/index.m3u8
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="限时试看",游戏风云
+http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="限时试看",东方财经
+http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="限时试看【片段】",CHC家庭影院
+http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="限时试看【片段】",CHC高清电影
+http://150.138.8.143/00/SNM/CHANNEL00002029/index.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="限时试看【片段】",CHC动作电影
+http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8
+#EXTINF:-1 tvg-id="山东8K测试" tvg-name="山东8K测试" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="8K【片段】",山东8K测试
+http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="山东人民" tvg-name="山东人民" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="广播电台",山东人民
+http://150.138.8.143/00/SNM/CHANNEL00004008/index.m3u8
+#EXTINF:-1 tvg-id="未知1" tvg-name="未知1" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="未知1",未知1
+http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
+#EXTINF:-1 tvg-id="未知2" tvg-name="未知2" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="广播电台",未知2
 http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
