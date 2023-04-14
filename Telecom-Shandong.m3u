@@ -319,11 +319,6 @@ http://150.138.8.143/00/SNM/CHANNEL00002029/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-id="山东8K测试" tvg-name="山东8K测试" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="8K【片段】",山东8K测试
 http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-id="山东人民" tvg-name="山东人民" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="广播电台",山东人民
 http://150.138.8.143/00/SNM/CHANNEL00004008/index.m3u8
 #EXTINF:-1 tvg-id="未知1" tvg-name="未知1" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="未知1",未知1
