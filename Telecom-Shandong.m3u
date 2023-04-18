@@ -47,7 +47,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000354/index.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/cgtn_ayu.png" group-title="央视",CGTN阿语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://pix1.tvzhe.com/images/logo/channel/CCTVA/CCTVA.jpg?1" group-title="央视",CGTN阿语
 http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
