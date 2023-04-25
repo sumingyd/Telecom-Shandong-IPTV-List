@@ -325,7 +325,6 @@ http://150.138.8.143/00/SNM/CHANNEL00004008/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
 #EXTINF:-1 tvg-id="未知2" tvg-name="未知2" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="广播电台",未知2
 http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
-
 #EXTINF:-1 tvg-id="BTV纪实科教" tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="8K频道",BTV纪实科教-8KSDR源
 http://159.75.85.63:6798
 #EXTINF:-1 tvg-id="苏州" tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K频道",苏州4K
