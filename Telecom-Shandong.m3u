@@ -289,21 +289,21 @@ http://150.138.8.143/00/SNM/CHANNEL00001104/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="限时试看",动漫秀场
 http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
-#EXTINF:-1 tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="限时试看",极速汽车
+#EXTINF:-1 tvg-id="极速汽车" tvg-name="极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="限时试看",极速汽车
 http://150.138.8.143/00/SNM/CHANNEL00002001/index.m3u8
-#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="限时试看",法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="限时试看",法治天地
 http://150.138.8.143/00/SNM/CHANNEL00002010/index.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HSJCYS/HSJCYS.jpg?1" group-title="限时试看",精彩影视
 http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="限时试看",乐游
 http://150.138.8.143/00/SNM/CHANNEL00002016/index.m3u8
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="限时试看",金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="限时试看",金色学堂
 http://150.138.8.143/00/SNM/CHANNEL00002018/index.m3u8
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="限时试看",生活时尚
 http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="限时试看",魅力足球
 http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
-#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="限时试看",都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="限时试看",都市剧场
 http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
 #EXTINF:-1 tvg-id="幸福彩" tvg-name="幸福彩" tvg-logo="https://epg.112114.xyz/logo/幸福彩.png" group-title="限时试看",幸福彩
 http://150.138.8.143/00/SNM/CHANNEL00002023/index.m3u8
