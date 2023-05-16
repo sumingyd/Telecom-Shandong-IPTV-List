@@ -159,7 +159,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="限时试看",动漫秀场
 http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
-
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="限时试看",法治天地
 http://150.138.8.143/00/SNM/CHANNEL00002010/index.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HSJCYS/HSJCYS.jpg?1" group-title="限时试看",精彩影视
@@ -200,15 +199,19 @@ http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K频道",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K频道",咪咕体育
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="4K影视" tvg-name="4K影视" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="4K频道",4K影视
 http://nas.jdshipin.com:8801/4kys.php
-#EXTINF:-1 tvg-id="江苏8K测试" tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="4K/8K-IPV6",江苏8K测试
+#EXTINF:-1 tvg-id="江苏8K测试" tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="4K频道",江苏8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="CCTV8K测试" tvg-name="CCTV8K测试" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K-IPV6",CCTV8K测试
+#EXTINF:-1 tvg-id="CCTV8K测试" tvg-name="CCTV8K测试" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K频道",CCTV8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="4K/8K-IPV6",BesTV-4K
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="4K频道",CCTV1-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="4K频道",BesTV-4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-id="河南4K" tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K/8K-IPV6",河南4K
+#EXTINF:-1 tvg-id="河南4K" tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K频道",河南4K
 http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="4K/8K-IPV6",纯享4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="4K频道",纯享4K
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
