@@ -23,7 +23,7 @@
   * 4.`FHD.m3u` & `SD.m3u` 未进行匹配图标及分组
   * 5.`FHD+.m3u` & `SD+.m3u` 通过112114一键匹配台标及分组
   * 6.`External.m3u` 外部资源，UHD+FUHD，已测试秒开
-  * 6.`Telecom-Shandong.m3u` 等待整理中…………
+  * 6.`Telecom-Shandong.m3u` 自用，去掉县台及购物台，包含几个 UHD & FUHD 频道，排序
 
 ## 资源
 
@@ -40,6 +40,7 @@
 
 * EGP工具
   * 1.[WebGrab+Plus](http://webgrabplus.com/download)
+  * 2.[老张的EPG开源仓库](https://github.com/supzhang/epg)
 
 * 播放工具
   * 1.Windows：[Potplayer](http://potplayer.tv/)
