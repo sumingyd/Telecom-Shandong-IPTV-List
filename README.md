@@ -59,20 +59,30 @@
   * tvg-logo-small - 小的方形频道徽标的路径，最小高度应为 48px（仅适用于最新的应用程序版本）
   * timeshift, tvg-rec - 特定频道的时移可用性
   * 示例：
-  * #EXTM3U
-  * #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" parent-code="1234" audio-track="nl",Be1 Name
-  * <http://channel.stream.address/to_be_placed/on_separate_line/123.ts>
+  
+    ```txt
+    #EXTM3U
+    #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" parent-code="1234" audio-track="nl",Be1 Name
+    <http://channel.stream.address/to_be_placed/on_separate_line/123.ts>
+    ```
 
 * TXT 结构（旧方法，不推荐）
-  * group,Common,1234
-  * EPGcode,Channel Name,<http://channel.stream.address,en,1>
-  * avi,Video File,<http://video.file.address.mkv>
+  
+  ```txt
+    group,Common,1234
+    EPGcode,Channel Name,<http://channel.stream.address,en,1>
+    avi,Video File,<http://video.file.address.mkv>
+  ```
+
   * 在 EPG 代码页面上，您将找到要添加的 EPG 代码列表，而不是“EPGcode”，或者如果没有可用于特定频道的 EPG 代码，则输入“ext”。频道名称后的“en”表示首选音轨（适用于 LG 电视）。行尾的“1”表示此特定通道上有可用的时移。“avi”用于视频文件和其他视频资源（Youtube，Vkontakte）。组名称后的“1234”设置整个组的家长代码。
 
 * 网络 视频/音频 播放
   * 在TXT列表中的示例
-  * avi,Video pro Zajchika,<http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4>
-  * avi,Music 1,<http://siptv.eu/temp/malandra.mp3>
+  
+  ```txt
+    avi,Video pro Zajchika,<http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4>
+    avi,Music 1,<http://siptv.eu/temp/malandra.mp3>
+  ```
 
 ## 交流
 
