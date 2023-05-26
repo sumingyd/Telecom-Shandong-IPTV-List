@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+http://150.138.8.143/00/SNM/CHANNEL00000006/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
+http://150.138.8.143/00/SNM/CHANNEL00000008/index.m3u8
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
+http://150.138.8.143/00/SNM/CHANNEL00000009/index.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://150.138.8.143/00/SNM/CHANNEL00000019/index.m3u8
+#EXTINF:-1,tvg-id="滨州民生" tvg-name="滨州民生" tvg-logo="https://epg.112114.xyz/logo/滨州民生.png" group-title="其他",滨州民生
+http://150.138.8.143/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1,tvg-id="滨州新闻" tvg-name="滨州新闻" tvg-logo="https://epg.112114.xyz/logo/滨州新闻.png" group-title="其他",滨州新闻
+http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
+#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="其他",财富天下
+http://150.138.8.143/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1,tvg-id="车迷" tvg-name="车迷" tvg-logo="https://epg.112114.xyz/logo/车迷.png" group-title="其他",车迷频道
+http://150.138.8.143/00/SNM/CHANNEL00000645/index.m3u8
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
+http://150.138.8.143/00/SNM/CHANNEL00000022/index.m3u8
+#EXTINF:-1,tvg-id="东明综合" tvg-name="东明综合" tvg-logo="https://epg.112114.xyz/logo/东明综合.png" group-title="其他",东明综合
+http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000028/index.m3u8
+#EXTINF:-1,tvg-id="东营公共" tvg-name="东营公共" tvg-logo="https://epg.112114.xyz/logo/东营公共.png" group-title="其他",东营公共
+http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1,tvg-id="东营新闻" tvg-name="东营新闻" tvg-logo="https://epg.112114.xyz/logo/东营新闻.png" group-title="其他",东营新闻
+http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场
+http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
+#EXTINF:-1,tvg-id="冠县综合" tvg-name="冠县综合" tvg-logo="https://epg.112114.xyz/logo/冠县综合.png" group-title="其他",冠县综合
+http://150.138.8.143/00/SNM/CHANNEL00001040/index.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://150.138.8.143/00/SNM/CHANNEL00000025/index.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://150.138.8.143/00/SNM/CHANNEL00000041/index.m3u8
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="其他",哈哈炫动
+http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000034/index.m3u8
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000037/index.m3u8
+#EXTINF:-1,tvg-id="菏泽1" tvg-name="菏泽1" tvg-logo="https://epg.112114.xyz/logo/菏泽1.png" group-title="其他",菏泽1
+http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1,tvg-id="菏泽2" tvg-name="菏泽2" tvg-logo="https://epg.112114.xyz/logo/菏泽2.png" group-title="其他",菏泽2
+http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://150.138.8.143/00/SNM/CHANNEL00000027/index.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000031/index.m3u8
+#EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="其他",环球旅游
+http://150.138.8.143/00/SNM/CHANNEL00000643/index.m3u8
+#EXTINF:-1,tvg-id="桓台综合" tvg-name="桓台综合" tvg-logo="https://epg.112114.xyz/logo/桓台综合.png" group-title="其他",桓台综合
+http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1,tvg-id="惠民综合" tvg-name="惠民综合" tvg-logo="https://epg.112114.xyz/logo/惠民综合.png" group-title="其他",惠民综合
+http://150.138.8.143/00/SNM/CHANNEL00001009/index.m3u8
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://150.138.8.143/00/SNM/CHANNEL00000036/index.m3u8
+#EXTINF:-1,tvg-id="济南都市" tvg-name="济南都市" tvg-logo="https://epg.112114.xyz/logo/济南都市.png" group-title="其他",济南都市
+http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1,tvg-id="济南科教" tvg-name="济南科教" tvg-logo="https://epg.112114.xyz/logo/济南科教.png" group-title="其他",济南科教
+http://150.138.8.143/00/SNM/CHANNEL00000245/index.m3u8
+#EXTINF:-1,tvg-id="济南鲁中" tvg-name="济南鲁中" tvg-logo="https://epg.112114.xyz/logo/济南鲁中.png" group-title="其他",济南鲁中
+http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1,tvg-id="济南少儿" tvg-name="济南少儿" tvg-logo="https://epg.112114.xyz/logo/济南少儿.png" group-title="其他",济南少儿
+http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1,tvg-id="济南生活" tvg-name="济南生活" tvg-logo="https://epg.112114.xyz/logo/济南生活.png" group-title="其他",济南生活
+http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1,tvg-id="济南文旅" tvg-name="济南文旅" tvg-logo="https://epg.112114.xyz/logo/济南文旅.png" group-title="其他",济南文旅
+http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1,tvg-id="济南新闻" tvg-name="济南新闻" tvg-logo="https://epg.112114.xyz/logo/济南新闻.png" group-title="其他",济南新闻
+http://150.138.8.143/00/SNM/CHANNEL00000061/index.m3u8
+#EXTINF:-1,tvg-id="济南娱乐" tvg-name="济南娱乐" tvg-logo="https://epg.112114.xyz/logo/济南娱乐.png" group-title="其他",济南娱乐
+http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1,tvg-id="济宁公共" tvg-name="济宁公共" tvg-logo="https://epg.112114.xyz/logo/济宁公共.png" group-title="其他",济宁公共
+http://150.138.8.143/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1,tvg-id="济宁生活" tvg-name="济宁生活" tvg-logo="https://epg.112114.xyz/logo/济宁生活.png" group-title="其他",济宁生活
+http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1,tvg-id="济阳综合" tvg-name="济阳综合" tvg-logo="https://epg.112114.xyz/logo/济阳综合.png" group-title="其他",济阳综合
+http://150.138.8.143/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="其他",家庭理财
+http://150.138.8.143/00/SNM/CHANNEL00000654/index.m3u8
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
+http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000018/index.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000035/index.m3u8
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通
+http://150.138.8.143/00/SNM/CHANNEL00000047/index.m3u8
+#EXTINF:-1,tvg-id="靓妆" tvg-name="靓妆" tvg-logo="https://epg.112114.xyz/logo/靓妆.png" group-title="其他",靓妆
+http://150.138.8.143/00/SNM/CHANNEL00000653/index.m3u8
+#EXTINF:-1,tvg-id="莒南综合" tvg-name="莒南综合" tvg-logo="https://epg.112114.xyz/logo/莒南综合.png" group-title="其他",莒南综合
+http://150.138.8.143/00/SNM/CHANNEL00001011/index.m3u8
+#EXTINF:-1,tvg-id="莒县综合" tvg-name="莒县综合" tvg-logo="https://epg.112114.xyz/logo/莒县综合.png" group-title="其他",莒县综合
+http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
+http://150.138.8.143/00/SNM/CHANNEL00000048/index.m3u8
+#EXTINF:-1,tvg-id="岚山综合" tvg-name="岚山综合" tvg-logo="https://epg.112114.xyz/logo/岚山综合.png" group-title="其他",岚山综合
+http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
+#EXTINF:-1,tvg-id="历城综合" tvg-name="历城综合" tvg-logo="https://epg.112114.xyz/logo/历城综合.png" group-title="其他",历城综合
+http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://150.138.8.143/00/SNM/CHANNEL00000026/index.m3u8
+#EXTINF:-1,tvg-id="聊城民生" tvg-name="聊城民生" tvg-logo="https://epg.112114.xyz/logo/聊城民生.png" group-title="其他",聊城民生
+http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1,tvg-id="聊城综合" tvg-name="聊城综合" tvg-logo="https://epg.112114.xyz/logo/聊城综合.png" group-title="其他",聊城综合
+http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1,tvg-id="蒙阴综合" tvg-name="蒙阴综合" tvg-logo="https://epg.112114.xyz/logo/蒙阴综合.png" group-title="其他",蒙阴综合
+http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1,tvg-id="牟平生活" tvg-name="牟平生活" tvg-logo="https://epg.112114.xyz/logo/牟平生活.png" group-title="其他",牟平生活
+http://150.138.8.143/00/SNM/CHANNEL00001077/index.m3u8
+#EXTINF:-1,tvg-id="牟平综合" tvg-name="牟平综合" tvg-logo="https://epg.112114.xyz/logo/牟平综合.png" group-title="其他",牟平综合
+http://150.138.8.143/00/SNM/CHANNEL00001076/index.m3u8
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000043/index.m3u8
+#EXTINF:-1,tvg-id="宁阳2" tvg-name="宁阳2" tvg-logo="https://epg.112114.xyz/logo/宁阳2.png" group-title="其他",宁阳2
+http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
+#EXTINF:-1,tvg-id="宁阳综合" tvg-name="宁阳综合" tvg-logo="https://epg.112114.xyz/logo/宁阳综合.png" group-title="其他",宁阳综合
+http://150.138.8.143/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1,tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://epg.112114.xyz/logo/陕西农林卫视.png" group-title="卫视",农林卫视
+http://150.138.8.143/00/SNM/CHANNEL00000072/index.m3u8
+#EXTINF:-1,tvg-id="平阴综合" tvg-name="平阴综合" tvg-logo="https://epg.112114.xyz/logo/平阴综合.png" group-title="其他",平阴综合
+http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1,tvg-id="栖霞综合" tvg-name="栖霞综合" tvg-logo="https://epg.112114.xyz/logo/栖霞综合.png" group-title="其他",栖霞综合
+http://150.138.8.143/00/SNM/CHANNEL00001055/index.m3u8
+#EXTINF:-1,tvg-id="青岛都市" tvg-name="青岛都市" tvg-logo="https://epg.112114.xyz/logo/青岛都市.png" group-title="其他",青岛都市
+http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
+#EXTINF:-1,tvg-id="青岛教育" tvg-name="青岛教育" tvg-logo="https://epg.112114.xyz/logo/青岛教育.png" group-title="其他",青岛教育
+http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+#EXTINF:-1,tvg-id="青岛生活" tvg-name="青岛生活" tvg-logo="https://epg.112114.xyz/logo/青岛生活.png" group-title="其他",青岛生活
+http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
+#EXTINF:-1,tvg-id="青岛新闻" tvg-name="青岛新闻" tvg-logo="https://epg.112114.xyz/logo/青岛新闻.png" group-title="其他",青岛新闻
+http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+#EXTINF:-1,tvg-id="青岛休闲" tvg-name="青岛休闲" tvg-logo="https://epg.112114.xyz/logo/青岛休闲.png" group-title="其他",青岛休闲
+http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
+#EXTINF:-1,tvg-id="青岛影视" tvg-name="青岛影视" tvg-logo="https://epg.112114.xyz/logo/青岛影视.png" group-title="其他",青岛影视
+http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
+http://150.138.8.143/00/SNM/CHANNEL00000042/index.m3u8
+#EXTINF:-1,tvg-id="青州文旅" tvg-name="青州文旅" tvg-logo="https://epg.112114.xyz/logo/青州文旅.png" group-title="其他",青州文旅
+http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
+#EXTINF:-1,tvg-id="日照公共" tvg-name="日照公共" tvg-logo="https://epg.112114.xyz/logo/日照公共.png" group-title="其他",日照公共
+http://150.138.8.143/00/SNM/CHANNEL00001100/index.m3u8
+#EXTINF:-1,tvg-id="日照科教" tvg-name="日照科教" tvg-logo="https://epg.112114.xyz/logo/日照科教.png" group-title="其他",日照科教
+http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+#EXTINF:-1,tvg-id="日照新闻" tvg-name="日照新闻" tvg-logo="https://epg.112114.xyz/logo/日照新闻.png" group-title="其他",日照新闻
+http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
+http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
+http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
+http://150.138.8.143/00/SNM/CHANNEL00000057/index.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
+#EXTINF:-1,tvg-id="商河综合" tvg-name="商河综合" tvg-logo="https://epg.112114.xyz/logo/商河综合.png" group-title="其他",商河综合
+http://150.138.8.143/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://150.138.8.143/00/SNM/CHANNEL00000024/index.m3u8
+#EXTINF:-1,tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://epg.112114.xyz/logo/生态环境.png" group-title="其他",生态环境
+http://150.138.8.143/00/SNM/CHANNEL00000644/index.m3u8
+#EXTINF:-1,tvg-id="寿光新闻" tvg-name="寿光新闻" tvg-logo="https://epg.112114.xyz/logo/寿光新闻.png" group-title="其他",寿光新闻
+http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
+#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画
+http://150.138.8.143/00/SNM/CHANNEL00000651/index.m3u8
+#EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="其他",四海钓鱼
+http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://150.138.8.143/00/SNM/CHANNEL00000021/index.m3u8
+#EXTINF:-1,tvg-id="五莲综合" tvg-name="五莲综合" tvg-logo="https://epg.112114.xyz/logo/五莲综合.png" group-title="其他",五莲综合
+http://150.138.8.143/00/SNM/CHANNEL00001068/index.m3u8
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
+#EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="其他",先锋乒羽
+http://150.138.8.143/00/SNM/CHANNEL00000650/index.m3u8
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫
+http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
+#EXTINF:-1,tvg-id="烟台公共" tvg-name="烟台公共" tvg-logo="https://epg.112114.xyz/logo/烟台公共.png" group-title="其他",烟台公共
+http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
+#EXTINF:-1,tvg-id="阳信综合" tvg-name="阳信综合" tvg-logo="https://epg.112114.xyz/logo/阳信综合.png" group-title="其他",阳信综合
+http://150.138.8.143/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1,tvg-id="沂源综合" tvg-name="沂源综合" tvg-logo="https://epg.112114.xyz/logo/沂源综合.png" group-title="其他",沂源综合
+http://150.138.8.143/00/SNM/CHANNEL00001002/index.m3u8
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="其他",优漫卡通
+http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1,tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="其他",优优宝贝
+http://150.138.8.143/00/SNM/CHANNEL00000641/index.m3u8
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000039/index.m3u8
+#EXTINF:-1,tvg-id="郓城新闻" tvg-name="郓城新闻" tvg-logo="https://epg.112114.xyz/logo/郓城新闻.png" group-title="其他",郓城新闻
+http://150.138.8.143/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1,tvg-id="沾化综合" tvg-name="沾化综合" tvg-logo="https://epg.112114.xyz/logo/沾化综合.png" group-title="其他",沾化综合
+http://150.138.8.143/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1,tvg-id="长清综合" tvg-name="长清综合" tvg-logo="https://epg.112114.xyz/logo/长清综合.png" group-title="其他",长清综合
+http://150.138.8.143/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://150.138.8.143/00/SNM/CHANNEL00000016/index.m3u8
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="其他",中国教育2台
+http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育4台
+http://150.138.8.143/00/SNM/CHANNEL00000070/index.m3u8
+#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="其他",中华特产
+http://150.138.8.143/00/SNM/CHANNEL00000642/index.m3u8
+#EXTINF:-1,tvg-id="诸城新闻" tvg-name="诸城新闻" tvg-logo="https://epg.112114.xyz/logo/诸城新闻.png" group-title="其他",诸城新闻
+http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
+#EXTINF:-1,tvg-id="淄博民生" tvg-name="淄博民生" tvg-logo="https://epg.112114.xyz/logo/淄博民生.png" group-title="其他",淄博民生
+http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1,tvg-id="淄博文旅" tvg-name="淄博文旅" tvg-logo="https://epg.112114.xyz/logo/淄博文旅.png" group-title="其他",淄博文旅
+http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
