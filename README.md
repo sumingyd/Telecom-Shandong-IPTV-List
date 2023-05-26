@@ -23,7 +23,7 @@
   * 4.`FHD.m3u` & `SD.m3u` 分类，未进行匹配图标及分组
   * 5.`FHD+.m3u` & `SD+.m3u` 通过112114一键匹配台标及分组
   * 6.`External.m3u` 外部资源，UHD+FUHD，已测试秒开
-  * 6.`Telecom-Shandong.m3u` 自用，仅UHD及以上，去掉县台及购物台，包含几个 UHD & FUHD 频道，排序
+  * 6.`Telecom-Shandong.m3u` 自用，仅FHD及以上，去掉县台及购物台，包含几个 UHD & FUHD 频道，排序
 
 ## 资源
 
