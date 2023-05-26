@@ -69,9 +69,9 @@
 * TXT 结构（旧方法，不推荐）
   
   ```txt
-    group,Common,1234
-    EPGcode,Channel Name,<http://channel.stream.address,en,1>
-    avi,Video File,<http://video.file.address.mkv>
+  group,Common,1234
+  EPGcode,Channel Name,<http://channel.stream.address,en,1>
+  avi,Video File,<http://video.file.address.mkv>
   ```
 
   * 在 EPG 代码页面上，您将找到要添加的 EPG 代码列表，而不是“EPGcode”，或者如果没有可用于特定频道的 EPG 代码，则输入“ext”。频道名称后的“en”表示首选音轨（适用于 LG 电视）。行尾的“1”表示此特定通道上有可用的时移。“avi”用于视频文件和其他视频资源（Youtube，Vkontakte）。组名称后的“1234”设置整个组的家长代码。
@@ -80,8 +80,8 @@
   * 在TXT列表中的示例
   
   ```txt
-    avi,Video pro Zajchika,<http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4>
-    avi,Music 1,<http://siptv.eu/temp/malandra.mp3>
+  avi,Video pro Zajchika,<http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4>
+  avi,Music 1,<http://siptv.eu/temp/malandra.mp3>
   ```
 
 ## 交流
