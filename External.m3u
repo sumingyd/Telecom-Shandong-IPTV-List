@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,tvg-id="河南4K" tvg-name="河南4K" tvg-logo="https://epg.112114.xyz/logo/河南4K.png" group-title="河南",河南4K
+#EXTINF:-1,tvg-id="河南4K" tvg-name="河南4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南4K.png" group-title="河南",河南4K
 http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 #EXTINF:-1,tvg-id="4K影视" tvg-name="4K影视" tvg-logo="https://epg.112114.xyz/logo/4K影视.png" group-title="广东",4K影视
 http://nas.jdshipin.com:8801/4kys.php
