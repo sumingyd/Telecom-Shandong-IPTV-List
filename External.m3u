@@ -1,46 +1,72 @@
 ﻿#EXTM3U
 #EXTINF:-1,tvg-id="河南4K" tvg-name="河南4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南4K.png" group-title="河南",河南4K
 http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+
+
 #EXTINF:-1,tvg-id="4K影视" tvg-name="4K影视" tvg-logo="https://epg.112114.xyz/logo/4K影视.png" group-title="广东",4K影视
 http://nas.jdshipin.com:8801/4kys.php
+
+
 #EXTINF:-1,tvg-id="江苏8K" tvg-name="江苏8K" tvg-logo="https://epg.112114.xyz/logo/江苏8K.png" group-title="江苏",江苏8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="苏州",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 https://live.goodiptv.club/api/sxg.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 https://live.goodiptv.club/api/sxg.php?id=test2_4000
+
+
 #EXTINF:-1,tvg-id="BESTV4K" tvg-name="BESTV4K" tvg-logo="https://epg.112114.xyz/logo/BESTV4K.png" group-title="百视通",BESTV4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+
+
 #EXTINF:-1,tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://epg.112114.xyz/logo/华数精彩影视.png" group-title="华数",华数精彩影视
 http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
+
+
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="爱上",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+
+
 #EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="移动",咪咕体育
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="移动",咪咕体育
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+
+
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="其他",4K超高清电影
 https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
+
+
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海",新视觉
 https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",SITV劲爆体育
 https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="上海",欢笑剧场
 https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
+
+
 #EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="北京",纪实科教
 http://159.75.85.63:6798
+
+
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="广电",CHC动作电影
 https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="广电",CHC高清电影
 https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="广电",CHC家庭影院
 https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
+
+
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
 #EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
+
+
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV8K
