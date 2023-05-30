@@ -111,9 +111,9 @@ http://150.138.8.143/00/SNM/CHANNEL00001044/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001105/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://150.138.8.143/00/SNM/CHANNEL00000026/index.m3u8
-#EXTINF:-1,tvg-id="聊城民生" tvg-name="聊城民生" tvg-logo="https://epg.112114.xyz/logo/聊城民生.png" group-title="其他",聊城民生
+#EXTINF:-1,tvg-id="聊城民生" tvg-name="聊城民生" tvg-logo="https://upload.112114.xyz/logo/LCTVGQ.png" group-title="其他",聊城民生
 http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
-#EXTINF:-1,tvg-id="聊城综合" tvg-name="聊城综合" tvg-logo="https://epg.112114.xyz/logo/聊城综合.png" group-title="其他",聊城综合
+#EXTINF:-1,tvg-id="聊城综合" tvg-name="聊城综合" tvg-logo="https://upload.112114.xyz/logo/LCTVGQ.png" group-title="其他",聊城综合
 http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
 #EXTINF:-1,tvg-id="蒙阴综合" tvg-name="蒙阴综合" tvg-logo="https://epg.112114.xyz/logo/蒙阴综合.png" group-title="其他",蒙阴综合
 http://150.138.8.143/00/SNM/CHANNEL00001031/index.m3u8

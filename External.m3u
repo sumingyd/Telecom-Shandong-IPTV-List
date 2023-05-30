@@ -3,13 +3,13 @@
 http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 
 
-#EXTINF:-1,tvg-id="4K影视" tvg-name="4K影视" tvg-logo="https://epg.112114.xyz/logo/4K影视.png" group-title="广东",4K影视
+#EXTINF:-1,tvg-id="4K影视" tvg-name="4K影视" tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="广东",4K影视
 http://nas.jdshipin.com:8801/4kys.php
 
 
-#EXTINF:-1,tvg-id="江苏8K" tvg-name="江苏8K" tvg-logo="https://epg.112114.xyz/logo/江苏8K.png" group-title="江苏",江苏8K
+#EXTINF:-1,tvg-id="江苏8K" tvg-name="江苏8K" tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="江苏",江苏8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="江苏",苏州4K
+#EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="江苏",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 
@@ -23,8 +23,7 @@ https://live.goodiptv.club/api/sxg.php?id=test2_4000
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 
 
-#EXTINF:-1,tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://epg.112114.xyz/logo/华数精彩影视.png" group-title="华数",华数精彩影视
-http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
+
 
 
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="爱上",爱上4K
@@ -69,12 +68,23 @@ http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K-2ch" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" group-title="央视",CCTV4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K-6ch" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
+https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K-50P-6ch" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
+https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
+
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png"  group-title="央视",CCTV16
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视",CCTV世界地理
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场

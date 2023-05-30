@@ -140,6 +140,8 @@ http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
 http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
 
+#EXTINF:-1,tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png" group-title="华数",华数精彩影视
+http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="山东",山东教育
 http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8

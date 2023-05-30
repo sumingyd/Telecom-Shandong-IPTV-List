@@ -57,6 +57,8 @@ http://150.138.8.143/00/SNM/CHANNEL00001015/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶
 http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1,tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png" group-title="华数",华数精彩影视
+http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 #EXTINF:-1,tvg-id="昌乐综合" tvg-name="昌乐综合" tvg-logo="https://epg.112114.xyz/logo/昌乐综合.png" group-title="其他",昌乐综合
 http://150.138.8.143/00/SNM/CHANNEL00001033/index.m3u8
 #EXTINF:-1,tvg-id="昌邑综合" tvg-name="昌邑综合" tvg-logo="https://epg.112114.xyz/logo/昌邑综合.png" group-title="其他",昌邑综合
