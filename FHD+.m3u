@@ -205,19 +205,19 @@ http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1,tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="https://upload.112114.xyz/logo/SDJJGWGQ.png" group-title="山东",山东居家购物
 http://150.138.8.143/00/SNM/CHANNEL00000700/index.m3u8
-#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" group-title="山东",山东农科
+#EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://upload.112114.xyz/logo/SDNKGQ.png" group-title="山东",山东农科
 http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
 #EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" group-title="山东",山东少儿
 http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 #EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" group-title="山东",山东生活
 http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://upload.112114.xyz/logo/SDTYGQ.png" group-title="山东",山东体育
 http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://epg.112114.xyz/logo/山东文旅.png" group-title="山东",山东文旅
 http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://upload.112114.xyz/logo/SDXWGQ.png" group-title="山东",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" group-title="山东",山东综艺
 http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8

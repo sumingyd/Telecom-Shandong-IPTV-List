@@ -36,7 +36,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
 
-#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="其他",4K超高清电影
+#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="其他",4K超高清电影
 https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 
 
