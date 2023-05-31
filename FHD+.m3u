@@ -203,7 +203,7 @@ http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001049/index.m3u8
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="山东",山东教育
 http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
-#EXTINF:-1,tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="https://epg.112114.xyz/logo/山东居家购物.png" group-title="山东",山东居家购物
+#EXTINF:-1,tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="https://upload.112114.xyz/logo/SDJJGWGQ.png" group-title="山东",山东居家购物
 http://150.138.8.143/00/SNM/CHANNEL00000700/index.m3u8
 #EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" group-title="山东",山东农科
 http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
