@@ -33,6 +33,7 @@
 | 名称 | 地址 |
 |:--------:|:-------------|
 | 112114 | `https://epg.112114.xyz/pp.xml` |
+| 老张：总表 | `http://epg.51zmt.top:8000/e.xml` |
 | 老张：央视 | `http://epg.51zmt.top:8000/cc.xml` |
 | 老张：地方 | `http://epg.51zmt.top:8000/difang.xml` |
 | epg.pw | `https://epg.pw/xmltv/epg_CN.xml` |
@@ -40,7 +41,7 @@
 | iptv-org | `https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/main/epg/epg.xml` |
 
 * EGP工具
-  * 1.[WebGrab+Plus](http://webgrabplus.com/download)
+  * 1.[WebGrab+Plus](http://webgrabplus.com/download)  根据编写的规则采集设定的节目表，自定义频道名称及频道代码
   * 2.[老张的EPG开源仓库](https://github.com/supzhang/epg)
 
 * 播放工具
