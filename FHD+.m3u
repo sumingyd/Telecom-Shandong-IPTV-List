@@ -221,6 +221,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" group-title="山东",山东综艺
 http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
+http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
 #EXTINF:-1,tvg-id="莘县综合" tvg-name="莘县综合" tvg-logo="https://epg.112114.xyz/logo/莘县综合.png" group-title="其他",莘县综合
 http://150.138.8.143/00/SNM/CHANNEL00001047/index.m3u8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
