@@ -140,7 +140,7 @@ http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
 http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
 
-#EXTINF:-1,tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png" group-title="华数",华数精彩影视
+#EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png" group-title="华数",精彩影视
 http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
 
 #EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
@@ -167,7 +167,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
 
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
 http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="湖南",快乐垂钓
 http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
