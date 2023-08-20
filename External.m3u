@@ -42,9 +42,9 @@ https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海",新视觉
 https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",SITV劲爆体育
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育
 https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
-#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="上海",欢笑剧场
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="上海",欢笑剧场
 https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
 
 
