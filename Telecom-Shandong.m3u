@@ -7,9 +7,9 @@ http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="国际",CCTV4
 http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="国际",CCTV4美洲
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="国际",CCTV4美洲
 http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="国际",CCTV4欧洲
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="国际",CCTV4欧洲
 http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="体育",CCTV5
 http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
