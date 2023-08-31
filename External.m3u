@@ -47,13 +47,13 @@ https://epg.pw/stream/af26c155f9b348cd59a266d18e6126b17990bb01727943725ffd5db1e6
 https://epg.pw/stream/ff837ee7722597868a6f15730d21f0376008c56c2f13fd8aec74188951bc5cc4.m3u8
 https://epg.pw/stream/a53d5c50f7c1f6b719e764499ce8dc3e237d5181c99909a81335a8432b3c3300.m3u8
 https://epg.pw/stream/9cf2ffb032e766a318ceff8d3ab49fced2cf1e67e3ac00bde8e4999cbdddc7e9.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="CCTV世界地理" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="纪实",cctv世界地理
+#EXTINF:-1,tvg-id="" tvg-name="CCTV世界地理" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="纪录",cctv世界地理
 https://epg.pw/stream/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.m3u8
 https://epg.pw/stream/4c08eb609037ecf33e462c54898a966a5bfd28aebd3af444700bb5d28b7a9eb2.m3u8
 https://epg.pw/stream/358c344c1af20b282dd61d667aa425557f3c4d9627f406d70d2506e11e859f19.m3u8
 https://epg.pw/stream/6716f16d770e07857dd79880ba4eac8be33b12152aa02723f9b13fb5f6486dca.m3u8
 https://epg.pw/stream/cb402f7e73371e08e6c27b6ce738b72b1e87147d1568cc311605d7d35c608fb5.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="CCTV兵器科技" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/09/07/large/20220907145715165993_14.jpg" group-title="新闻",cctv兵器科技
+#EXTINF:-1,tvg-id="" tvg-name="CCTV兵器科技" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/09/07/large/20220907145715165993_14.jpg" group-title="军事",cctv兵器科技
 https://epg.pw/stream/33adc72bf5c5ca3b3e4e60a8207ffbeb1bff76fd2fa3737a54fba7bd10c39457.m3u8
 https://epg.pw/stream/61f07018947bc29ab5c6047687a17e42da80f2941a3b36b3d22fff234caf75e0.m3u8
 https://epg.pw/stream/a30b4450fac84ae0006a2cffa2ef1d9c9c149918a0d2803a47f3fe74f026f7fa.m3u8
@@ -86,13 +86,13 @@ https://epg.pw/stream/5c6c71d736c0da318cb2bfc204fa6b6178c538be7662570d3c3c736759
 https://epg.pw/stream/d29ad7a1fd6a37b45f04405d07a922a8a058079d5a1ddadd81b97feeba8d52ee.ctv
 https://epg.pw/stream/a17012982647a679d0fddc6109cac2f40bb352faec52b23e43b42e6259c7ff38.ctv
 https://epg.pw/stream/5d80fd9aaf16277b9eb0fa99bfd64147f081933b283c476a6bd3a940a6a21bcc.ctv
-#EXTINF:-1,tvg-id="" tvg-name="黑莓动画" tvg-country="黑莓" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023213408565799_97.png" group-title="动画",黑莓动画
+#EXTINF:-1,tvg-id="" tvg-name="黑莓动画" tvg-country="黑莓" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023213408565799_97.png" group-title="少儿",黑莓动画
 https://epg.pw/stream/45813b437b496af365b98b5b50b7bec13f152ff9fb879a54eac30751384d665d.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="黑莓电影" tvg-country="黑莓" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/06/02/large/20220602010032742180_80.PNG" group-title="电影",黑莓电影
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
-#EXTINF:-1,tvg-id="CCTV America" tvg-name="CGTN America" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514164617689284_21.jpg" group-title="綜合",cgnc america
+#EXTINF:-1,tvg-id="CCTV America" tvg-name="CGTN America" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514164617689284_21.jpg" group-title="综合",cgnc america
 https://epg.pw/stream/c46a192587b19d869f31798fc6ff0896027a95d41be1940d8cb564feb73b553a.m3u8
-#EXTINF:-1,tvg-id="石狮综合" tvg-name="石狮综合" tvg-country="福建" tvg-language="cn" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/07/20180207114610852316_67.jpg" group-title="新闻",石狮综合
+#EXTINF:-1,tvg-id="石狮综合" tvg-name="石狮综合" tvg-country="福建" tvg-language="cn" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/07/20180207114610852316_67.jpg" group-title="综合",石狮综合
 https://epg.pw/stream/f3d493eab7bcf74dd8c8c6b098009246409f2c23b95d46466bcb488918605573.m3u8
 https://epg.pw/stream/e57ff89d61689ee5bc07eba9fe1cc46570a4c45532ff44b4df6b24e99549dd20.m3u8
 https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8
@@ -126,21 +126,21 @@ https://epg.pw/stream/d6cffd85a1631f31ae18fce3348b70c6b0d02baab84d569f52b279f75e
 https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV精品大剧" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235206673137_73.jpg" group-title="电影",newtv精品大剧
 https://epg.pw/stream/e4d84269860ab91f3eecc82bfa9f2c17c70877716b1ebe2f198c8bd24f7bc2c1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="NEWTV精品纪录" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="紀實",newtv精品纪录
+#EXTINF:-1,tvg-id="" tvg-name="NEWTV精品纪录" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235041244438_67.jpg" group-title="纪录",newtv精品纪录
 https://epg.pw/stream/374fbb6af3d2b6756d7ac0bbf5c22d7f88f2c459004eb6474b6b5f0747f9cfb7.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="NEWTV精品体育" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="運動",newtv精品体育
+#EXTINF:-1,tvg-id="" tvg-name="NEWTV精品体育" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234955687637_29.jpg" group-title="体育",newtv精品体育
 https://epg.pw/stream/d057acbad8a13889c27b858257a7ea1791caf9409afc026a8f83f279c00d9a45.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="NEWTV军事评论" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234703125327_15.jpg" group-title="綜合",newtv军事评论
+#EXTINF:-1,tvg-id="" tvg-name="NEWTV军事评论" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234703125327_15.jpg" group-title="军事",newtv军事评论
 https://epg.pw/stream/b3630c7c7f96db992e6c3eb275ec54939e99ddf7bf07bdb9ab2808c9e1a0131b.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV军旅剧场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234750508909_28.jpg" group-title="电影",newtv军旅剧场
 https://epg.pw/stream/189da59a4ede23964b9effa3cfb8a7a77da2a8c6d5d4bcfd6ebb82c7d92f3049.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="NEWTV农业致富" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234612278607_21.jpg" group-title="其它",newtv农业致富
+#EXTINF:-1,tvg-id="" tvg-name="NEWTV农业致富" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234612278607_21.jpg" group-title="农业",newtv农业致富
 https://epg.pw/stream/bd6594ad39864c74c31e049db66c2249843bda5fb3a1f3f943d25d4a0c09c099.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="NEWTV金牌综艺" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="綜藝",newtv金牌综艺
+#EXTINF:-1,tvg-id="" tvg-name="NEWTV金牌综艺" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235341847929_44.jpg" group-title="综艺",newtv金牌综艺
 https://epg.pw/stream/d4388d0883822c943bfd9c08204f99d0bb0607a81b2b207ffcb104ee82038496.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV惊悚悬疑" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235315812804_65.jpg" group-title="电影",newtv惊悚悬疑
 https://epg.pw/stream/36c7b460935f92b0104ebbabd0d92689e91f568f0bf4910f29f8967d668d3742.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="动漫秀场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="動畫",动漫秀场
+#EXTINF:-1,tvg-id="" tvg-name="动漫秀场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿",动漫秀场
 https://epg.pw/stream/7ba0752683fc49f8715081030b98293d59722fba7329d74f5e92db6f367f2d73.ctv
 https://epg.pw/stream/e7836c68b7a5b5d2523af6c3df0d61ab62c53619cc6dd9d37a403ad8ed03f09e.ctv
 #EXTINF:-1,tvg-id="14178" tvg-name="欢笑剧场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="电影",欢笑剧场
