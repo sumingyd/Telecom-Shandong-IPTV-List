@@ -1,4 +1,51 @@
 ﻿#EXTM3U
+#EXTINF:-1,tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510151943942201_83.jpg" group-title="指南",[BD]cctv电视指南
+https://epg.pw/stream/0eac2bb1c60dba21c4ae9382ac72ef178f949ff7fd2eac315979568177da3b78.m3u8
+https://epg.pw/stream/2ab97656754af14c8056f7ec30e573a840435a49ee3c027191471870e22bf38e.m3u8
+https://epg.pw/stream/f43a5f43056bfc2f1cffa97b1400753eecb5494afd35e995332d1d06fb36e839.m3u8
+#EXTINF:-1,tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/09/07/large/20220907150153591598_13.jpg" group-title="电影",[BD]cctv第一剧场
+https://epg.pw/stream/1704100d96c300ab75d4f7eb5f6dfec1b469761388518728ff27a9d9a9ddd6f0.m3u8
+https://epg.pw/stream/cb982cd11c33a7a3e1d619ce2102da800017b9f7fb68d29127d819e501cd2da6.m3u8
+https://epg.pw/stream/aee54e567e9fdf8437da935928853b1c355c3702ccac7ccd9bd5df0d0f8b3ba2.m3u8
+https://epg.pw/stream/40692b686ff75eb93c9981fd2ba64b2eb39f083a40cdd4ceafb09987d68cda43.m3u8
+https://epg.pw/stream/27b467f0661ad04238637f2c16bdcf999aa2287b4be476bb41d7d16a3faeda89.m3u8
+#EXTINF:-1,tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509160609659886_36.jpg" group-title="电影",[BD]cctv怀旧剧场
+https://epg.pw/stream/6c6274d39558ce249a0c06807cb22de4667d87352c911ddc73523ba9512000b4.m3u8
+https://epg.pw/stream/a492100558f20bdd2e34a38432f0791f7a01e7388e0cd765bb9421e2fa6cb460.m3u8
+https://epg.pw/stream/6d9064b5efa7998474072f1ba5037695e9488645e804a90cbd39836b3299a746.m3u8
+https://epg.pw/stream/fd21d1a6d16e9a73c649585b539a9c75d1af788c327cc6f8324f48e01c71cd28.m3u8
+https://epg.pw/stream/3d4d3a15da9c104bf983385e4e6b6e08fd99401f9311beca720019fef2373146.m3u8
+#EXTINF:-1,tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510005553168659_67.jpg" group-title="电影",[BD]cctv风云剧场
+https://epg.pw/stream/40f15cd72d07b00866a91897b110af982ac0a3b184a286a8d5e3ee7d6a41407d.m3u8
+https://epg.pw/stream/73f6718206f73fd4f815adc4982f777c072ca82d50061ae5f8a883f0f39204dd.m3u8
+https://epg.pw/stream/7d14794957c74aa7600cceab4c4016b55afdf1f1368d309b0e22bf9d6817ea56.m3u8
+https://epg.pw/stream/10e5f33490120d5cfa2524f5adf036761de4cd0f35a9190c98b4a14d29b0b6d1.m3u8
+https://epg.pw/stream/284b1db45cd64bd9930292f77c2465bc2e9743920a63b015b42d44edd99d353d.m3u8
+#EXTINF:-1,tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145757792204_59.jpg" group-title="音乐",[BD]cctv风云音乐
+https://epg.pw/stream/917602897336376a3d95f7fe2cd16a84e28560b41db38f6d7194a95839dc4f25.m3u8
+https://epg.pw/stream/f2a250baee1a3686b366ffce49911bbb18ce84c37a8fc56b280eafc1a0d00e12.m3u8
+https://epg.pw/stream/28851410aff600c3e344f196208104df71c301c8ab41f7abcf13f878e9a1bdaf.m3u8
+https://epg.pw/stream/01aa9debf2a0e7c2e3d3a1d3379e49742161f5572cf6184982c6325c1ae139c7.m3u8
+#EXTINF:-1,tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="体育",[BD]cctv风云足球
+https://epg.pw/stream/24e1a5e51acf153b47d1fbb9145f4ecaf442240be5afba3e73c69c4f59c60d58.m3u8
+https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.ctv
+#EXTINF:-1,tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719080954593981_50.png" group-title="体育",[BD]cctv高尔夫网球
+https://epg.pw/stream/a459efd631c3b57f1b99284c34beeb6e7e0f4d3dc2e09e585fa3c3326b5e1169.m3u8
+https://epg.pw/stream/7d237fe94a86f6d01862aa57ac2436a9a64b921bc220468be1a4c9d958e3ff3f.ctv
+https://epg.pw/stream/b6a7ba859b80c8ba06ddb32a07d1a0b5b3e4f51178f6d76fa78740a47c6ca601.m3u8
+#EXTINF:-1,tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510170002648380_81.jpg" group-title="生活",[BD]cctv女性时尚
+https://epg.pw/stream/0adc7e1fb328377bdb27752af3507e1249c195ef8253c89163618579cbc8115e.m3u8
+https://epg.pw/stream/10da2dc5e9d3396c98cb7c8ac54922e6fccc9c6a0bdf20f13b00b81e2038f4b1.m3u8
+https://epg.pw/stream/79495f0f8aac2d56d4fb4e8f7dc909213a74f2e78ae828dc9c66d4d2e8b349c1.m3u8
+https://epg.pw/stream/1a6fd0de3d6a619d91cee90abe9bc11300943241094508ba6ba2a0b84bd29906.m3u8
+https://epg.pw/stream/a533315333e1bc3b683d5315e0a3ce8fb44bb8d5a84ce84064ee760f7aa209ae.m3u8
+#EXTINF:-1,tvg-id="CCTV America" tvg-name="CGTN America" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514164617689284_21.jpg" group-title="綜合",cgnc america
+https://epg.pw/stream/c46a192587b19d869f31798fc6ff0896027a95d41be1940d8cb564feb73b553a.m3u8
+#EXTINF:-1,tvg-id="石狮综合" tvg-name="石狮综合" tvg-country="福建" tvg-language="cn" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/07/20180207114610852316_67.jpg" group-title="新闻",石狮综合
+https://epg.pw/stream/f3d493eab7bcf74dd8c8c6b098009246409f2c23b95d46466bcb488918605573.m3u8
+https://epg.pw/stream/e57ff89d61689ee5bc07eba9fe1cc46570a4c45532ff44b4df6b24e99549dd20.m3u8
+https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8
+
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
