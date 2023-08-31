@@ -140,10 +140,10 @@ https://epg.pw/stream/bd6594ad39864c74c31e049db66c2249843bda5fb3a1f3f943d25d4a0c
 https://epg.pw/stream/d4388d0883822c943bfd9c08204f99d0bb0607a81b2b207ffcb104ee82038496.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV惊悚悬疑" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235315812804_65.jpg" group-title="电影",newtv惊悚悬疑
 https://epg.pw/stream/36c7b460935f92b0104ebbabd0d92689e91f568f0bf4910f29f8967d668d3742.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="动漫秀场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117013938416746_18.jpg" group-title="動畫",动漫秀场
+#EXTINF:-1,tvg-id="" tvg-name="动漫秀场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="動畫",动漫秀场
 https://epg.pw/stream/7ba0752683fc49f8715081030b98293d59722fba7329d74f5e92db6f367f2d73.ctv
 https://epg.pw/stream/e7836c68b7a5b5d2523af6c3df0d61ab62c53619cc6dd9d37a403ad8ed03f09e.ctv
-#EXTINF:-1,tvg-id="14178" tvg-name="欢笑剧场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605005937539488_31.jpg" group-title="电影",欢笑剧场
+#EXTINF:-1,tvg-id="14178" tvg-name="欢笑剧场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="电影",欢笑剧场
 https://epg.pw/stream/4e9f40b3cb33dc69757ebed15001d939ce2a2410120779c0aac6694b3d8c8581.ctv
 https://epg.pw/stream/5f24e6627a364297a03cf77248ca7240db02362dc0b9ee48c37ea86b9a790ee9.ctv
 https://epg.pw/stream/3aa8e676f4d9d2c5d690881ef9ae4b278e6d9291d1b62c30df8369558ffd56af.m3u8
