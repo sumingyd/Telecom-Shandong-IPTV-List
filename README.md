@@ -36,7 +36,9 @@
 | 老张：总表 | `http://epg.51zmt.top:8000/e.xml` |
 | 老张：央视 | `http://epg.51zmt.top:8000/cc.xml` |
 | 老张：地方 | `http://epg.51zmt.top:8000/difang.xml` |
-| epg.pw | `https://epg.pw/xmltv/epg_CN.xml` |
+| fanmingming | `https://live.fanmingming.com/e.xml` |
+| epg.pw：总表 | `https://epg.pw/xmltv/epg.xml` |
+| epg.pw：中国 | `https://epg.pw/xmltv/epg_CN.xml` |
 | bevy.be | `https://www.bevy.be/bevyfiles/chinapremium1.xml` |
 | iptv-org | `https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/main/epg/epg.xml` |
 
