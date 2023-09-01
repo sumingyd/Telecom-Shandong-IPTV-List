@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1,tvg-id="CCTV America" tvg-name="CGTN America" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514164617689284_21.jpg" group-title="综合",cgnc america
+https://epg.pw/stream/c46a192587b19d869f31798fc6ff0896027a95d41be1940d8cb564feb73b553a.m3u8
 #EXTINF:-1,tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510151943942201_83.jpg" group-title="指南",[BD]cctv电视指南
 https://epg.pw/stream/0eac2bb1c60dba21c4ae9382ac72ef178f949ff7fd2eac315979568177da3b78.m3u8
 https://epg.pw/stream/2ab97656754af14c8056f7ec30e573a840435a49ee3c027191471870e22bf38e.m3u8
@@ -64,12 +66,7 @@ https://epg.pw/stream/fc9e6464703a5fbef5971a902e635852dcad1a16b136419996d6898fce
 https://epg.pw/stream/8b0f33d962813be8dc67aa3500caa513dc8b4734c6686733b1373c36bef5adba.m3u8
 https://epg.pw/stream/dbc8d3dff6d2e0de3e07bf4ba9dd5ba3dc28873c216207cd91c04bbfa67fcccf.m3u8
 https://epg.pw/stream/d105843f7ab7a4cc26bfa6ab9ee4aa8bf0dd1bd43f272b219ee041cd77d6505f.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="CHC家庭影院" tvg-country="chc" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="电影",chc家庭影院
-https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
-https://epg.pw/stream/55aef73b39d667f57e837970d095e74a1d32936c80e59d1ded1c36731a7a72af.m3u8
-https://epg.pw/stream/83dcfd5396679fa0e6cd556935390d81feb0ef64a122005e24cd18a288b766fd.m3u8
-https://epg.pw/stream/44b61f89ee09badf9fc66465a06dab496c57bf97c884a46fb1c4b1dba3ba50c9.m3u8
-https://epg.pw/stream/17c3bf37f4426997ae0183fc051c00714ba0515dc2d8242a9cfe0edf053425d7.m3u8
+
 #EXTINF:-1,tvg-id="" tvg-name="熊猫频道" tvg-country="四川" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827034357938063_61.png" group-title="熊猫",熊猫频道
 https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8
 https://epg.pw/stream/8c0bf084c0febf264dd37e55b3bdcef49b8aeee0753746fb7080c1b62704c954.m3u8
@@ -77,8 +74,7 @@ https://epg.pw/stream/3a3cd6889c336a75c3e5ef438e68f6300bf99e792c1eb9878986aad540
 https://epg.pw/stream/b11d52ba144775d985b6c6d75c86e939371511cc3c4eb87d13fe8ccdd6d7c83a.m3u8
 https://epg.pw/stream/022258a607fafca911090b0d4965183c989f306f93ac12b3d1e8d58f78f511e7.m3u8
 https://epg.pw/stream/d27c84b576c0035f532041cb949d7d6dfaf4883bcfade11ec9d378882d35fa36.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="newtv武搏世界" tvg-country="河南" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531232150730728_62.jpg" group-title="武术",newtv武搏世界
-https://epg.pw/stream/cb903f753983584eda87b8ad27daf481cdd0172fd56c4842d6f36103d64b4145.m3u8
+
 #EXTINF:-1,tvg-id="13917" tvg-name="电竞天堂" tvg-country="电竞" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205522829151_28.png" group-title="游戏",电竞天堂
 https://epg.pw/stream/ab33c796383e43d67d2895c99ba4399302aaa6a3ee84dec557bcc0d8b6934150.ctv
 #EXTINF:-1,tvg-id="" tvg-name="魅力足球" tvg-country="足球" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2020/03/28/large/20200328131601312895_59.PNG" group-title="体育",魅力足球
@@ -90,14 +86,14 @@ https://epg.pw/stream/5d80fd9aaf16277b9eb0fa99bfd64147f081933b283c476a6bd3a940a6
 https://epg.pw/stream/45813b437b496af365b98b5b50b7bec13f152ff9fb879a54eac30751384d665d.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="黑莓电影" tvg-country="黑莓" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/06/02/large/20220602010032742180_80.PNG" group-title="电影",黑莓电影
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
-#EXTINF:-1,tvg-id="CCTV America" tvg-name="CGTN America" tvg-country="央视" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514164617689284_21.jpg" group-title="综合",cgnc america
-https://epg.pw/stream/c46a192587b19d869f31798fc6ff0896027a95d41be1940d8cb564feb73b553a.m3u8
-#EXTINF:-1,tvg-id="石狮综合" tvg-name="石狮综合" tvg-country="福建" tvg-language="cn" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/07/20180207114610852316_67.jpg" group-title="综合",石狮综合
-https://epg.pw/stream/f3d493eab7bcf74dd8c8c6b098009246409f2c23b95d46466bcb488918605573.m3u8
-https://epg.pw/stream/e57ff89d61689ee5bc07eba9fe1cc46570a4c45532ff44b4df6b24e99549dd20.m3u8
-https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8
 
 
+#EXTINF:-1,tvg-id="" tvg-name="CHC家庭影院" tvg-country="chc" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204118595367_23.png" group-title="电影",chc家庭影院
+https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
+https://epg.pw/stream/55aef73b39d667f57e837970d095e74a1d32936c80e59d1ded1c36731a7a72af.m3u8
+https://epg.pw/stream/83dcfd5396679fa0e6cd556935390d81feb0ef64a122005e24cd18a288b766fd.m3u8
+https://epg.pw/stream/44b61f89ee09badf9fc66465a06dab496c57bf97c884a46fb1c4b1dba3ba50c9.m3u8
+https://epg.pw/stream/17c3bf37f4426997ae0183fc051c00714ba0515dc2d8242a9cfe0edf053425d7.m3u8
 #EXTINF:-1,tvg-id="14047" tvg-name="CHC动作电影" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720204146046493_74.png" group-title="电影",chc动作电影
 https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.ctv
 https://epg.pw/stream/3ff20e8fa9db519981f1c4b9e142799416d9d9363fa816fbb870c1d09567caf4.m3u8
@@ -112,6 +108,9 @@ https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e2009cdd68af5367692b
 https://epg.pw/stream/d4703859b24d2e5efe98e722405d110e11df64ac629948839da9e86649648465.m3u8
 https://epg.pw/stream/d395483979a7e9025cb58bb0edb1acc4674620419d928202014f223505c2a693.m3u8
 https://epg.pw/stream/fd7ad4af7e2d14c3f7ab037194078ce77bba37d8d488bc10d8395435b60b106f.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="newtv武搏世界" tvg-country="河南" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531232150730728_62.jpg" group-title="武术",newtv武搏世界
+https://epg.pw/stream/cb903f753983584eda87b8ad27daf481cdd0172fd56c4842d6f36103d64b4145.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV中国功夫" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531234525119397_36.jpg" group-title="武术",newtv中国功夫
 https://epg.pw/stream/2f36a0fe1806b3b1d504e8b471067be0d893f2df95003116a1f9d32651cb5779.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV动作电影" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531233118474491_96.jpg" group-title="电影",newtv动作电影
@@ -140,6 +139,9 @@ https://epg.pw/stream/bd6594ad39864c74c31e049db66c2249843bda5fb3a1f3f943d25d4a0c
 https://epg.pw/stream/d4388d0883822c943bfd9c08204f99d0bb0607a81b2b207ffcb104ee82038496.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV惊悚悬疑" tvg-country="大陆" tvg-language="cn" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531235315812804_65.jpg" group-title="电影",newtv惊悚悬疑
 https://epg.pw/stream/36c7b460935f92b0104ebbabd0d92689e91f568f0bf4910f29f8967d668d3742.m3u8
+
+
+
 #EXTINF:-1,tvg-id="" tvg-name="动漫秀场" tvg-country="大陆" tvg-language="cn" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿",动漫秀场
 https://epg.pw/stream/7ba0752683fc49f8715081030b98293d59722fba7329d74f5e92db6f367f2d73.ctv
 https://epg.pw/stream/e7836c68b7a5b5d2523af6c3df0d61ab62c53619cc6dd9d37a403ad8ed03f09e.ctv
@@ -168,5 +170,5 @@ http://nas.jdshipin.com:8801/4kys.php
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1,tvg-id="BTV纪实科教" tvg-name="BTV纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="8K",BTV纪实科教-8KSDR源
 http://159.75.85.63:6798
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="4K",欢笑剧场4K银河源
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="4K",欢笑剧场4K银河源
 http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
