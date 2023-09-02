@@ -124,7 +124,7 @@ https://epg.pw/stream/d6cffd85a1631f31ae18fce3348b70c6b0d02baab84d569f52b279f75e
 https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="精品大剧" tvg-country="大陆" tvg-language="cn" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/精品大剧.png" group-title="电影",精品大剧
 https://epg.pw/stream/e4d84269860ab91f3eecc82bfa9f2c17c70877716b1ebe2f198c8bd24f7bc2c1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="精品纪录" tvg-country="大陆" tvg-language="cn" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/精品记录.png" group-title="纪录",精品纪录
+#EXTINF:-1,tvg-id="" tvg-name="精品纪录" tvg-country="大陆" tvg-language="cn" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/精品纪录.png" group-title="纪录",精品纪录
 https://epg.pw/stream/374fbb6af3d2b6756d7ac0bbf5c22d7f88f2c459004eb6474b6b5f0747f9cfb7.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="精品体育" tvg-country="大陆" tvg-language="cn" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/精品体育.png" group-title="体育",精品体育
 https://epg.pw/stream/d057acbad8a13889c27b858257a7ea1791caf9409afc026a8f83f279c00d9a45.m3u8
@@ -156,7 +156,7 @@ http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomai
 
 
 
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4k.png" group-title="4K",CCTV4K-25P-HLG源
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="4K",CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV8K.png" group-title="8K",CCTV8K
 http://159.75.85.63:8765/xxtv8k.php
