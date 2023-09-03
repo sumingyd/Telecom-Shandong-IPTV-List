@@ -54,14 +54,21 @@
 ## 播放列表中属性的说明
 
 * M3U结构
-  * tvg-id - EPG代码表中的频道代码
-  * tvg-name - EPG代码表中的频道名称
-  * group-title - 频道组名
-  * parent-code - 组的父代码
-  * audio-track - ISO 639-1 音轨代码 (仅限LG, [查看代码表](http://www.loc.gov/standards/iso639-2/php/code_list.php))
-  * tvg-logo - 大的频道徽标的路径，最小高度应为 48px
-  * tvg-logo-small - 小的方形频道徽标的路径，最小高度应为 48px（仅适用于最新的应用程序版本）
-  * timeshift, tvg-rec - 特定频道的时移可用性
+| 属性名称 | 解释 |
+|:--------:|:-------------|
+| tvg-id | 频道唯一ID |
+| tvg-name | 频道名称 |
+| group-title | 频道组名 |
+| tvg-chno | 频道号 |
+| parent-code | 组的父代码 |
+| tvg-country | 国家 |
+| tvg-language | 语言 |
+| audio-track | ISO 639-1 音轨代码 (仅限LG, [查看代码表](http://www.loc.gov/standards/iso639-2/php/code_list.php)) |
+| tvg-logo | 标准频道徽标，最小高度应为 48px |
+| tvg-logo-small | 小的方形频道徽标，最小高度应为 48px（仅适用于最新的应用程序版本） |
+| timeshift, tvg-rec | 特定频道的时移可用性 |
+| tvg-shift | 更换EPG的小时数 (仅在需要时使用) |
+
   * 示例：
   
     ```txt
