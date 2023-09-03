@@ -66,8 +66,8 @@
 | audio-track | ISO 639-1 音轨代码 (仅限LG, [查看代码表](http://www.loc.gov/standards/iso639-2/php/code_list.php)) |
 | tvg-logo | 标准频道徽标，最小高度应为 48px |
 | tvg-logo-small | 小的方形频道徽标，最小高度应为 48px（仅适用于最新的应用程序版本） |
-| timeshift, tvg-rec | 特定频道的时移可用性 |
 | tvg-shift | 更换EPG的小时数 (仅在需要时使用) |
+| timeshift, tvg-rec | 特定频道的时移可用性 |
 
   * 示例：
   
@@ -94,6 +94,19 @@
   avi,Video pro Zajchika,http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4
   avi,Music 1,http://siptv.eu/temp/malandra.mp3
   ```
+
+## 频道时移说明
+
+* 如果你是IPTV/OTT提供商，你可以通过以下方式实现存档节目支持:
+
+  * 在你的M3U播放列表中包含timshift="1"属性，以添加对特定频道的时移支持，其中1是该频道可用的时移天数。
+
+  * 使用添加到流URL中的Unix时间格式参数(以秒为单位)组织频道流上的时间提示。例如:`http://our.stream.url:8080/some_stream_info/?utc=1425988050& utc=1425988225`，其中utc=1425988050是星期二，2015年3月10日11:47:30 GMT的日期，当用户选择一些特定的程序使用EPG列表为当前的一天或过去的一天(最多15天)，这是由应用程序自动添加到URL的。另外，URL中还添加了另一个可选参数lutc=1425988225，用于指定当前时间。
+
+  * 您可以通过将完整的归档流URL加载到VLC应用程序来检查归档编程的功能，该应用程序应该在特定的时间提示开始。
+    * 使用[Epoch转换器](https://www.epochconverter.com/)找到必要的Unix时间。
+
+  * 如果你有一些特定的timeeshift URL配置为你的流，你可以通过基于服务器的脚本做必要的调整，以便当你从应用程序请求的URL中收到"utc="提示点时，输出必要的URL结构。
 
 ## 交流
 
