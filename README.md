@@ -4,9 +4,9 @@
 
 ## 更新时间记录
 
-* 2023.8.31
-  * 修改外部高清地址
-  * 按类别分类
+* 2023-9-5
+  * 去掉 External.m3u 中失效频道
+  * 增加 对应表.xlsx
 
 ## 说明
 
@@ -70,8 +70,8 @@
 | tvg-shift | 更换EPG的小时数 (仅在需要时使用) |
 | timeshift, tvg-rec | 特定频道的时移可用性 |
 
-  * 示例：
-  
+* 示例：
+
     ```txt
     #EXTM3U
     #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" parent-code="1234" audio-track="nl",Be1 Name
