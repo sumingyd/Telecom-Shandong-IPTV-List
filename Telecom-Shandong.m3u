@@ -107,7 +107,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
 
 
-#EXTINF:-1,tvg-id="中国交通频道" tvg-name="中国交通频道" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/中国交通.png" group-title="交通",中国交通
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/中国交通.png" group-title="交通",中国交通
 http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
 
 

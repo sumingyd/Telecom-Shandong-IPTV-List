@@ -160,7 +160,6 @@ http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomai
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV8K.png" group-title="8K",CCTV8K
 http://159.75.85.63:8765/xxtv8k.php
-#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV8K.png" group-title="8K",CCTV8K
 http://159.75.85.63:8654/xx8k50fps.php
 
 #EXTINF:-1,tvg-id="爱上4k" tvg-name="爱上4k" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/爱上4K.png" group-title="4K",爱上4k
