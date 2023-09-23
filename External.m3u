@@ -8,14 +8,15 @@ http://159.75.85.63:5679/cctv4k.php
 http://159.75.85.63:8765/xxtv8k.php
 http://159.75.85.63:8654/xx8k50fps.php
 
+
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV16.png" group-title="4K",CCTV16
+https://epg.pw/stream/70846dcbcb28d71716376a75c37cf0341a734642adc5287c23b6c0a4b5be7688.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV16.png" group-title="4K",CCTV16
 https://epg.pw/stream/9ceb47e6d090d78c186f70813cc11e2c0c44de2f76bb4127fb4f25360f2cef28.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV16.png" group-title="4K",CCTV16
 https://epg.pw/stream/08fd9ac3be284651d7b2a0852f70a45ee573d40577ca9bdeaaf4d1c93c5ad663.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV16.png" group-title="4K",CCTV16
 https://epg.pw/stream/fa32eaf33761d3aaec374ebe5267c62fffd0fb50a9ae367a2fff66cefbf3aad7.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV16.png" group-title="4K",CCTV16
-https://epg.pw/stream/70846dcbcb28d71716376a75c37cf0341a734642adc5287c23b6c0a4b5be7688.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV16.png" group-title="4K",CCTV16
 https://epg.pw/stream/73d351dd76259ef0ac4234627a86c6eeb09aabad0d1c944c8e1ebe35bff7f678.ctv
 
