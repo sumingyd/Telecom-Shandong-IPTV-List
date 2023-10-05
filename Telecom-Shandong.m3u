@@ -65,8 +65,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/安徽卫视.png" group-title="卫视",安徽卫视
 http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东卫视.png" group-title="卫视",山东卫视
-http://150.138.8.143/00/SNM/CHANNEL20000003/index.m3u8
+
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/深圳卫视.png" group-title="卫视",深圳卫视
 http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南卫视.png" group-title="卫视",河南卫视
@@ -153,7 +152,11 @@ http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 #EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东生活.png" group-title="生活",山东生活
 http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="体育",山东体育
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东卫视.png" group-title="卫视",山东卫视
+http://150.138.8.143/00/SNM/CHANNEL20000003/index.m3u8
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东卫视.png" group-title="卫视",山东卫视
+http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
+#EXTINF:-1,tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="体育",山东体育
 http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东文旅.png" group-title="纪录",山东文旅
 http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
