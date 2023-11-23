@@ -20,6 +20,8 @@
   * 1.`External.m3u` 外部资源，UHD+FUHD，已测试秒开
   * 2.`Telecom-Shandong.m3u` 自用，仅FHD及以上，去掉县台及购物台
   * 3.`对应表.xlsx`每次更新方便的，可无视。
+  * 4.`Unicom-Shandong.m3u` 仅限山东联通使用。
+  * 5.`Unicom-Shandong-Dongying.m3u` 仅限山东电信使用。
 
 ## 资源
 
