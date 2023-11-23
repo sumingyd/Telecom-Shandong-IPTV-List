@@ -35,7 +35,7 @@ http://222.134.240.136:9901/tsfile/live/0015_1.m3u8?url=tvzb.com
 http://222.134.240.136:9901/tsfile/live/1030_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东少儿.png" group-title="少儿",山东少儿
 http://222.134.240.136:9901/tsfile/live/1000_1.m3u8?url=tvzb.com
-#EXTINF:-1,tvg-id="山东影视" tvg-name="山东影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东影视.png" group-title="电影",山东影视
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东文旅.png" group-title="文旅",山东文旅
 http://222.134.240.136:9901/tsfile/live/1001_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东综艺.png" group-title="综艺",山东综艺
 http://222.134.240.136:9901/tsfile/live/1002_1.m3u8?url=tvzb.com
@@ -45,7 +45,7 @@ http://222.134.240.136:9901/tsfile/live/1003_1.m3u8?url=tvzb.com
 http://222.134.240.136:9901/tsfile/live/1073_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东农科.png" group-title="农业",山东农科
 http://222.134.240.136:9901/tsfile/live/1005_1.m3u8?url=tvzb.com
-#EXTINF:-1,tvg-id="山东公共" tvg-name="山东公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东公共.png" group-title="公共",山东公共
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png" group-title="新闻",山东新闻
 http://222.134.240.136:9901/tsfile/live/1004_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东齐鲁.png" group-title="生活",山东齐鲁
 http://222.134.240.136:9901/tsfile/live/1006_1.m3u8?url=tvzb.com
@@ -75,7 +75,7 @@ http://222.134.240.136:9901/tsfile/live/0142_1.m3u8?url=tvzb.com
 http://222.134.240.136:9901/tsfile/live/0135_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河北卫视.png" group-title="卫视",河北卫视
 http://222.134.240.136:9901/tsfile/live/0117_1.m3u8?url=tvzb.com
-#EXTINF:-1,tvg-id="旅游卫视" tvg-name="旅游卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/旅游卫视.png" group-title="卫视",旅游卫视
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/海南卫视.png" group-title="卫视",海南卫视
 http://222.134.240.136:9901/tsfile/live/0114_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/湖南卫视.png" group-title="卫视",湖南卫视
 http://222.134.240.136:9901/tsfile/live/0128_1.m3u8?url=tvzb.com
@@ -87,7 +87,7 @@ http://222.134.240.136:9901/tsfile/live/0124_1.m3u8?url=tvzb.com
 http://222.134.240.136:9901/tsfile/live/0130_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/东方卫视.png" group-title="卫视",东方卫视
 http://222.134.240.136:9901/tsfile/live/0107_1.m3u8?url=tvzb.com
-#EXTINF:-1,tvg-id="CETV" tvg-name="CETV" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CETV.png" group-title="教育部",CETV
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/中国教育1台.png" group-title="教育",中国教育1台
 http://222.134.240.136:9901/tsfile/live/1010_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/东方财经.png" group-title="财经",东方财经
 http://222.134.240.136:9901/tsfile/live/1011_1.m3u8?url=tvzb.com
@@ -103,10 +103,8 @@ http://222.134.240.136:9901/tsfile/live/1015_1.m3u8?url=tvzb.com
 http://222.134.240.136:9901/tsfile/live/1028_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/动漫秀场.png" group-title="动画",动漫秀场
 http://222.134.240.136:9901/tsfile/live/1029_1.m3u8?url=tvzb.com
-#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东教育卫视.png" group-title="教育",山东教育卫视
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东教育.png" group-title="教育",山东教育
 http://222.134.240.136:9901/tsfile/live/1043_1.m3u8?url=tvzb.com
-#EXTINF:-1,tvg-id="爱看4K" tvg-name="爱看4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/爱看4K.png" group-title="4K",爱看4K
-http://222.134.240.136:9901/tsfile/live/1054_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/金鹰纪实.png" group-title="纪实",金鹰纪实
 http://222.134.240.136:9901/tsfile/live/1074_1.m3u8?url=tvzb.com
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC家庭影院.png" group-title="电影",CHC家庭影院
