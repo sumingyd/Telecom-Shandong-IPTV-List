@@ -6,6 +6,10 @@ http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV8K.png" group-title="8K",CCTV8K
 http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV16.png" group-title="4K",CCTV16
-https://epg.pw/stream/08fd9ac3be284651d7b2a0852f70a45ee573d40577ca9bdeaaf4d1c93c5ad663.m3u8
+https://epg.pw/stream/e62d3772b51b3c72fb7a656b4f3668706059e412d51ef6cbecc6b1d67fced5a0.m3u8
+https://epg.pw/stream/a53d5c50f7c1f6b719e764499ce8dc3e237d5181c99909a81335a8432b3c3300.m3u8
+https://epg.pw/stream/af26c155f9b348cd59a266d18e6126b17990bb01727943725ffd5db1e63a8456.m3u8
+https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
+https://epg.pw/stream/2e4b122dcdbbeecd30ed99b9f8d9885a742a86b40fd29cc352a4cdc1a0b430b4.m3u8
 #EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/苏州4k.png" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
