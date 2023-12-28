@@ -52,7 +52,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN纪录.png" group-title="国际",CGTN纪录
 http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
 
-
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东卫视.png" group-title="卫视",山东卫视
+http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/浙江卫视.png" group-title="卫视",浙江卫视
 http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/湖南卫视.png" group-title="卫视",湖南卫视
@@ -65,7 +66,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/安徽卫视.png" group-title="卫视",安徽卫视
 http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
-
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/深圳卫视.png" group-title="卫视",深圳卫视
 http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南卫视.png" group-title="卫视",河南卫视
@@ -162,6 +162,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 #EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png" group-title="新闻",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png" group-title="新闻",山东新闻
+http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
 #EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东综艺.png" group-title="综艺",山东综艺
 http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
 #EXTINF:-1,tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/海洋频道.png" group-title="海洋",海洋频道
