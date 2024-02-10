@@ -4,8 +4,9 @@
 
 ## 时间
 
-* 2023年12月28日
-  * 更新山东卫视，sd+中增加几个山东频道
+* 2024年2月10日
+  * 增加山东电信组播频道，高清和标清频道分离
+  * 组播请自行更换IGMP代理。
 
 ## 说明
 
@@ -25,6 +26,8 @@
   * 6.`bak` 备份目录（之前更新过的文件，但不想再更新了，可用）
   * 7.`img` 台标目录
   * 8.`Telecom-Jiangsu-Multicast.m3u` 仅限江苏组播使用。
+  * 9.`Telecom-Shandong-Multicast.m3u` 自用，仅FHD及以上。
+  * 10.`Telecom-Shandong-Multicast-SD.m3u` 仅SD及以下。
 
 ## 资源
 
