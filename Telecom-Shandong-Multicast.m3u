@@ -120,7 +120,7 @@ http://192.168.50.1:20231/rtp/239.21.2.129:5002
 http://192.168.50.1:20231/rtp/239.21.1.115:5002
 #EXTINF:-1,tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/上海纪实人文.png" group-title="纪录",纪实人文
 http://192.168.50.1:20231/rtp/239.21.1.171:5002
-#EXTINF:-1 ,纪实科教[FHD]
+#EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/纪实科教.png" group-title="纪录",纪实科教
 http://192.168.50.1:20231/rtp/239.21.1.172:5002
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/都市剧场.png" group-title="电视剧",都市剧场
 http://192.168.50.1:20231/rtp/239.21.2.90:5002
@@ -138,15 +138,15 @@ http://192.168.50.1:20231/rtp/239.21.2.97:5002
 http://192.168.50.1:20231/rtp/239.21.2.101:5002
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/金色学堂.png" group-title="教育",金色学堂
 http://192.168.50.1:20231/rtp/239.21.2.102:5002
-#EXTINF:-1 ,生活时尚[FHD]
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/生活时尚.png" group-title="时尚",生活时尚
 http://192.168.50.1:20231/rtp/239.21.2.103:5002
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/乐游.png" group-title="纪录",乐游
 http://192.168.50.1:20231/rtp/239.21.2.104:5002
-#EXTINF:-1 ,法治天地[FHD]
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/法治天地.png" group-title="法治",法治天地
 http://192.168.50.1:20231/rtp/239.21.2.105:5002
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/游戏风云.png" group-title="游戏",游戏风云
 http://192.168.50.1:20231/rtp/239.21.2.107:5002
-#EXTINF:-1 ,东方财经[FHD]
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/东方财经.png" group-title="财经",东方财经
 http://192.168.50.1:20231/rtp/239.21.2.108:5002
 #EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/文物宝库.png" group-title="文物",文物宝库
 http://192.168.50.1:20231/rtp/239.21.2.109:5002
