@@ -22,7 +22,6 @@
   * 2.`Telecom-Shandong.m3u` 自用，仅FHD及以上，去掉县台及购物台
   * 3.`对应表.xlsx`每次更新方便的，可无视。
   * 4.`Unicom-Shandong.m3u` 仅限山东联通使用。
-  * 5.`Unicom-Shandong-Dongying.m3u` 仅限山东电信使用。
   * 6.`bak` 备份目录（之前更新过的文件，但不想再更新了，可用）
   * 7.`img` 台标目录
   * 8.`Telecom-Jiangsu-Multicast.m3u` 仅限江苏组播使用。
