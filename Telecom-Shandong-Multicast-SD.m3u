@@ -6,37 +6,40 @@ http://192.168.50.1:20231/rtp/239.21.1.195:5002
 #EXTINF:-1 ,金鹰纪实[360P]
 http://192.168.50.1:20231/rtp/239.21.1.196:5002
 
-#EXTINF:-1 ,CCTV1[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV1-SD
 http://192.168.50.1:20231/rtp/239.21.1.1:5002
-#EXTINF:-1 ,CCTV2[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV2-SD
 http://192.168.50.1:20231/rtp/239.21.1.2:5002
-#EXTINF:-1 ,CCTV3[SD]
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CCTV3
+http://192.168.50.1:20231/rtp/239.21.2.148:5002
 http://192.168.50.1:20231/rtp/239.21.1.3:5002
-#EXTINF:-1 ,CCTV4[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV4-SD
 http://192.168.50.1:20231/rtp/239.21.1.4:5002
-#EXTINF:-1 ,CCTV5[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV5-SD
 http://192.168.50.1:20231/rtp/239.21.1.5:5002
-#EXTINF:-1 ,CCTV6[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV6-SD
 http://192.168.50.1:20231/rtp/239.21.1.6:5002
-#EXTINF:-1 ,CCTV7[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV7-SD
 http://192.168.50.1:20231/rtp/239.21.1.7:5002
-#EXTINF:-1 ,CCTV8[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV8-SD
 http://192.168.50.1:20231/rtp/239.21.1.8:5002
-#EXTINF:-1 ,CCTV9[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV9-SD
 http://192.168.50.1:20231/rtp/239.21.1.9:5002
-#EXTINF:-1 ,CCTV10[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV10-SD
 http://192.168.50.1:20231/rtp/239.21.1.11:5002
-#EXTINF:-1 ,CCTV11[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV11-SD
 http://192.168.50.1:20231/rtp/239.21.1.12:5002
-#EXTINF:-1 ,CCTV12[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV12-SD
 http://192.168.50.1:20231/rtp/239.21.1.13:5002
 #EXTINF:-1 ,CCTV13[SD]
 http://192.168.50.1:20231/rtp/239.21.1.14:5002
-#EXTINF:-1 ,CCTV13[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV13
 http://192.168.50.1:20231/rtp/239.21.2.1:5002
-#EXTINF:-1 ,CCTV14[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV13-SD
+http://192.168.50.1:20231/rtp/239.21.1.14:5002
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV14-SD
 http://192.168.50.1:20231/rtp/239.21.1.15:5002
-#EXTINF:-1 ,CCTV15[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CCTV15-SD
 http://192.168.50.1:20231/rtp/239.21.1.16:5002
 #EXTINF:-1 ,CCTV中视购物[SD]
 http://192.168.50.1:20231/rtp/239.21.1.100:5002
@@ -45,7 +48,7 @@ http://192.168.50.1:20231/rtp/239.21.2.126:5002
 #EXTINF:-1 ,CCTV中视购物[SD]
 http://192.168.50.1:20231/rtp/239.21.2.128:5002
 
-#EXTINF:-1 ,CGTN[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CGTN-SD" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CGTN-SD
 http://192.168.50.1:20231/rtp/239.21.1.10:5002
 
 #EXTINF:-1 ,浙江卫视[SD]
@@ -106,17 +109,17 @@ http://192.168.50.1:20231/rtp/239.21.1.43:5002
 http://192.168.50.1:20231/rtp/239.21.1.44:5002
 #EXTINF:-1 ,新疆卫视[SD]
 http://192.168.50.1:20231/rtp/239.21.1.45:5002
-#EXTINF:-1 ,西藏卫视[SD]
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 西藏卫视
 http://192.168.50.1:20231/rtp/239.21.1.46:5002
 #EXTINF:-1 ,甘肃卫视[SD]
 http://192.168.50.1:20231/rtp/239.21.1.47:5002
-#EXTINF:-1 ,山东卫视[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东卫视
 http://192.168.50.1:20231/rtp/239.21.1.52:5002
-#EXTINF:-1 ,厦门卫视[SD]
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 厦门卫视
 http://192.168.50.1:20231/rtp/239.21.2.6:5002
 #EXTINF:-1 ,三沙卫视[SD]
 http://192.168.50.1:20231/rtp/239.21.2.9:5002
-#EXTINF:-1 ,兵团卫视[SD]
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 兵团卫视
 http://192.168.50.1:20231/rtp/239.21.1.234:5002
 #EXTINF:-1 ,农林卫视[SD]
 http://192.168.50.1:20231/rtp/239.21.1.235:5002
@@ -129,7 +132,7 @@ http://192.168.50.1:20231/rtp/239.21.2.137:5002
 http://192.168.50.1:20231/rtp/239.21.1.48:5002
 #EXTINF:-1 ,卡酷少儿[SD]
 http://192.168.50.1:20231/rtp/239.21.1.49:5002
-#EXTINF:-1 ,优漫卡通[SD]
+#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 优漫卡通
 http://192.168.50.1:20231/rtp/239.21.1.50:5002
 #EXTINF:-1 ,哈哈炫动[SD]
 http://192.168.50.1:20231/rtp/239.21.1.51:5002
@@ -157,7 +160,7 @@ http://192.168.50.1:20231/rtp/239.21.1.132:5002
 http://192.168.50.1:20231/rtp/239.21.1.162:5002
 #EXTINF:-1 ,嘉佳卡通[SD]
 http://192.168.50.1:20231/rtp/239.21.2.5:5002
-#EXTINF:-1 ,都市剧场[SD]
+#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 都市剧场
 http://192.168.50.1:20231/rtp/239.21.2.82:5002
 #EXTINF:-1 ,新动漫[SD]
 http://192.168.50.1:20231/rtp/239.21.2.93:5002
@@ -183,22 +186,24 @@ http://192.168.50.1:20231/rtp/239.21.2.118:5002
 http://192.168.50.1:20231/rtp/239.21.2.124:5002
 #EXTINF:-1 ,风尚购物[SD]
 http://192.168.50.1:20231/rtp/239.21.2.125:5002
+#EXTINF:-1 tvg-id="" tvg-name="华数" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 华数
+http://192.168.50.1:20231/rtp/239.21.1.125:5002
 
-#EXTINF:-1 ,山东齐鲁[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东齐鲁" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东齐鲁
 http://192.168.50.1:20231/rtp/239.21.1.53:5002
-#EXTINF:-1 ,山东新闻[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东公共" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东公共
 http://192.168.50.1:20231/rtp/239.21.1.54:5002
-#EXTINF:-1 ,山东综艺[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东综艺" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东综艺
 http://192.168.50.1:20231/rtp/239.21.1.55:5002
-#EXTINF:-1 ,山东生活[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东生活" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东生活
 http://192.168.50.1:20231/rtp/239.21.1.56:5002
-#EXTINF:-1 ,山东文旅[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东影视" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东影视
 http://192.168.50.1:20231/rtp/239.21.1.57:5002
-#EXTINF:-1 ,山东体育休闲[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东体育
 http://192.168.50.1:20231/rtp/239.21.1.58:5002
-#EXTINF:-1 ,山东农科[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东农科
 http://192.168.50.1:20231/rtp/239.21.1.59:5002
-#EXTINF:-1 ,山东少儿[SD]
+#EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 山东少儿
 http://192.168.50.1:20231/rtp/239.21.1.60:5002
 #EXTINF:-1 ,山东教育卫视[SD]
 http://192.168.50.1:20231/rtp/239.21.1.101:5002
@@ -236,81 +241,91 @@ http://192.168.50.1:20231/rtp/239.21.1.81:5002
 http://192.168.50.1:20231/rtp/239.21.1.82:5002
 #EXTINF:-1 ,淄博文旅[SD]
 http://192.168.50.1:20231/rtp/239.21.1.83:5002
-#EXTINF:-1 ,菏泽综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="菏泽综合" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 菏泽综合
 http://192.168.50.1:20231/rtp/239.21.1.103:5002
-#EXTINF:-1 ,恒台[SD][SD]
+#EXTINF:-1 tvg-id="" tvg-name="桓台" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 桓台
 http://192.168.50.1:20231/rtp/239.21.1.105:5002
-#EXTINF:-1 ,长清[SD]
+#EXTINF:-1 tvg-id="" tvg-name="长清" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 长清
 http://192.168.50.1:20231/rtp/239.21.1.107:5002
-#EXTINF:-1 ,淄博民生[SD]
+#EXTINF:-1 tvg-id="" tvg-name="淄博民生" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 淄博民生
 http://192.168.50.1:20231/rtp/239.21.1.109:5002
-#EXTINF:-1 ,沂源综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="沂源" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 沂源
 http://192.168.50.1:20231/rtp/239.21.1.114:5002
-#EXTINF:-1 ,烟台公共[SD]
+#EXTINF:-1 tvg-id="" tvg-name="烟台公共" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 烟台公共
 http://192.168.50.1:20231/rtp/239.21.1.117:5002
-#EXTINF:-1 ,滨州新闻综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="滨州新闻" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 滨州新闻
 http://192.168.50.1:20231/rtp/239.21.1.118:5002
-#EXTINF:-1 ,滨州民生[SD]
+#EXTINF:-1 tvg-id="" tvg-name="滨州民生" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 滨州民生
 http://192.168.50.1:20231/rtp/239.21.1.119:5002
-#EXTINF:-1 ,济宁综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="济宁综合" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 济宁综合
 http://192.168.50.1:20231/rtp/239.21.1.138:5002
-#EXTINF:-1 ,济宁生活[SD]
+#EXTINF:-1 tvg-id="" tvg-name="济宁生活" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 济宁生活
 http://192.168.50.1:20231/rtp/239.21.1.139:5002
-#EXTINF:-1 ,南阳2[SD]
+#EXTINF:-1 tvg-id="" tvg-name="宁阳2" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 宁阳2
 http://192.168.50.1:20231/rtp/239.21.1.144:5002
-#EXTINF:-1 ,济南鲁中[SD]
+#EXTINF:-1 tvg-id="" tvg-name="济南鲁中" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 济南鲁中
 http://192.168.50.1:20231/rtp/239.21.1.149:5002
-#EXTINF:-1 ,滕州综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="滕州" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 滕州
 http://192.168.50.1:20231/rtp/239.21.1.178:5002
-#EXTINF:-1 ,寿光综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="s寿光新闻" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 寿光新闻
 http://192.168.50.1:20231/rtp/239.21.1.180:5002
-#EXTINF:-1 ,惠民[SD]
+#EXTINF:-1 tvg-id="" tvg-name="惠民" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 惠民
 http://192.168.50.1:20231/rtp/239.21.1.181:5002
 #EXTINF:-1 ,新泰综合[SD]
 http://192.168.50.1:20231/rtp/239.21.1.210:5002
-#EXTINF:-1 ,诸城综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="诸城" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 诸城
 http://192.168.50.1:20231/rtp/239.21.1.217:5002
 #EXTINF:-1 ,平阴综合[SD]
 http://192.168.50.1:20231/rtp/239.21.1.221:5002
-#EXTINF:-1 ,CETV2[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CETV2" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CETV2
 http://192.168.50.1:20231/rtp/239.21.2.8:5002
-#EXTINF:-1 ,CETV4[SD]
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", CETV4
 http://192.168.50.1:20231/rtp/239.21.1.222:5002
 #EXTINF:-1 ,沾化综合[SD]
 http://192.168.50.1:20231/rtp/239.21.1.226:5002
-#EXTINF:-1 ,栖霞综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="栖霞" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 栖霞
 http://192.168.50.1:20231/rtp/239.21.1.229:5002
-#EXTINF:-1 ,东明1[SD]
+#EXTINF:-1 tvg-id="" tvg-name="东明" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 东明
 http://192.168.50.1:20231/rtp/239.21.1.246:5002
 #EXTINF:-1 ,新泰乡村[SD]
 http://192.168.50.1:20231/rtp/239.21.1.248:5002
-#EXTINF:-1 ,五莲新闻[SD]
+#EXTINF:-1 tvg-id="" tvg-name="五莲新闻" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 五莲新闻
 http://192.168.50.1:20231/rtp/239.21.1.249:5002
+#EXTINF:-1 tvg-id="" tvg-name="冠县" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 冠县
+http://192.168.50.1:20231/rtp/239.21.1.250:5002
 #EXTINF:-1 ,阳信新闻综合[SD]
 http://192.168.50.1:20231/rtp/239.21.1.252:5002
 #EXTINF:-1 ,聊城综合[SD]
 http://192.168.50.1:20231/rtp/239.21.1.253:5002
 #EXTINF:-1 ,聊城民生[SD]
 http://192.168.50.1:20231/rtp/239.21.1.254:5002
-#EXTINF:-1 ,牟平综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="牟平新闻" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 牟平新闻
 http://192.168.50.1:20231/rtp/239.21.2.10:5002
-#EXTINF:-1 ,牟平生活[SD]
+#EXTINF:-1 tvg-id="" tvg-name="牟平生活" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 牟平生活
 http://192.168.50.1:20231/rtp/239.21.2.11:5002
-#EXTINF:-1 ,菏泽2[SD]
+#EXTINF:-1 tvg-id="" tvg-name="菏泽2" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 菏泽2
 http://192.168.50.1:20231/rtp/239.21.2.18:5002
-#EXTINF:-1 ,济宁公共[SD]
+#EXTINF:-1 tvg-id="" tvg-name="济宁公共" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 济宁公共
 http://192.168.50.1:20231/rtp/239.21.2.20:5002
 #EXTINF:-1 ,蒙阴综合[SD]
 http://192.168.50.1:20231/rtp/239.21.2.23:5002
-#EXTINF:-1 ,莒南综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="莒南综合" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 莒南综合
 http://192.168.50.1:20231/rtp/239.21.2.66:5002
-#EXTINF:-1 ,日照公共[SD]
+#EXTINF:-1 tvg-id="" tvg-name="日照公共" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 日照公共
 http://192.168.50.1:20231/rtp/239.21.2.81:5002
 #EXTINF:-1 ,历城综合[SD]
 http://192.168.50.1:20231/rtp/239.21.2.132:5002
-#EXTINF:-1 ,张店[SD]
+#EXTINF:-1 tvg-id="" tvg-name="张店" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 张店
 http://192.168.50.1:20231/rtp/239.21.2.138:5002
-#EXTINF:-1 ,高青综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="高青综合" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 高青综合
 http://192.168.50.1:20231/rtp/239.21.2.140:5002
-#EXTINF:-1 ,鄄城综合[SD]
+#EXTINF:-1 tvg-id="" tvg-name="鄄城综合" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 鄄城综合
 http://192.168.50.1:20231/rtp/239.21.2.141:5002
+#EXTINF:-1 tvg-id="" tvg-name="冠县" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 冠县
+http://192.168.50.1:20231/rtp/239.21.2.149:5002
+#EXTINF:-1 tvg-id="" tvg-name="周村新闻" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 周村新闻
+http://192.168.50.1:20231/rtp/239.21.2.150:5002
+#EXTINF:-1 tvg-id="" tvg-name="威海新闻" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 威海新闻
+http://192.168.50.1:20231/rtp/239.21.2.155:5002
+#EXTINF:-1 tvg-id="" tvg-name="威海经济生活" tvg-logo="" group-title="" codec="h264" resolution="720x576" frame-rate="25/1" bit-rate="N/A", 威海经济生活
+http://192.168.50.1:20231/rtp/239.21.2.156:5002
