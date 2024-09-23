@@ -7,9 +7,9 @@ http://192.168.50.1:20231/rtp/239.21.1.151:5002
 http://192.168.50.1:20231/rtp/239.21.2.45:5002
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4
 http://192.168.50.1:20231/rtp/239.21.1.154:5002
-#EXTINF:-1 tvg-id="CCTV4EUO" tvg-name="CCTV4EUO" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4欧洲.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4EUO
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4欧洲.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4欧洲
 http://192.168.50.1:20231/rtp/239.21.2.28:5002
-#EXTINF:-1 tvg-id="CCTV4AME" tvg-name="CCTV4AME" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4美洲.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4AME
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4美洲.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4美洲
 http://192.168.50.1:20231/rtp/239.21.2.29:5002
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV5.png" group-title="体育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV5
 http://192.168.50.1:20231/rtp/239.21.2.46:5002
@@ -42,7 +42,7 @@ http://192.168.50.1:20231/rtp/239.21.2.152:5002
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN
 http://192.168.50.1:20231/rtp/239.21.2.30:5002
-#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN纪录.png" group-title="纪录" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTNDocumentary
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN纪录.png" group-title="纪录" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN纪录
 http://192.168.50.1:20231/rtp/239.21.2.31:5002
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN西语.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN西语
 http://192.168.50.1:20231/rtp/239.21.2.32:5002
