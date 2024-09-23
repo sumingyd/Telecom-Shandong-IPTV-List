@@ -7,9 +7,9 @@ http://192.168.50.1:20231/rtp/239.21.1.151:5002
 http://192.168.50.1:20231/rtp/239.21.2.45:5002
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4
 http://192.168.50.1:20231/rtp/239.21.1.154:5002
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4欧洲.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4欧洲
+#EXTINF:-1 tvg-id="CCTV4EUO" tvg-name="CCTV4EUO" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4欧洲.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4EUO
 http://192.168.50.1:20231/rtp/239.21.2.28:5002
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4美洲.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4美洲
+#EXTINF:-1 tvg-id="CCTV4AME" tvg-name="CCTV4AME" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4美洲.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV4AME
 http://192.168.50.1:20231/rtp/239.21.2.29:5002
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV5.png" group-title="体育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV5
 http://192.168.50.1:20231/rtp/239.21.2.46:5002
@@ -37,12 +37,12 @@ http://192.168.50.1:20231/rtp/239.21.1.157:5002
 http://192.168.50.1:20231/rtp/239.21.2.4:5002
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV17.png" group-title="农业" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV17
 http://192.168.50.1:20231/rtp/239.21.1.186:5002
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="" codec="N/A" resolution="N/AxN/A" frame-rate="N/A" bit-rate="N/A", CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="" codec="N/A" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A", CCTV4K
 http://192.168.50.1:20231/rtp/239.21.2.152:5002
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN
 http://192.168.50.1:20231/rtp/239.21.2.30:5002
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN纪录.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN纪录
+#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN纪录.png" group-title="纪录" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTNDocumentary
 http://192.168.50.1:20231/rtp/239.21.2.31:5002
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN西语.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN西语
 http://192.168.50.1:20231/rtp/239.21.2.32:5002
@@ -52,7 +52,7 @@ http://192.168.50.1:20231/rtp/239.21.2.33:5002
 http://192.168.50.1:20231/rtp/239.21.2.34:5002
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN俄语.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN俄语
 http://192.168.50.1:20231/rtp/239.21.2.35:5002
-#EXTINF:-1 tvg-id="NHK华语" tvg-name="NHK华语" tvg-logo="" group-title="" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", NHK华语
+#EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/NHKWorld.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", NHKWorld
 http://192.168.50.1:20231/rtp/239.21.1.98:5002
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东卫视.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东卫视
@@ -113,7 +113,7 @@ http://192.168.50.1:20231/rtp/239.21.2.85:5002
 http://192.168.50.1:20231/rtp/239.21.2.86:5002
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/广西卫视.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",广西卫视
 http://192.168.50.1:20231/rtp/239.21.2.87:5002
-#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰卫视.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰卫视
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰中文.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰中文
 http://192.168.50.1:20231/rtp/239.21.2.153:5002
 
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/中国教育1台.png" group-title="教育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",中国教育1台
@@ -167,18 +167,18 @@ http://192.168.50.1:20231/rtp/239.21.1.170:5002
 http://192.168.50.1:20231/rtp/239.21.2.121:5002
 #EXTINF:-1 ,#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="" group-title="" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 汽摩
 http://192.168.50.1:20231/rtp/239.21.2.142:5002
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC影迷电影
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CJC高清电影.png" group-title="电影" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC高清电影
 http://192.168.50.1:20231/rtp/239.21.2.127:5002
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC家庭影院
+#EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC家庭电影.png" group-title="电影" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC家庭电影
 http://192.168.50.1:20231/rtp/239.21.2.126:5002
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC动作电影.png" group-title="电影" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC动作电影
 http://192.168.50.1:20231/rtp/239.21.2.128:5002
 
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东齐鲁.png" group-title="综合" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东齐鲁
 http://192.168.50.1:20231/rtp/239.21.1.134:5002
 #EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png" group-title="新闻" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东新闻
 http://192.168.50.1:20231/rtp/239.21.1.140:5002
-#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="体育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东体育
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="体育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东体育
 http://192.168.50.1:20231/rtp/239.21.1.141:5002
 #EXTINF:-1 ,山东居家购物[FHD]
 http://192.168.50.1:20231/rtp/239.21.1.112:5002
