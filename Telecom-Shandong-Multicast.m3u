@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml,https://live.fanmingming.com/e.xml,https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/main/epg/epg.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV1.png" group-title="综合" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV1
 http://192.168.50.1:20231/rtp/239.21.1.120:5002
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV2.png" group-title="财经" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV2
@@ -173,6 +173,8 @@ http://192.168.50.1:20231/rtp/239.21.2.127:5002
 http://192.168.50.1:20231/rtp/239.21.2.126:5002
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC动作电影.png" group-title="电影" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC动作电影
 http://192.168.50.1:20231/rtp/239.21.2.128:5002
+#EXTINF:-1 tvg-id="BEST4K" tvg-name="BEST4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/BEST4K.png" group-title="4K" codec="HEVC" resolution="3840x2160" frame-rate="50/1" bit-rate="N/A",BEST4K
+http://192.168.50.1:20231/rtp/239.21.2.71:5002
 
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东齐鲁.png" group-title="综合" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东齐鲁
 http://192.168.50.1:20231/rtp/239.21.1.134:5002
@@ -395,5 +397,3 @@ http://192.168.50.1:20231/rtp/239.21.2.154:5002
 
 #EXTINF:-1 ,9屏同播[FHD]
 http://192.168.50.1:20231/rtp/239.21.1.203:5002
-#EXTINF:-1 tvg-id="BEST4K" tvg-name="BEST4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="4K" codec="HEVC" resolution="3840x2160" frame-rate="50/1" bit-rate="N/A",BEST4K
-http://192.168.50.1:20231/rtp/239.21.2.71:5002
