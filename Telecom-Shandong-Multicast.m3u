@@ -184,7 +184,7 @@ http://192.168.50.1:20231/rtp/239.21.1.140:5002
 http://192.168.50.1:20231/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="购物",山东居家购物[FHD]
 http://192.168.50.1:20231/rtp/239.21.1.112:5002
-#EXTINF:-1 tvg-id="海看演艺" tvg-name="海看演艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="综艺" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",海看演艺
+#EXTINF:-1 tvg-id="海看演艺" tvg-name="海看演艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/海看演艺.png" group-title="综艺" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",海看演艺
 http://192.168.50.1:20231/rtp/239.21.1.95:5002
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东教育.png" group-title="教育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东教育
 http://192.168.50.1:20231/rtp/239.21.1.169:5002
@@ -198,17 +198,17 @@ http://192.168.50.1:20231/rtp/239.21.1.177:5002
 http://192.168.50.1:20231/rtp/239.21.1.183:5002
 #EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东少儿.png" group-title="少儿" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东少儿
 http://192.168.50.1:20231/rtp/239.21.1.208:5002
-#EXTINF:-1 ,德州新闻综合[FHD]
+#EXTINF:-1 tvg-id="德州新闻综合" tvg-name="德州新闻综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/德州新闻综合.png" group-title="新闻" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",德州新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.75:5002
-#EXTINF:-1 ,德州经济生活[FHD]
+#EXTINF:-1 tvg-id="德州经济生活" tvg-name="德州经济生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/德州经济生活.png" group-title="经济" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",德州经济生活
 http://192.168.50.1:20231/rtp/239.21.1.76:5002
-#EXTINF:-1 ,潍坊新闻综合[FHD]
+#EXTINF:-1 tvg-id="潍坊新闻综合" tvg-name="潍坊新闻综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/潍坊新闻综合.png" group-title="新闻" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",潍坊新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.77:5002
-#EXTINF:-1 ,潍坊经济生活[FHD]
+#EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/潍坊经济生活.png" group-title="经济" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",潍坊经济生活
 http://192.168.50.1:20231/rtp/239.21.1.78:5002
-#EXTINF:-1 ,淄博新闻综合[FHD]
+#EXTINF:-1 tvg-id="淄博综合" tvg-name="淄博综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/淄博综合.png" group-title="新闻" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",淄博综合
 http://192.168.50.1:20231/rtp/239.21.1.84:5002
-#EXTINF:-1 ,淄博影视[FHD]
+#EXTINF:-1 tvg-id="淄博公共" tvg-name="淄博公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/淄博公共.png" group-title="地方" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",淄博公共
 http://192.168.50.1:20231/rtp/239.21.1.182:5002
 #EXTINF:-1 ,济南新闻综合[FHD]
 http://192.168.50.1:20231/rtp/239.21.1.94:5002
