@@ -122,7 +122,7 @@ http://192.168.50.1:20231/rtp/239.21.2.7:5002
 http://192.168.50.1:20231/rtp/239.21.2.129:5002
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/中国交通.png" group-title="交通" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",中国交通
 http://192.168.50.1:20231/rtp/239.21.1.115:5002
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/上海纪实人文.png" group-title="纪录" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",上海纪实
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/上海纪实.png" group-title="纪录" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",上海纪实
 http://192.168.50.1:20231/rtp/239.21.1.171:5002
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/纪实科教.png" group-title="纪录" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",北京纪实
 http://192.168.50.1:20231/rtp/239.21.1.172:5002
@@ -165,9 +165,9 @@ http://192.168.50.1:20231/rtp/239.21.2.120:5002
 http://192.168.50.1:20231/rtp/239.21.1.170:5002
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/金鹰卡通.png" group-title="少儿" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",金鹰卡通
 http://192.168.50.1:20231/rtp/239.21.2.121:5002
-#EXTINF:-1 ,#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="" group-title="" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 汽摩
+#EXTINF:-1 ,#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/汽摩.png" group-title="体育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 汽摩
 http://192.168.50.1:20231/rtp/239.21.2.142:5002
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CJC高清电影.png" group-title="电影" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC高清电影
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC高清电影.png" group-title="电影" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC高清电影
 http://192.168.50.1:20231/rtp/239.21.2.127:5002
 #EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC家庭电影.png" group-title="电影" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC家庭电影
 http://192.168.50.1:20231/rtp/239.21.2.126:5002
@@ -182,7 +182,7 @@ http://192.168.50.1:20231/rtp/239.21.1.134:5002
 http://192.168.50.1:20231/rtp/239.21.1.140:5002
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="体育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东体育
 http://192.168.50.1:20231/rtp/239.21.1.141:5002
-#EXTINF:-1 ,山东居家购物[FHD]
+#EXTINF:-1 tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="购物",山东居家购物[FHD]
 http://192.168.50.1:20231/rtp/239.21.1.112:5002
 #EXTINF:-1 tvg-id="海看演艺" tvg-name="海看演艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="综艺" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",海看演艺
 http://192.168.50.1:20231/rtp/239.21.1.95:5002
