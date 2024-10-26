@@ -165,7 +165,7 @@ http://192.168.50.1:20231/rtp/239.21.2.120:5002
 http://192.168.50.1:20231/rtp/239.21.1.170:5002
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/金鹰卡通.png" group-title="少儿" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",金鹰卡通
 http://192.168.50.1:20231/rtp/239.21.2.121:5002
-#EXTINF:-1 ,#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/汽摩.png" group-title="体育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 汽摩
+#EXTINF:-1 EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/汽摩.png" group-title="体育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 汽摩
 http://192.168.50.1:20231/rtp/239.21.2.142:5002
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC高清电影.png" group-title="电影" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", CHC高清电影
 http://192.168.50.1:20231/rtp/239.21.2.127:5002
@@ -210,7 +210,7 @@ http://192.168.50.1:20231/rtp/239.21.1.78:5002
 http://192.168.50.1:20231/rtp/239.21.1.84:5002
 #EXTINF:-1 tvg-id="淄博公共" tvg-name="淄博公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/淄博公共.png" group-title="地方" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",淄博公共
 http://192.168.50.1:20231/rtp/239.21.1.182:5002
-#EXTINF:-1 ,济南新闻综合[FHD]
+#EXTINF:-1 tvg-id="济南新闻综合" tvg-name="济南新闻综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/济南新闻综合.png" group-title="地方" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",济南新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.94:5002
 #EXTINF:-1 ,夏津公共[FHD]
 http://192.168.50.1:20231/rtp/239.21.1.102:5002
