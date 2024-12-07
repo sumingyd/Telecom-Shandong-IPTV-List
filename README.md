@@ -34,7 +34,7 @@
 
 | 名称 | 地址 |
 |:--------:|:-------------|
-| 112114 | `https://epg.112114.xyz/pp.xml` |
+| 112114 | 主用：`https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml` 备用：`https://epg.112114.xyz/pp.xml` |
 | 老张：总表 | `http://epg.51zmt.top:8000/e.xml` |
 | 老张：央视 | `http://epg.51zmt.top:8000/cc.xml` |
 | 老张：地方 | `http://epg.51zmt.top:8000/difang.xml` |
