@@ -326,6 +326,6 @@ http://192.168.50.1:20231/rtp/239.21.2.148:5002
 #EXTINF:-1 channel-id="7002" tvg-id="Radio_Traffic" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="广播",山东交通广播 [音频]
 http://192.168.50.1:20231/rtp/239.21.2.151:5002
 
-#EXT-X-ENDLIST
+EXT-X-ENDLIST
 #Last-Modified: 2024-03-20
 #Generator: IPTV-Pro-M3U-Generator v3.0
