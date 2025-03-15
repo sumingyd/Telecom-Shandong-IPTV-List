@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" refresh="14400" catchup="append"
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="default",NAME="Main",LANGUAGE="zh",DEFAULT=YES
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE
+EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" refresh="14400" catchup="append"
+EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="default",NAME="Main",LANGUAGE="zh",DEFAULT=YES
+EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE
 
 #=========================== 央视频道 (1000-1999) ===========================#
 #EXTINF:-1 channel-id="1001" tvg-id="CCTV1" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV1.png" group-title="央视",CCTV1 综合 [1080P]
