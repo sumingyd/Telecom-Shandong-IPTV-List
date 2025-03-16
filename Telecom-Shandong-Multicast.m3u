@@ -3,320 +3,320 @@ EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="default",NAME="Main",LANGUAGE="zh",DEFAULT=YES
 EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE
 
 #=========================== 央视频道 (1000-1999) ===========================#
-#EXTINF:-1 channel-id="1001" tvg-id="CCTV1" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV1.png" group-title="央视",CCTV1 综合 [1080P]
+#EXTINF:-1 channel-id="1001" tvg-id="CCTV1" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV1.png" group-title="央视",CCTV1 综合
 http://192.168.50.1:20231/rtp/239.21.1.120:5002
 
-#EXTINF:-1 channel-id="1002" tvg-id="CCTV2" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV2.png" group-title="央视",CCTV2 财经 [1080P]
+#EXTINF:-1 channel-id="1002" tvg-id="CCTV2" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV2.png" group-title="央视",CCTV2 财经
 http://192.168.50.1:20231/rtp/239.21.1.151:5002
 
-#EXTINF:-1 channel-id="1003" tvg-id="CCTV3" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV3.png" group-title="央视",CCTV3 综艺 [1080P]
+#EXTINF:-1 channel-id="1003" tvg-id="CCTV3" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV3.png" group-title="央视",CCTV3 综艺
 http://192.168.50.1:20231/rtp/239.21.2.45:5002
 
-#EXTINF:-1 channel-id="1004" tvg-id="CCTV4" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4.png" group-title="央视",CCTV4 中文国际 [1080P]
+#EXTINF:-1 channel-id="1004" tvg-id="CCTV4" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4.png" group-title="央视",CCTV4 中文国际
 http://192.168.50.1:20231/rtp/239.21.1.154:5002
 
-#EXTINF:-1 channel-id="1005" tvg-id="CCTV4_Europe" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4欧洲.png" group-title="央视",CCTV4 欧洲 [1080P]
+#EXTINF:-1 channel-id="1005" tvg-id="CCTV4_Europe" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4欧洲.png" group-title="央视",CCTV4 欧洲
 http://192.168.50.1:20231/rtp/239.21.2.28:5002
 
-#EXTINF:-1 channel-id="1006" tvg-id="CCTV4_America" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4美洲.png" group-title="央视",CCTV4 美洲 [1080P]
+#EXTINF:-1 channel-id="1006" tvg-id="CCTV4_America" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4美洲.png" group-title="央视",CCTV4 美洲
 http://192.168.50.1:20231/rtp/239.21.2.29:5002
 
-#EXTINF:-1 channel-id="1007" tvg-id="CCTV5" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV5.png" group-title="央视",CCTV5 体育 [1080P]
+#EXTINF:-1 channel-id="1007" tvg-id="CCTV5" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV5.png" group-title="央视",CCTV5 体育
 http://192.168.50.1:20231/rtp/239.21.2.46:5002
 
-#EXTINF:-1 channel-id="1008" tvg-id="CCTV5+" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV5+.png" group-title="央视",CCTV5+ 体育赛事 [1080P]
+#EXTINF:-1 channel-id="1008" tvg-id="CCTV5+" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV5+.png" group-title="央视",CCTV5+ 体育赛事
 http://192.168.50.1:20231/rtp/239.21.1.142:5002
 
-#EXTINF:-1 channel-id="1009" tvg-id="CCTV6" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV6.png" group-title="央视",CCTV6 电影 [1080P]
+#EXTINF:-1 channel-id="1009" tvg-id="CCTV6" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV6.png" group-title="央视",CCTV6 电影
 http://192.168.50.1:20231/rtp/239.21.2.47:5002
 
-#EXTINF:-1 channel-id="1010" tvg-id="CCTV7" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV7.png" group-title="央视",CCTV7 国防军事 [1080P]
+#EXTINF:-1 channel-id="1010" tvg-id="CCTV7" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV7.png" group-title="央视",CCTV7 国防军事
 http://192.168.50.1:20231/rtp/239.21.1.152:5002
 
-#EXTINF:-1 channel-id="1011" tvg-id="CCTV8" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV8.png" group-title="央视",CCTV8 电视剧 [1080P]
+#EXTINF:-1 channel-id="1011" tvg-id="CCTV8" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV8.png" group-title="央视",CCTV8 电视剧
 http://192.168.50.1:20231/rtp/239.21.2.48:5002
 
-#EXTINF:-1 channel-id="1012" tvg-id="CCTV9" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV9.png" group-title="央视",CCTV9 纪录 [1080P]
+#EXTINF:-1 channel-id="1012" tvg-id="CCTV9" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV9.png" group-title="央视",CCTV9 纪录
 http://192.168.50.1:20231/rtp/239.21.1.153:5002
 
-#EXTINF:-1 channel-id="1013" tvg-id="CCTV10" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV10.png" group-title="央视",CCTV10 科教 [1080P]
+#EXTINF:-1 channel-id="1013" tvg-id="CCTV10" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV10.png" group-title="央视",CCTV10 科教
 http://192.168.50.1:20231/rtp/239.21.1.155:5002
 
-#EXTINF:-1 channel-id="1014" tvg-id="CCTV11" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV11.png" group-title="央视",CCTV11 戏曲 [1080P]
+#EXTINF:-1 channel-id="1014" tvg-id="CCTV11" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV11.png" group-title="央视",CCTV11 戏曲
 http://192.168.50.1:20231/rtp/239.21.2.2:5002
 
-#EXTINF:-1 channel-id="1015" tvg-id="CCTV12" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV12.png" group-title="央视",CCTV12 社会与法 [1080P]
+#EXTINF:-1 channel-id="1015" tvg-id="CCTV12" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV12.png" group-title="央视",CCTV12 社会与法
 http://192.168.50.1:20231/rtp/239.21.1.156:5002
 
-#EXTINF:-1 channel-id="1016" tvg-id="CCTV13" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV13.png" group-title="央视",CCTV13 新闻 [1080P]
+#EXTINF:-1 channel-id="1016" tvg-id="CCTV13" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV13.png" group-title="央视",CCTV13 新闻
 http://192.168.50.1:20231/rtp/239.21.2.3:5002
 
-#EXTINF:-1 channel-id="1017" tvg-id="CCTV14" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV14.png" group-title="央视",CCTV14 少儿 [1080P]
+#EXTINF:-1 channel-id="1017" tvg-id="CCTV14" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV14.png" group-title="央视",CCTV14 少儿
 http://192.168.50.1:20231/rtp/239.21.1.157:5002
 
-#EXTINF:-1 channel-id="1018" tvg-id="CCTV15" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV15.png" group-title="央视",CCTV15 音乐 [1080P]
+#EXTINF:-1 channel-id="1018" tvg-id="CCTV15" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV15.png" group-title="央视",CCTV15 音乐
 http://192.168.50.1:20231/rtp/239.21.2.4:5002
 
-#EXTINF:-1 channel-id="1019" tvg-id="CCTV17" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV17.png" group-title="央视",CCTV17 农业农村 [1080P]
+#EXTINF:-1 channel-id="1019" tvg-id="CCTV17" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV17.png" group-title="央视",CCTV17 农业农村
 http://192.168.50.1:20231/rtp/239.21.1.186:5002
 
 #=========================== 省级卫视 (2000-2999) ===========================#
-#EXTINF:-1 channel-id="2001" tvg-id="SDWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东卫视.png" group-title="卫视",山东卫视 [1080P]
+#EXTINF:-1 channel-id="2001" tvg-id="SDWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.50.1:20231/rtp/239.21.1.87:5002
 
-#EXTINF:-1 channel-id="2002" tvg-id="BTV1" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/北京卫视.png" group-title="卫视",北京卫视 [1080P]
+#EXTINF:-1 channel-id="2002" tvg-id="BTV1" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.50.1:20231/rtp/239.21.1.88:5002
 
-#EXTINF:-1 channel-id="2003" tvg-id="JSWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/江苏卫视.png" group-title="卫视",江苏卫视 [1080P]
+#EXTINF:-1 channel-id="2003" tvg-id="JSWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.50.1:20231/rtp/239.21.1.89:5002
 
-#EXTINF:-1 channel-id="2004" tvg-id="ZJWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/浙江卫视.png" group-title="卫视",浙江卫视 [1080P]
+#EXTINF:-1 channel-id="2004" tvg-id="ZJWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.50.1:20231/rtp/239.21.1.90:5002
 
-#EXTINF:-1 channel-id="2005" tvg-id="HLJWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/黑龙江卫视.png" group-title="卫视",黑龙江卫视 [1080P]
+#EXTINF:-1 channel-id="2005" tvg-id="HLJWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://192.168.50.1:20231/rtp/239.21.1.91:5002
 
-#EXTINF:-1 channel-id="2006" tvg-id="GDWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/广东卫视.png" group-title="卫视",广东卫视 [1080P]
+#EXTINF:-1 channel-id="2006" tvg-id="GDWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/广东卫视.png" group-title="卫视",广东卫视
 http://192.168.50.1:20231/rtp/239.21.1.92:5002
 
-#EXTINF:-1 channel-id="2007" tvg-id="SZWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/深圳卫视.png" group-title="卫视",深圳卫视 [1080P]
+#EXTINF:-1 channel-id="2007" tvg-id="SZWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.50.1:20231/rtp/239.21.1.93:5002
 
-#EXTINF:-1 channel-id="2008" tvg-id="HENAN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南卫视.png" group-title="卫视",河南卫视 [1080P]
+#EXTINF:-1 channel-id="2008" tvg-id="HENAN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南卫视.png" group-title="卫视",河南卫视
 http://192.168.50.1:20231/rtp/239.21.1.108:5002
 
-#EXTINF:-1 channel-id="2009" tvg-id="HENAN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南卫视.png" group-title="卫视",河南卫视 [1080P] (备)
+#EXTINF:-1 channel-id="2009" tvg-id="HENAN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南卫视.png" group-title="卫视",河南卫视 (备)
 http://192.168.50.1:20231/rtp/239.21.2.37:5002
 
-#EXTINF:-1 channel-id="2010" tvg-id="DFWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/东方卫视.png" group-title="卫视",东方卫视 [1080P]
+#EXTINF:-1 channel-id="2010" tvg-id="DFWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/东方卫视.png" group-title="卫视",东方卫视
 http://192.168.50.1:20231/rtp/239.21.1.111:5002
 
-#EXTINF:-1 channel-id="2011" tvg-id="DNWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/东南卫视.png" group-title="卫视",东南卫视 [1080P]
+#EXTINF:-1 channel-id="2011" tvg-id="DNWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/东南卫视.png" group-title="卫视",东南卫视
 http://192.168.50.1:20231/rtp/239.21.1.113:5002
 
-#EXTINF:-1 channel-id="2012" tvg-id="HUNAN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/湖南卫视.png" group-title="卫视",湖南卫视 [1080P]
+#EXTINF:-1 channel-id="2012" tvg-id="HUNAN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/湖南卫视.png" group-title="卫视",湖南卫视
 http://192.168.50.1:20231/rtp/239.21.1.158:5002
 
-#EXTINF:-1 channel-id="2013" tvg-id="AHWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/安徽卫视.png" group-title="卫视",安徽卫视 [1080P]
+#EXTINF:-1 channel-id="2013" tvg-id="AHWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/安徽卫视.png" group-title="卫视",安徽卫视
 http://192.168.50.1:20231/rtp/239.21.1.159:5002
 
-#EXTINF:-1 channel-id="2014" tvg-id="HBWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/湖北卫视.png" group-title="卫视",湖北卫视 [1080P]
+#EXTINF:-1 channel-id="2014" tvg-id="HBWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/湖北卫视.png" group-title="卫视",湖北卫视
 http://192.168.50.1:20231/rtp/239.21.1.163:5002
 
-#EXTINF:-1 channel-id="2015" tvg-id="LNWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/辽宁卫视.png" group-title="卫视",辽宁卫视 [1080P]
+#EXTINF:-1 channel-id="2015" tvg-id="LNWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://192.168.50.1:20231/rtp/239.21.1.164:5002
 
-#EXTINF:-1 channel-id="2016" tvg-id="TJWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/天津卫视.png" group-title="卫视",天津卫视 [1080P]
+#EXTINF:-1 channel-id="2016" tvg-id="TJWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/天津卫视.png" group-title="卫视",天津卫视
 http://192.168.50.1:20231/rtp/239.21.1.165:5002
 
-#EXTINF:-1 channel-id="2017" tvg-id="GZWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/贵州卫视.png" group-title="卫视",贵州卫视 [1080P]
+#EXTINF:-1 channel-id="2017" tvg-id="GZWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/贵州卫视.png" group-title="卫视",贵州卫视
 http://192.168.50.1:20231/rtp/239.21.1.166:5002
 
-#EXTINF:-1 channel-id="2018" tvg-id="JXWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/江西卫视.png" group-title="卫视",江西卫视 [1080P]
+#EXTINF:-1 channel-id="2018" tvg-id="JXWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/江西卫视.png" group-title="卫视",江西卫视
 http://192.168.50.1:20231/rtp/239.21.1.167:5002
 
-#EXTINF:-1 channel-id="2019" tvg-id="HEBWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河北卫视.png" group-title="卫视",河北卫视 [1080P]
+#EXTINF:-1 channel-id="2019" tvg-id="HEBWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河北卫视.png" group-title="卫视",河北卫视
 http://192.168.50.1:20231/rtp/239.21.1.168:5002
 
-#EXTINF:-1 channel-id="2020" tvg-id="CQWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/重庆卫视.png" group-title="卫视",重庆卫视 [1080P]
+#EXTINF:-1 channel-id="2020" tvg-id="CQWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/重庆卫视.png" group-title="卫视",重庆卫视
 http://192.168.50.1:20231/rtp/239.21.1.233:5002
 
-#EXTINF:-1 channel-id="2021" tvg-id="HAINAN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/海南卫视.png" group-title="卫视",海南卫视 [1080P]
+#EXTINF:-1 channel-id="2021" tvg-id="HAINAN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/海南卫视.png" group-title="卫视",海南卫视
 http://192.168.50.1:20231/rtp/239.21.2.14:5002
 
-#EXTINF:-1 channel-id="2022" tvg-id="SCWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/四川卫视.png" group-title="卫视",四川卫视 [1080P]
+#EXTINF:-1 channel-id="2022" tvg-id="SCWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.50.1:20231/rtp/239.21.2.15:5002
 
-#EXTINF:-1 channel-id="2023" tvg-id="GSWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/甘肃卫视.png" group-title="卫视",甘肃卫视 [1080P]
+#EXTINF:-1 channel-id="2023" tvg-id="GSWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://192.168.50.1:20231/rtp/239.21.2.22:5002
 
-#EXTINF:-1 channel-id="2024" tvg-id="GSWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/甘肃卫视.png" group-title="卫视",甘肃卫视 [1080P] (备)
+#EXTINF:-1 channel-id="2024" tvg-id="GSWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/甘肃卫视.png" group-title="卫视",甘肃卫视 (备)
 http://192.168.50.1:20231/rtp/239.21.2.55:5002
 
-#EXTINF:-1 channel-id="2025" tvg-id="JLWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/吉林卫视.png" group-title="卫视",吉林卫视 [1080P]
+#EXTINF:-1 channel-id="2025" tvg-id="JLWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/吉林卫视.png" group-title="卫视",吉林卫视
 http://192.168.50.1:20231/rtp/239.21.2.49:5002
 
-#EXTINF:-1 channel-id="2026" tvg-id="QHWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/青海卫视.png" group-title="卫视",青海卫视 [1080P]
+#EXTINF:-1 channel-id="2026" tvg-id="QHWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/青海卫视.png" group-title="卫视",青海卫视
 http://192.168.50.1:20231/rtp/239.21.2.51:5002
 
-#EXTINF:-1 channel-id="2027" tvg-id="QHWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/青海卫视.png" group-title="卫视",青海卫视 [1080P] (备)
+#EXTINF:-1 channel-id="2027" tvg-id="QHWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/青海卫视.png" group-title="卫视",青海卫视 (备)
 http://192.168.50.1:20231/rtp/239.21.2.85:5002
 
-#EXTINF:-1 channel-id="2028" tvg-id="YNWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/云南卫视.png" group-title="卫视",云南卫视 [1080P]
+#EXTINF:-1 channel-id="2028" tvg-id="YNWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/云南卫视.png" group-title="卫视",云南卫视
 http://192.168.50.1:20231/rtp/239.21.2.86:5002
 
-#EXTINF:-1 channel-id="2029" tvg-id="GXWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/广西卫视.png" group-title="卫视",广西卫视 [1080P]
+#EXTINF:-1 channel-id="2029" tvg-id="GXWS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/广西卫视.png" group-title="卫视",广西卫视
 http://192.168.50.1:20231/rtp/239.21.2.87:5002
 
 #=========================== 4K专区 (3500-3999) ===========================#
-#EXTINF:-1 channel-id="3501" tvg-id="CCTV4K" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="4K",CCTV4K 超高清 [4K]
+#EXTINF:-1 channel-id="3501" tvg-id="CCTV4K" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="4K",CCTV4K 超高清
 http://192.168.50.1:20231/rtp/239.21.2.152:5002
 
-#EXTINF:-1 channel-id="3502" tvg-id="BEST4K" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/BEST4K.png" group-title="4K",BEST4K 影视 [4K]
+#EXTINF:-1 channel-id="3502" tvg-id="BEST4K" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/BEST4K.png" group-title="4K",BEST4K 影视
 http://192.168.50.1:20231/rtp/239.21.2.71:5002
 
 #=========================== 凤凰卫视 (4000-4999) ===========================#
-#EXTINF:-1 channel-id="4001" tvg-id="PhoenixCN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰中文.png" group-title="凤凰卫视",凤凰中文 [1080P] tvg-shift="-28800" catchup-source="?utc={utc}"
+#EXTINF:-1 channel-id="4001" tvg-id="PhoenixCN" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰中文.png" group-title="凤凰卫视",凤凰中文 tvg-shift="-28800" catchup-source="?utc={utc}"
 http://192.168.50.1:20231/rtp/239.21.2.153:5002
 
 #=========================== 国际频道 (3000-3499) ===========================#
-#EXTINF:-1 channel-id="3001" tvg-id="CGTN" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN.png" group-title="国际",CGTN 国际新闻 [1080P]
+#EXTINF:-1 channel-id="3001" tvg-id="CGTN" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN.png" group-title="国际",CGTN 国际新闻
 http://192.168.50.1:20231/rtp/239.21.2.30:5002
 
-#EXTINF:-1 channel-id="3002" tvg-id="CGTN_Record" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN纪录.png" group-title="国际",CGTN 纪录 [1080P]
+#EXTINF:-1 channel-id="3002" tvg-id="CGTN_Record" tvg-language="en" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN纪录.png" group-title="国际",CGTN 纪录
 http://192.168.50.1:20231/rtp/239.21.2.31:5002
 
-#EXTINF:-1 channel-id="3003" tvg-id="NHKWorld" tvg-language="ja" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/NHKWorld.png" group-title="国际",NHK World [1080P]
+#EXTINF:-1 channel-id="3003" tvg-id="NHKWorld" tvg-language="ja" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/NHKWorld.png" group-title="国际",NHK World
 http://192.168.50.1:20231/rtp/239.21.1.98:5002
 
 #=========================== 影视娱乐 (5000-5499) ===========================#
-#EXTINF:-1 channel-id="5001" tvg-id="CHC_HD" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC高清电影.png" group-title="影视娱乐",CHC高清电影 [1080P]
+#EXTINF:-1 channel-id="5001" tvg-id="CHC_HD" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC高清电影.png" group-title="影视娱乐",CHC高清电影
 http://192.168.50.1:20231/rtp/239.21.2.127:5002
 
-#EXTINF:-1 channel-id="5002" tvg-id="CHC_Family" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC家庭电影.png" group-title="影视娱乐",CHC家庭电影 [1080P]
+#EXTINF:-1 channel-id="5002" tvg-id="CHC_Family" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC家庭电影.png" group-title="影视娱乐",CHC家庭电影
 http://192.168.50.1:20231/rtp/239.21.2.126:5002
 
-#EXTINF:-1 channel-id="5003" tvg-id="CHC_Action" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC动作电影.png" group-title="影视娱乐",CHC动作电影 [1080P]
+#EXTINF:-1 channel-id="5003" tvg-id="CHC_Action" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CHC动作电影.png" group-title="影视娱乐",CHC动作电影
 http://192.168.50.1:20231/rtp/239.21.2.128:5002
 
 #=========================== 体育竞技 (4500-4999) ===========================#
-#EXTINF:-1 channel-id="4501" tvg-id="Football" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/魅力足球.png" group-title="体育竞技",魅力足球 [1080P]
+#EXTINF:-1 channel-id="4501" tvg-id="Football" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/魅力足球.png" group-title="体育竞技",魅力足球
 http://192.168.50.1:20231/rtp/239.21.2.95:5002
 
-#EXTINF:-1 channel-id="4502" tvg-id="Wushu" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/武术世界.png" group-title="体育竞技",武术世界 [1080P]
+#EXTINF:-1 channel-id="4502" tvg-id="Wushu" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/武术世界.png" group-title="体育竞技",武术世界
 http://192.168.50.1:20231/rtp/239.21.2.96:5002
 
-#EXTINF:-1 channel-id="4503" tvg-id="Qimo" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/汽摩.png" group-title="体育竞技",汽摩频道 [1080P]
+#EXTINF:-1 channel-id="4503" tvg-id="Qimo" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/汽摩.png" group-title="体育竞技",汽摩频道
 http://192.168.50.1:20231/rtp/239.21.2.142:5002
 
 #=========================== 生活服务 (5500-5999) ===========================#
-#EXTINF:-1 channel-id="5501" tvg-id="Tea" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/茶.png" group-title="生活服务",茶频道 [1080P]
+#EXTINF:-1 channel-id="5501" tvg-id="Tea" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/茶.png" group-title="生活服务",茶频道
 http://192.168.50.1:20231/rtp/239.21.2.110:5002
 
-#EXTINF:-1 channel-id="5502" tvg-id="Fishing" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/快乐垂钓.png" group-title="生活服务",快乐垂钓 [1080P]
+#EXTINF:-1 channel-id="5502" tvg-id="Fishing" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/快乐垂钓.png" group-title="生活服务",快乐垂钓
 http://192.168.50.1:20231/rtp/239.21.2.97:5002
 
-#EXTINF:-1 channel-id="5503" tvg-id="Fashion" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/生活时尚.png" group-title="生活服务",生活时尚 [1080P]
+#EXTINF:-1 channel-id="5503" tvg-id="Fashion" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/生活时尚.png" group-title="生活服务",生活时尚
 http://192.168.50.1:20231/rtp/239.21.2.103:5002
 
 #=========================== 地方频道-山东 (6000-6199) ===========================#
-#EXTINF:-1 channel-id="6001" tvg-id="SDQL" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东齐鲁.png" group-title="地方台",山东齐鲁 [1080P]
+#EXTINF:-1 channel-id="6001" tvg-id="SDQL" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东齐鲁.png" group-title="地方台",山东齐鲁
 http://192.168.50.1:20231/rtp/239.21.1.134:5002
 
-#EXTINF:-1 channel-id="6002" tvg-id="SDXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png" group-title="地方台",山东新闻 [1080P]
+#EXTINF:-1 channel-id="6002" tvg-id="SDXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png" group-title="地方台",山东新闻
 http://192.168.50.1:20231/rtp/239.21.1.140:5002
 
-#EXTINF:-1 channel-id="6003" tvg-id="SDTY" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="地方台",山东体育 [1080P]
+#EXTINF:-1 channel-id="6003" tvg-id="SDTY" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="地方台",山东体育
 http://192.168.50.1:20231/rtp/239.21.1.141:5002
 
-#EXTINF:-1 channel-id="6004" tvg-id="SDJY" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东教育.png" group-title="地方台",山东教育 [1080P]
+#EXTINF:-1 channel-id="6004" tvg-id="SDJY" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东教育.png" group-title="地方台",山东教育
 http://192.168.50.1:20231/rtp/239.21.1.169:5002
 
-#EXTINF:-1 channel-id="6005" tvg-id="SDSH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东生活.png" group-title="地方台",山东生活 [1080P]
+#EXTINF:-1 channel-id="6005" tvg-id="SDSH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东生活.png" group-title="地方台",山东生活
 http://192.168.50.1:20231/rtp/239.21.1.175:5002
 
-#EXTINF:-1 channel-id="6006" tvg-id="SDYS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东影视.png" group-title="地方台",山东影视 [1080P]
+#EXTINF:-1 channel-id="6006" tvg-id="SDYS" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东影视.png" group-title="地方台",山东影视
 http://192.168.50.1:20231/rtp/239.21.1.176:5002
 
-#EXTINF:-1 channel-id="6007" tvg-id="SDNK" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东农科.png" group-title="地方台",山东农科 [1080P]
+#EXTINF:-1 channel-id="6007" tvg-id="SDNK" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东农科.png" group-title="地方台",山东农科
 http://192.168.50.1:20231/rtp/239.21.1.183:5002
 
-#EXTINF:-1 channel-id="6008" tvg-id="SDSE" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东少儿.png" group-title="地方台",山东少儿 [1080P]
+#EXTINF:-1 channel-id="6008" tvg-id="SDSE" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东少儿.png" group-title="地方台",山东少儿
 http://192.168.50.1:20231/rtp/239.21.1.208:5002
 
 #=========================== 地方频道-济南周边 (6000-6099) ===========================#
-#EXTINF:-1 channel-id="6001" tvg-id="JNZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/济南新闻综合.png" group-title="地方台",济南新闻综合 [1080P]
+#EXTINF:-1 channel-id="6001" tvg-id="JNZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/济南新闻综合.png" group-title="地方台",济南新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.94:5002
 
-#EXTINF:-1 channel-id="6002" tvg-id="JNJY" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",济南教育 [1080P]
+#EXTINF:-1 channel-id="6002" tvg-id="JNJY" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",济南教育
 http://192.168.50.1:20231/rtp/239.21.1.133:5002
 
-#EXTINF:-1 channel-id="6003" tvg-id="JYZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",济阳综合 [1080P]
+#EXTINF:-1 channel-id="6003" tvg-id="JYZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",济阳综合
 http://192.168.50.1:20231/rtp/239.21.1.187:5002
 
-#EXTINF:-1 channel-id="6004" tvg-id="PYTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",平阴综合 [1080P]
+#EXTINF:-1 channel-id="6004" tvg-id="PYTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",平阴综合
 http://192.168.50.1:20231/rtp/239.21.1.221:5002
 
 #=========================== 地方频道-青岛周边 (6100-6199) ===========================#
-#EXTINF:-1 channel-id="6101" tvg-id="LSZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",崂山综合 [1080P]
+#EXTINF:-1 channel-id="6101" tvg-id="LSZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",崂山综合
 http://192.168.50.1:20231/rtp/239.21.1.223:5002
 
-#EXTINF:-1 channel-id="6102" tvg-id="PDTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",平度综合 [1080P]
+#EXTINF:-1 channel-id="6102" tvg-id="PDTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",平度综合
 http://192.168.50.1:20231/rtp/239.21.1.228:5002
 
-#EXTINF:-1 channel-id="6103" tvg-id="JZTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",胶州综合 [1080P]
+#EXTINF:-1 channel-id="6103" tvg-id="JZTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",胶州综合
 http://192.168.50.1:20231/rtp/239.21.2.60:5002
 
 #=========================== 地方频道-烟台威海 (6200-6299) ===========================#
-#EXTINF:-1 channel-id="6201" tvg-id="YTXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",烟台新闻综合 [1080P]
+#EXTINF:-1 channel-id="6201" tvg-id="YTXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",烟台新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.116:5002
 
-#EXTINF:-1 channel-id="6202" tvg-id="YTJJ" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",烟台经济生活 [1080P]
+#EXTINF:-1 channel-id="6202" tvg-id="YTJJ" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",烟台经济生活
 http://192.168.50.1:20231/rtp/239.21.1.205:5002
 
-#EXTINF:-1 channel-id="6203" tvg-id="RSZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",乳山综合 [1080P]
+#EXTINF:-1 channel-id="6203" tvg-id="RSZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",乳山综合
 http://192.168.50.1:20231/rtp/239.21.1.220:5002
 
-#EXTINF:-1 channel-id="6204" tvg-id="RCZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",荣成综合 [1080P]
+#EXTINF:-1 channel-id="6204" tvg-id="RCZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",荣成综合
 http://192.168.50.1:20231/rtp/239.21.1.227:5002
 
 #=========================== 地方频道-鲁中 (6300-6399) ===========================#
-#EXTINF:-1 channel-id="6301" tvg-id="ZBZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/淄博综合.png" group-title="地方台",淄博综合 [1080P]
+#EXTINF:-1 channel-id="6301" tvg-id="ZBZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/淄博综合.png" group-title="地方台",淄博综合
 http://192.168.50.1:20231/rtp/239.21.1.84:5002
 
-#EXTINF:-1 channel-id="6302" tvg-id="ZCZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",淄川新闻 [1080P]
+#EXTINF:-1 channel-id="6302" tvg-id="ZCZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",淄川新闻
 http://192.168.50.1:20231/rtp/239.21.1.160:5002
 
-#EXTINF:-1 channel-id="6303" tvg-id="WFXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/潍坊新闻综合.png" group-title="地方台",潍坊新闻综合 [1080P]
+#EXTINF:-1 channel-id="6303" tvg-id="WFXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/潍坊新闻综合.png" group-title="地方台",潍坊新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.77:5002
 
-#EXTINF:-1 channel-id="6304" tvg-id="SGSC" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",寿光蔬菜 [1080P]
+#EXTINF:-1 channel-id="6304" tvg-id="SGSC" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",寿光蔬菜
 http://192.168.50.1:20231/rtp/239.21.1.218:5002
 
 #=========================== 地方频道-鲁西南 (6400-6499) ===========================#
-#EXTINF:-1 channel-id="6401" tvg-id="JNZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",济宁综合 [1080P]
+#EXTINF:-1 channel-id="6401" tvg-id="JNZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",济宁综合
 http://192.168.50.1:20231/rtp/239.21.2.19:5002
 
-#EXTINF:-1 channel-id="6402" tvg-id="JXZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",嘉祥新闻 [1080P]
+#EXTINF:-1 channel-id="6402" tvg-id="JXZX" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",嘉祥新闻
 http://192.168.50.1:20231/rtp/239.21.2.84:5002
 
-#EXTINF:-1 channel-id="6403" tvg-id="YTXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",鱼台新闻 [1080P]
+#EXTINF:-1 channel-id="6403" tvg-id="YTXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",鱼台新闻
 http://192.168.50.1:20231/rtp/239.21.2.134:5002
 
-#EXTINF:-1 channel-id="6404" tvg-id="DTTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",定陶综合 [1080P]
+#EXTINF:-1 channel-id="6404" tvg-id="DTTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",定陶综合
 http://192.168.50.1:20231/rtp/239.21.1.244:5002
 
 #=========================== 地方频道-鲁北 (6500-6599) ===========================#
-#EXTINF:-1 channel-id="6501" tvg-id="DZXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/德州新闻综合.png" group-title="地方台",德州新闻综合 [1080P]
+#EXTINF:-1 channel-id="6501" tvg-id="DZXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/德州新闻综合.png" group-title="地方台",德州新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.75:5002
 
-#EXTINF:-1 channel-id="6502" tvg-id="XJGG" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",夏津公共 [1080P]
+#EXTINF:-1 channel-id="6502" tvg-id="XJGG" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",夏津公共
 http://192.168.50.1:20231/rtp/239.21.1.102:5002
 
-#EXTINF:-1 channel-id="6503" tvg-id="QHTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",齐河综合 [1080P]
+#EXTINF:-1 channel-id="6503" tvg-id="QHTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",齐河综合
 http://192.168.50.1:20231/rtp/239.21.1.230:5002
 
-#EXTINF:-1 channel-id="6504" tvg-id="BZTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",滨州综合 [1080P]
+#EXTINF:-1 channel-id="6504" tvg-id="BZTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",滨州综合
 http://192.168.50.1:20231/rtp/239.21.1.214:5002
 
 #=========================== 地方频道-鲁南 (6600-6699) ===========================#
-#EXTINF:-1 channel-id="6601" tvg-id="LYXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",临沂综合 [1080P]
+#EXTINF:-1 channel-id="6601" tvg-id="LYXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",临沂综合
 http://192.168.50.1:20231/rtp/239.21.2.136:5002
 
-#EXTINF:-1 channel-id="6602" tvg-id="LLZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",兰陵综合 [1080P]
+#EXTINF:-1 channel-id="6602" tvg-id="LLZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",兰陵综合
 http://192.168.50.1:20231/rtp/239.21.1.237:5002
 
-#EXTINF:-1 channel-id="6603" tvg-id="ZZXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",枣庄综合 [1080P]
+#EXTINF:-1 channel-id="6603" tvg-id="ZZXW" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",枣庄综合
 http://192.168.50.1:20231/rtp/239.21.1.225:5002
 
 #=========================== 其他县市 (6700-6999) ===========================#
-#EXTINF:-1 channel-id="6701" tvg-id="LSZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",岚山综合 [1080P]
+#EXTINF:-1 channel-id="6701" tvg-id="LSZH" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",岚山综合
 http://192.168.50.1:20231/rtp/239.21.1.209:5002
 
-#EXTINF:-1 channel-id="6702" tvg-id="CXTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",曹县综合 [1080P]
+#EXTINF:-1 channel-id="6702" tvg-id="CXTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",曹县综合
 http://192.168.50.1:20231/rtp/239.21.2.21:5002
 
-#EXTINF:-1 channel-id="6703" tvg-id="JXTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",莒县综合 [1080P]
+#EXTINF:-1 channel-id="6703" tvg-id="JXTV" tvg-language="zh" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/emby.png" group-title="地方台",莒县综合
 http://192.168.50.1:20231/rtp/239.21.1.236:5002
 
 #=========================== 广播频道 (7000-7499) ===========================#
