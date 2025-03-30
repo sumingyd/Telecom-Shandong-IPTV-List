@@ -1,0 +1,657 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:-1 tvg-id="70d99b7c-394f-4a41-aadc-c27f3d44037e" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="央视",CCTV-13 新闻
+http://192.168.50.1:20231/rtp/239.21.1.14:5002
+#EXTINF:-1 tvg-id="ce5f891c-5b27-4817-bb88-5604f9a3bb3a" tvg-name="CCTV-2 财经" tvg-logo="" group-title="央视",CCTV-2 财经
+http://192.168.50.1:20231/rtp/239.21.1.2:5002
+#EXTINF:-1 tvg-id="edc19f90-c405-440c-a912-894a1fd57dc6" tvg-name="CCTV-1 综合" tvg-logo="" group-title="央视",CCTV-1 综合
+http://192.168.50.1:20231/rtp/239.21.1.1:5002
+#EXTINF:-1 tvg-id="f7fd0c5c-40e4-425f-88da-89f6070c0752" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
+http://192.168.50.1:20231/rtp/239.21.1.19:5002
+#EXTINF:-1 tvg-id="95baad00-4c41-4260-8266-28d9fec6fb91" tvg-name="湖南卫视" tvg-logo="" group-title="卫视",湖南卫视
+http://192.168.50.1:20231/rtp/239.21.1.18:5002
+#EXTINF:-1 tvg-id="acbf9d7b-d918-46cb-a5b1-d1daf8505d8c" tvg-name="CGTN" tvg-logo="" group-title="央视",CGTN
+http://192.168.50.1:20231/rtp/239.21.1.10:5002
+#EXTINF:-1 tvg-id="a0ed7ad9-878a-41f9-bdde-31b22e6c1f8d" tvg-name="CCTV-9 纪录" tvg-logo="" group-title="央视",CCTV-9 纪录
+http://192.168.50.1:20231/rtp/239.21.1.9:5002
+#EXTINF:-1 tvg-id="e002cb26-ecb1-4a3b-933f-b49f556c26f8" tvg-name="CCTV-7 国防军事" tvg-logo="" group-title="央视",CCTV-7 国防军事
+http://192.168.50.1:20231/rtp/239.21.1.7:5002
+#EXTINF:-1 tvg-id="25be7aca-a914-4084-be25-fad3c95a8f9b" tvg-name="CCTV-11 戏曲" tvg-logo="" group-title="央视",CCTV-11 戏曲
+http://192.168.50.1:20231/rtp/239.21.1.12:5002
+#EXTINF:-1 tvg-id="6418adaf-c291-42f4-870a-654220d16006" tvg-name="CCTV-15 音乐" tvg-logo="" group-title="央视",CCTV-15 音乐
+http://192.168.50.1:20231/rtp/239.21.1.16:5002
+#EXTINF:-1 tvg-id="9d3a1d84-c3b0-46f8-9387-17c95be30ebb" tvg-name="CCTV-14 少儿" tvg-logo="" group-title="央视",CCTV-14 少儿
+http://192.168.50.1:20231/rtp/239.21.1.15:5002
+#EXTINF:-1 tvg-id="2e70926c-5190-409f-9efe-f6c66b1e81cc" tvg-name="CCTV-12 社会与法" tvg-logo="" group-title="央视",CCTV-12 社会与法
+http://192.168.50.1:20231/rtp/239.21.1.13:5002
+#EXTINF:-1 tvg-id="e706739a-e376-4962-a255-a0dd20d86ac2" tvg-name="CCTV-4 (亚洲)" tvg-logo="" group-title="央视",CCTV-4 (亚洲)
+http://192.168.50.1:20231/rtp/239.21.1.4:5002
+#EXTINF:-1 tvg-id="cdbfffa2-4566-4892-8674-b138c66b2948" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
+http://192.168.50.1:20231/rtp/239.21.1.17:5002
+#EXTINF:-1 tvg-id="31cec108-bb17-481f-b817-2e949c9fa3a3" tvg-name="CCTV-10 科教" tvg-logo="" group-title="央视",CCTV-10 科教
+http://192.168.50.1:20231/rtp/239.21.1.11:5002
+#EXTINF:-1 tvg-id="4d342668-13cc-4d03-9a7a-9a9585995551" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
+http://192.168.50.1:20231/rtp/239.21.1.20:5002
+#EXTINF:-1 tvg-id="138981cf-1592-4a72-822a-65dff5ac5d01" tvg-name="安徽卫视" tvg-logo="" group-title="卫视",安徽卫视
+http://192.168.50.1:20231/rtp/239.21.1.21:5002
+#EXTINF:-1 tvg-id="bcef5bf7-35d5-41e9-a35a-805877cb1acb" tvg-name="山西卫视" tvg-logo="" group-title="卫视",山西卫视
+http://192.168.50.1:20231/rtp/239.21.1.33:5002
+#EXTINF:-1 tvg-id="def8dfdf-c672-4973-beb9-d838f070b6e4" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
+http://192.168.50.1:20231/rtp/239.21.1.23:5002
+#EXTINF:-1 tvg-id="d60fb464-4fd5-41fb-8076-a754fa5f10ce" tvg-name="天津卫视" tvg-logo="" group-title="卫视",天津卫视
+http://192.168.50.1:20231/rtp/239.21.1.22:5002
+#EXTINF:-1 tvg-id="b4b27580-b917-481d-9f8c-fea04cc1712e" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
+http://192.168.50.1:20231/rtp/239.21.1.27:5002
+#EXTINF:-1 tvg-id="3f126c63-1fd9-4889-9c16-b2418dfb69a5" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
+http://192.168.50.1:20231/rtp/239.21.1.26:5002
+#EXTINF:-1 tvg-id="871d4af0-ea45-4c31-9706-d9dfe1d5a563" tvg-name="黑龙江卫视" tvg-logo="" group-title="卫视",黑龙江卫视
+http://192.168.50.1:20231/rtp/239.21.1.28:5002
+#EXTINF:-1 tvg-id="e5014970-6076-412c-84c2-dd3a34b74f55" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
+http://192.168.50.1:20231/rtp/239.21.1.32:5002
+#EXTINF:-1 tvg-id="c4c47c8b-385c-4d5c-a97a-6e8eb05b0bbf" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
+http://192.168.50.1:20231/rtp/239.21.1.35:5002
+#EXTINF:-1 tvg-id="c93b6bf6-374a-4300-8d8b-eb45d7a99607" tvg-name="四川卫视" tvg-logo="" group-title="卫视",四川卫视
+http://192.168.50.1:20231/rtp/239.21.1.34:5002
+#EXTINF:-1 tvg-id="13d80c5b-83c5-47ed-9591-08f06aeac591" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
+http://192.168.50.1:20231/rtp/239.21.1.36:5002
+#EXTINF:-1 tvg-id="2762aa39-9c07-45a6-bc38-ec39dcc57106" tvg-name="深圳卫视" tvg-logo="" group-title="卫视",深圳卫视
+http://192.168.50.1:20231/rtp/239.21.1.25:5002
+#EXTINF:-1 tvg-id="569dfdce-fd12-418e-ba04-1551f6efc568" tvg-name="东南卫视" tvg-logo="" group-title="卫视",东南卫视
+http://192.168.50.1:20231/rtp/239.21.1.29:5002
+#EXTINF:-1 tvg-id="36b9267a-fed1-4942-9f0e-71900cd6101d" tvg-name="海南卫视" tvg-logo="" group-title="卫视",海南卫视
+http://192.168.50.1:20231/rtp/239.21.1.31:5002
+#EXTINF:-1 tvg-id="61fa0be8-ed44-4587-827f-b91efd0e1af0" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
+http://192.168.50.1:20231/rtp/239.21.1.30:5002
+#EXTINF:-1 tvg-id="636ced4c-b111-4605-9110-3e4891764f8a" tvg-name="吉林卫视" tvg-logo="" group-title="卫视",吉林卫视
+http://192.168.50.1:20231/rtp/239.21.1.37:5002
+#EXTINF:-1 tvg-id="c933ef89-0ccf-4fbb-b5e8-fd26a097481f" tvg-name="河南卫视" tvg-logo="" group-title="卫视",河南卫视
+http://192.168.50.1:20231/rtp/239.21.1.38:5002
+#EXTINF:-1 tvg-id="1fcfe35b-a333-4f81-91ce-c76e9dfa0137" tvg-name="内蒙古卫视" tvg-logo="" group-title="卫视",内蒙古卫视
+http://192.168.50.1:20231/rtp/239.21.1.41:5002
+#EXTINF:-1 tvg-id="9e22b581-47c5-4cab-9770-076fe882266e" tvg-name="贵州卫视" tvg-logo="" group-title="卫视",贵州卫视
+http://192.168.50.1:20231/rtp/239.21.1.42:5002
+#EXTINF:-1 tvg-id="03a9b6cc-ed03-40ba-a298-195f79129151" tvg-name="新疆卫视" tvg-logo="" group-title="卫视",新疆卫视
+http://192.168.50.1:20231/rtp/239.21.1.45:5002
+#EXTINF:-1 tvg-id="72a09350-6765-497d-b673-54a39c39ebed" tvg-name="西藏卫视" tvg-logo="" group-title="卫视",西藏卫视
+http://192.168.50.1:20231/rtp/239.21.1.46:5002
+#EXTINF:-1 tvg-id="f09d52a9-ecd7-44f6-97a0-96fe05b5e74d" tvg-name="哈哈炫动" tvg-logo="" group-title="未分类",哈哈炫动
+http://192.168.50.1:20231/rtp/239.21.1.51:5002
+#EXTINF:-1 tvg-id="958906f3-5235-4254-9b8c-2254ca650156" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视",甘肃卫视
+http://192.168.50.1:20231/rtp/239.21.1.47:5002
+#EXTINF:-1 tvg-id="3f9c3aad-aff8-4507-a3d5-21ad7936abff" tvg-name="宁夏卫视" tvg-logo="" group-title="卫视",宁夏卫视
+http://192.168.50.1:20231/rtp/239.21.1.44:5002
+#EXTINF:-1 tvg-id="511e6156-a1a2-4977-a62d-fa7be1c44056" tvg-name="山东综艺" tvg-logo="" group-title="本地",山东综艺
+http://192.168.50.1:20231/rtp/239.21.1.55:5002
+#EXTINF:-1 tvg-id="516cd2d3-e539-47a1-bf93-8926a541bd3a" tvg-name="山东农科" tvg-logo="" group-title="本地",山东农科
+http://192.168.50.1:20231/rtp/239.21.1.59:5002
+#EXTINF:-1 tvg-id="e7910f14-83cf-4d56-862c-d95dc6b18662" tvg-name="山东卫视" tvg-logo="" group-title="卫视",山东卫视
+http://192.168.50.1:20231/rtp/239.21.1.52:5002
+#EXTINF:-1 tvg-id="9f3d7938-c767-4db4-943e-ad65092ecace" tvg-name="山东生活" tvg-logo="" group-title="本地",山东生活
+http://192.168.50.1:20231/rtp/239.21.1.56:5002
+#EXTINF:-1 tvg-id="de4cfd5b-91a0-4de6-9ac4-bda22c7757e9" tvg-name="山东文旅" tvg-logo="" group-title="本地",山东文旅
+http://192.168.50.1:20231/rtp/239.21.1.57:5002
+#EXTINF:-1 tvg-id="bd66052a-cad8-44eb-932c-d096a5ea221f" tvg-name="山东体育休闲" tvg-logo="" group-title="本地",山东体育休闲
+http://192.168.50.1:20231/rtp/239.21.1.58:5002
+#EXTINF:-1 tvg-id="339fa536-657a-4575-bc18-0180cc253a75" tvg-name="山东少儿" tvg-logo="" group-title="本地",山东少儿
+http://192.168.50.1:20231/rtp/239.21.1.60:5002
+#EXTINF:-1 tvg-id="e2018aaf-233e-4cd0-b98b-6e917396e1bd" tvg-name="山东齐鲁" tvg-logo="" group-title="本地",山东齐鲁
+http://192.168.50.1:20231/rtp/239.21.1.53:5002
+#EXTINF:-1 tvg-id="4d55861b-0f62-4d99-b5f3-3fc20d9dbfd5" tvg-name="山东新闻" tvg-logo="" group-title="本地",山东新闻
+http://192.168.50.1:20231/rtp/239.21.1.54:5002
+#EXTINF:-1 tvg-id="682cb697-1795-46e4-be96-6b9cfbbe862e" tvg-name="优漫卡通" tvg-logo="" group-title="未分类",优漫卡通
+http://192.168.50.1:20231/rtp/239.21.1.50:5002
+#EXTINF:-1 tvg-id="be03c623-1121-4aff-b552-9c17368ea746" tvg-name="济南生活" tvg-logo="" group-title="未分类",济南生活
+http://192.168.50.1:20231/rtp/239.21.1.64:5002
+#EXTINF:-1 tvg-id="bc5823eb-c644-455f-a13a-34b55fc6826d" tvg-name="济南新闻" tvg-logo="" group-title="未分类",济南新闻
+http://192.168.50.1:20231/rtp/239.21.1.62:5002
+#EXTINF:-1 tvg-id="77c6e545-c311-4735-aa60-9b8b0e37b207" tvg-name="济南都市" tvg-logo="" group-title="未分类",济南都市
+http://192.168.50.1:20231/rtp/239.21.1.63:5002
+#EXTINF:-1 tvg-id="2c91471b-e04f-4991-954a-259fdaae1bff" tvg-name="济南文旅" tvg-logo="" group-title="未分类",济南文旅
+http://192.168.50.1:20231/rtp/239.21.1.65:5002
+#EXTINF:-1 tvg-id="e6a5b384-3726-4fd7-a8c0-c2cb927c16b1" tvg-name="济南娱乐" tvg-logo="" group-title="未分类",济南娱乐
+http://192.168.50.1:20231/rtp/239.21.1.66:5002
+#EXTINF:-1 tvg-id="b4d08a3e-5e82-4a4c-bbb7-13de1ad79585" tvg-name="济南少儿" tvg-logo="" group-title="未分类",济南少儿
+http://192.168.50.1:20231/rtp/239.21.1.68:5002
+#EXTINF:-1 tvg-id="578f6985-273c-4702-a32a-d3fb5e0a318a" tvg-name="QTV-1" tvg-logo="" group-title="未分类",QTV-1
+http://192.168.50.1:20231/rtp/239.21.1.69:5002
+#EXTINF:-1 tvg-id="acb60c52-97bf-4790-b166-532f0720a9d2" tvg-name="QTV-3" tvg-logo="" group-title="未分类",QTV-3
+http://192.168.50.1:20231/rtp/239.21.1.71:5002
+#EXTINF:-1 tvg-id="a06ed8a4-8b3a-458d-a292-b24c83d3ded3" tvg-name="潍坊新闻" tvg-logo="" group-title="未分类",潍坊新闻
+http://192.168.50.1:20231/rtp/239.21.1.77:5002
+#EXTINF:-1 tvg-id="8724f895-6ff2-459c-b635-052197f06421" tvg-name="德州新闻" tvg-logo="" group-title="未分类",德州新闻
+http://192.168.50.1:20231/rtp/239.21.1.75:5002
+#EXTINF:-1 tvg-id="03098aaf-bc01-4cb4-9e7b-4a65244c3997" tvg-name="德州经济" tvg-logo="" group-title="未分类",德州经济
+http://192.168.50.1:20231/rtp/239.21.1.76:5002
+#EXTINF:-1 tvg-id="8ad52a5a-1a32-48f7-aa64-4d67892621d5" tvg-name="潍坊经济" tvg-logo="" group-title="未分类",潍坊经济
+http://192.168.50.1:20231/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="d5975786-8c27-40aa-8bd7-e410b65c82e9" tvg-name="QTV-4" tvg-logo="" group-title="未分类",QTV-4
+http://192.168.50.1:20231/rtp/239.21.1.72:5002
+#EXTINF:-1 tvg-id="9f0edf0e-38b9-4871-ad98-56db1de4f289" tvg-name="QTV-2" tvg-logo="" group-title="未分类",QTV-2
+http://192.168.50.1:20231/rtp/239.21.1.70:5002
+#EXTINF:-1 tvg-id="4da2b38f-a6fc-4198-b105-76e82a8b5348" tvg-name="日照科教" tvg-logo="" group-title="未分类",日照科教
+http://192.168.50.1:20231/rtp/239.21.1.80:5002
+#EXTINF:-1 tvg-id="94decd13-c442-4fbd-a9a8-31026bf4695a" tvg-name="QTV-6" tvg-logo="" group-title="未分类",QTV-6
+http://192.168.50.1:20231/rtp/239.21.1.74:5002
+#EXTINF:-1 tvg-id="bb14a369-df7e-4d52-9f91-304ccf57a0f3" tvg-name="日照新闻" tvg-logo="" group-title="未分类",日照新闻
+http://192.168.50.1:20231/rtp/239.21.1.79:5002
+#EXTINF:-1 tvg-id="93455f7b-99b1-4a7a-ab3a-fa3d118f3692" tvg-name="QTV-5" tvg-logo="" group-title="未分类",QTV-5
+http://192.168.50.1:20231/rtp/239.21.1.73:5002
+#EXTINF:-1 tvg-id="34a06637-622b-4fc8-80ba-b549d3c1d8db" tvg-name="东营新闻" tvg-logo="" group-title="未分类",东营新闻
+http://192.168.50.1:20231/rtp/239.21.1.81:5002
+#EXTINF:-1 tvg-id="6051f455-5c80-4a95-be08-13df6c06127d" tvg-name="淄博新闻" tvg-logo="" group-title="未分类",淄博新闻
+http://192.168.50.1:20231/rtp/239.21.1.84:5002
+#EXTINF:-1 tvg-id="19cb41e6-f543-45a0-9f16-cf63ae056f40" tvg-name="东营公共" tvg-logo="" group-title="未分类",东营公共
+http://192.168.50.1:20231/rtp/239.21.1.82:5002
+#EXTINF:-1 tvg-id="4d342668-13cc-4d03-9a7a-9a9585995551" tvg-name="北京卫视" tvg-logo="" group-title="未分类",北京卫视
+http://192.168.50.1:20231/rtp/239.21.1.88:5002
+#EXTINF:-1 tvg-id="cbe285fd-68d3-40f0-9591-4ecba6eb788c" tvg-name="淄博文旅" tvg-logo="" group-title="未分类",淄博文旅
+http://192.168.50.1:20231/rtp/239.21.1.83:5002
+#EXTINF:-1 tvg-id="e7910f14-83cf-4d56-862c-d95dc6b18662" tvg-name="山东卫视" tvg-logo="" group-title="卫视",山东卫视
+http://192.168.50.1:20231/rtp/239.21.1.87:5002
+#EXTINF:-1 tvg-id="f7fd0c5c-40e4-425f-88da-89f6070c0752" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
+http://192.168.50.1:20231/rtp/239.21.1.89:5002
+#EXTINF:-1 tvg-id="cdbfffa2-4566-4892-8674-b138c66b2948" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
+http://192.168.50.1:20231/rtp/239.21.1.90:5002
+#EXTINF:-1 tvg-id="3f126c63-1fd9-4889-9c16-b2418dfb69a5" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
+http://192.168.50.1:20231/rtp/239.21.1.92:5002
+#EXTINF:-1 tvg-id="871d4af0-ea45-4c31-9706-d9dfe1d5a563" tvg-name="黑龙江卫视" tvg-logo="" group-title="卫视",黑龙江卫视
+http://192.168.50.1:20231/rtp/239.21.1.91:5002
+#EXTINF:-1 tvg-id="2762aa39-9c07-45a6-bc38-ec39dcc57106" tvg-name="深圳卫视" tvg-logo="" group-title="卫视",深圳卫视
+http://192.168.50.1:20231/rtp/239.21.1.93:5002
+#EXTINF:-1 tvg-id="bc5823eb-c644-455f-a13a-34b55fc6826d" tvg-name="济南新闻" tvg-logo="" group-title="未分类",济南新闻
+http://192.168.50.1:20231/rtp/239.21.1.94:5002
+#EXTINF:-1 tvg-id="9016e4c1-654b-4cf4-a495-b0ed3f9ec0b8" tvg-name="CCTV 中视购物" tvg-logo="" group-title="未分类",CCTV 中视购物
+http://192.168.50.1:20231/rtp/239.21.1.100:5002
+#EXTINF:-1 tvg-id="08f4c90c-dc89-4a9a-8706-7a028a02b89e" tvg-name="夏津公共" tvg-logo="" group-title="未分类",夏津公共
+http://192.168.50.1:20231/rtp/239.21.1.102:5002
+#EXTINF:-1 tvg-id="81aeafde-009c-44c8-bd8e-e109cd28d16b" tvg-name="山东教育台" tvg-logo="" group-title="未分类",山东教育台
+http://192.168.50.1:20231/rtp/239.21.1.101:5002
+#EXTINF:-1 tvg-id="d76165f6-7dac-4135-ba05-da290a9064fd" tvg-name="菏泽" tvg-logo="" group-title="未分类",菏泽
+http://192.168.50.1:20231/rtp/239.21.1.103:5002
+#EXTINF:-1 tvg-id="3ae9f043-cdac-4e50-9f44-923c60ed85cb" tvg-name="夏津综合" tvg-logo="" group-title="未分类",夏津综合
+http://192.168.50.1:20231/rtp/239.21.1.106:5002
+#EXTINF:-1 tvg-id="185ba644-57f0-4c7e-860a-92f8bf4fabaf" tvg-name="恒台综合" tvg-logo="" group-title="未分类",恒台综合
+http://192.168.50.1:20231/rtp/239.21.1.105:5002
+#EXTINF:-1 tvg-id="3e4af5e4-7e97-4ff8-8dad-7d6bf903ac1c" tvg-name="长清综合" tvg-logo="" group-title="未分类",长清综合
+http://192.168.50.1:20231/rtp/239.21.1.107:5002
+#EXTINF:-1 tvg-id="def8dfdf-c672-4973-beb9-d838f070b6e4" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
+http://192.168.50.1:20231/rtp/239.21.1.111:5002
+#EXTINF:-1 tvg-id="be927ab7-eb09-47ec-b217-55d4c2dc6334" tvg-name="淄博民生" tvg-logo="" group-title="未分类",淄博民生
+http://192.168.50.1:20231/rtp/239.21.1.109:5002
+#EXTINF:-1 tvg-id="ab5e89e1-1edf-4975-badb-55e10da7132b" tvg-name="山东居家购物" tvg-logo="" group-title="未分类",山东居家购物
+http://192.168.50.1:20231/rtp/239.21.1.112:5002
+#EXTINF:-1 tvg-id="569dfdce-fd12-418e-ba04-1551f6efc568" tvg-name="东南卫视" tvg-logo="" group-title="未分类",东南卫视
+http://192.168.50.1:20231/rtp/239.21.1.113:5002
+#EXTINF:-1 tvg-id="c4ca8626-a3ef-4b28-ae01-c426cf54b1e3" tvg-name="中国交通" tvg-logo="" group-title="未分类",中国交通
+http://192.168.50.1:20231/rtp/239.21.1.115:5002
+#EXTINF:-1 tvg-id="113520ec-8a81-4ad8-83ea-5701eb511587" tvg-name="烟台新闻" tvg-logo="" group-title="未分类",烟台新闻
+http://192.168.50.1:20231/rtp/239.21.1.116:5002
+#EXTINF:-1 tvg-id="edc19f90-c405-440c-a912-894a1fd57dc6" tvg-name="CCTV-1 综合" tvg-logo="" group-title="央视",CCTV-1 综合
+http://192.168.50.1:20231/rtp/239.21.1.120:5002
+#EXTINF:-1 tvg-id="7d826397-9d6b-48ac-a497-45f4ef595996" tvg-name="沂源综合" tvg-logo="" group-title="未分类",沂源综合
+http://192.168.50.1:20231/rtp/239.21.1.114:5002
+#EXTINF:-1 tvg-id="32e2f031-1b88-492c-b549-523df71af9f5" tvg-name="滨州新闻" tvg-logo="" group-title="未分类",滨州新闻
+http://192.168.50.1:20231/rtp/239.21.1.118:5002
+#EXTINF:-1 tvg-id="f71ef064-8eeb-4175-8c8d-5cbd3353722b" tvg-name="烟台公共" tvg-logo="" group-title="未分类",烟台公共
+http://192.168.50.1:20231/rtp/239.21.1.117:5002
+#EXTINF:-1 tvg-id="eb3fd357-5d02-402e-bc20-43a4099ab96f" tvg-name="滨州民生" tvg-logo="" group-title="未分类",滨州民生
+http://192.168.50.1:20231/rtp/239.21.1.119:5002
+#EXTINF:-1 tvg-id="aa8978de-4edc-445d-bc4b-19b015e09253" tvg-name="IPTV经典电影" tvg-logo="" group-title="未分类",IPTV经典电影
+http://192.168.50.1:20231/rtp/239.21.1.124:5002
+#EXTINF:-1 tvg-id="45b266ff-951d-47d0-8393-3f3570cea2ed" tvg-name="喜剧影院" tvg-logo="" group-title="未分类",喜剧影院
+http://192.168.50.1:20231/rtp/239.21.1.122:5002
+#EXTINF:-1 tvg-id="89cbd498-6cd7-41a3-a16d-3da1b99cf5c2" tvg-name="动作影院" tvg-logo="" group-title="未分类",动作影院
+http://192.168.50.1:20231/rtp/239.21.1.123:5002
+#EXTINF:-1 tvg-id="f1c17698-7cf7-448c-88fb-719c932d4acf" tvg-name="少儿动画" tvg-logo="" group-title="未分类",少儿动画
+http://192.168.50.1:20231/rtp/239.21.1.125:5002
+#EXTINF:-1 tvg-id="25be7aca-a914-4084-be25-fad3c95a8f9b" tvg-name="CCTV-11 戏曲" tvg-logo="" group-title="央视",CCTV-11 戏曲
+http://192.168.50.1:20231/rtp/239.21.1.126:5002
+#EXTINF:-1 tvg-id="af9b0a1f-176d-4b63-8ced-a3ed1fcd03ff" tvg-name="热播剧场" tvg-logo="" group-title="未分类",热播剧场
+http://192.168.50.1:20231/rtp/239.21.1.128:5002
+#EXTINF:-1 tvg-id="da9eed9f-74c6-49af-8afa-d7977269666f" tvg-name="财富天下" tvg-logo="" group-title="未分类",财富天下
+http://192.168.50.1:20231/rtp/239.21.1.127:5002
+#EXTINF:-1 tvg-id="444bc12a-1632-471c-9a69-12b9785abcbb" tvg-name="济南教育" tvg-logo="" group-title="未分类",济南教育
+http://192.168.50.1:20231/rtp/239.21.1.133:5002
+#EXTINF:-1 tvg-id="e2018aaf-233e-4cd0-b98b-6e917396e1bd" tvg-name="山东齐鲁" tvg-logo="" group-title="未分类",山东齐鲁
+http://192.168.50.1:20231/rtp/239.21.1.134:5002
+#EXTINF:-1 tvg-id="a98f45e4-c16a-428c-9a9c-09ca90f5407c" tvg-name="墨宝" tvg-logo="" group-title="未分类",墨宝
+http://192.168.50.1:20231/rtp/239.21.1.130:5002
+#EXTINF:-1 tvg-id="845b95c6-7ba3-4383-9c95-c32c88b63ab9" tvg-name="美人" tvg-logo="" group-title="未分类",美人
+http://192.168.50.1:20231/rtp/239.21.1.132:5002
+#EXTINF:-1 tvg-id="59744da0-7acb-4cbc-95ec-96d61bb1d844" tvg-name="魅力时尚" tvg-logo="" group-title="未分类",魅力时尚
+http://192.168.50.1:20231/rtp/239.21.1.129:5002
+#EXTINF:-1 tvg-id="2158dc79-2e2e-4c2a-825d-5e645c194c34" tvg-name="光影" tvg-logo="" group-title="未分类",光影
+http://192.168.50.1:20231/rtp/239.21.1.131:5002
+#EXTINF:-1 tvg-id="4d55861b-0f62-4d99-b5f3-3fc20d9dbfd5" tvg-name="山东新闻" tvg-logo="" group-title="未分类",山东新闻
+http://192.168.50.1:20231/rtp/239.21.1.140:5002
+#EXTINF:-1 tvg-id="a99f1b42-1f34-4d50-b6c1-923948081afd" tvg-name="济宁生活" tvg-logo="" group-title="未分类",济宁生活
+http://192.168.50.1:20231/rtp/239.21.1.139:5002
+#EXTINF:-1 tvg-id="3e23f4f6-2899-4e15-a3d6-358550bce8a3" tvg-name="济宁电视台" tvg-logo="" group-title="未分类",济宁电视台
+http://192.168.50.1:20231/rtp/239.21.1.138:5002
+#EXTINF:-1 tvg-id="bd66052a-cad8-44eb-932c-d096a5ea221f" tvg-name="山东体育休闲" tvg-logo="" group-title="未分类",山东体育休闲
+http://192.168.50.1:20231/rtp/239.21.1.141:5002
+#EXTINF:-1 tvg-id="4e89206e-a8c6-4e29-a33c-1add0386fe47" tvg-name="CCTV-5+ 体育赛事" tvg-logo="" group-title="未分类",CCTV-5+ 体育赛事
+http://192.168.50.1:20231/rtp/239.21.1.142:5002
+#EXTINF:-1 tvg-id="973e70e0-d1bd-4e1b-b458-06f3766518fe" tvg-name="宁阳综合" tvg-logo="" group-title="未分类",宁阳综合
+http://192.168.50.1:20231/rtp/239.21.1.143:5002
+#EXTINF:-1 tvg-id="3917a419-2d30-4791-8fb3-89b5b246263f" tvg-name="宁阳-2" tvg-logo="" group-title="未分类",宁阳-2
+http://192.168.50.1:20231/rtp/239.21.1.144:5002
+#EXTINF:-1 tvg-id="a0ed7ad9-878a-41f9-bdde-31b22e6c1f8d" tvg-name="CCTV-9 纪录" tvg-logo="" group-title="未分类",CCTV-9 纪录
+http://192.168.50.1:20231/rtp/239.21.1.153:5002
+#EXTINF:-1 tvg-id="ce5f891c-5b27-4817-bb88-5604f9a3bb3a" tvg-name="CCTV-2 财经" tvg-logo="" group-title="未分类",CCTV-2 财经
+http://192.168.50.1:20231/rtp/239.21.1.151:5002
+#EXTINF:-1 tvg-id="79010ab8-92e0-4cf1-890c-a42946daed04" tvg-name="济南鲁中" tvg-logo="" group-title="未分类",济南鲁中
+http://192.168.50.1:20231/rtp/239.21.1.149:5002
+#EXTINF:-1 tvg-id="e706739a-e376-4962-a255-a0dd20d86ac2" tvg-name="CCTV-4 (亚洲)" tvg-logo="" group-title="未分类",CCTV-4 (亚洲)
+http://192.168.50.1:20231/rtp/239.21.1.154:5002
+#EXTINF:-1 tvg-id="e002cb26-ecb1-4a3b-933f-b49f556c26f8" tvg-name="CCTV-7 国防军事" tvg-logo="" group-title="未分类",CCTV-7 国防军事
+http://192.168.50.1:20231/rtp/239.21.1.152:5002
+#EXTINF:-1 tvg-id="2e70926c-5190-409f-9efe-f6c66b1e81cc" tvg-name="CCTV-12 社会与法" tvg-logo="" group-title="未分类",CCTV-12 社会与法
+http://192.168.50.1:20231/rtp/239.21.1.156:5002
+#EXTINF:-1 tvg-id="31cec108-bb17-481f-b817-2e949c9fa3a3" tvg-name="CCTV-10 科教" tvg-logo="" group-title="未分类",CCTV-10 科教
+http://192.168.50.1:20231/rtp/239.21.1.155:5002
+#EXTINF:-1 tvg-id="9d3a1d84-c3b0-46f8-9387-17c95be30ebb" tvg-name="CCTV-14 少儿" tvg-logo="" group-title="未分类",CCTV-14 少儿
+http://192.168.50.1:20231/rtp/239.21.1.157:5002
+#EXTINF:-1 tvg-id="95baad00-4c41-4260-8266-28d9fec6fb91" tvg-name="湖南卫视" tvg-logo="" group-title="未分类",湖南卫视
+http://192.168.50.1:20231/rtp/239.21.1.158:5002
+#EXTINF:-1 tvg-id="de0e4beb-fc90-43e1-8897-65d5d8983767" tvg-name="淄川新闻" tvg-logo="" group-title="未分类",淄川新闻
+http://192.168.50.1:20231/rtp/239.21.1.160:5002
+#EXTINF:-1 tvg-id="138981cf-1592-4a72-822a-65dff5ac5d01" tvg-name="安徽卫视" tvg-logo="" group-title="未分类",安徽卫视
+http://192.168.50.1:20231/rtp/239.21.1.159:5002
+#EXTINF:-1 tvg-id="e5014970-6076-412c-84c2-dd3a34b74f55" tvg-name="湖北卫视" tvg-logo="" group-title="未分类",湖北卫视
+http://192.168.50.1:20231/rtp/239.21.1.163:5002
+#EXTINF:-1 tvg-id="391c10dc-bbf9-4ebe-a02b-081048f8016c" tvg-name="CCTV-5 体育" tvg-logo="" group-title="未分类",CCTV-5 体育
+http://192.168.50.1:20231/rtp/239.21.1.162:5002
+#EXTINF:-1 tvg-id="b4b27580-b917-481d-9f8c-fea04cc1712e" tvg-name="辽宁卫视" tvg-logo="" group-title="未分类",辽宁卫视
+http://192.168.50.1:20231/rtp/239.21.1.164:5002
+#EXTINF:-1 tvg-id="c4c47c8b-385c-4d5c-a97a-6e8eb05b0bbf" tvg-name="河北卫视" tvg-logo="" group-title="未分类",河北卫视
+http://192.168.50.1:20231/rtp/239.21.1.168:5002
+#EXTINF:-1 tvg-id="13d80c5b-83c5-47ed-9591-08f06aeac591" tvg-name="江西卫视" tvg-logo="" group-title="未分类",江西卫视
+http://192.168.50.1:20231/rtp/239.21.1.167:5002
+#EXTINF:-1 tvg-id="81aeafde-009c-44c8-bd8e-e109cd28d16b" tvg-name="山东教育台" tvg-logo="" group-title="未分类",山东教育台
+http://192.168.50.1:20231/rtp/239.21.1.169:5002
+#EXTINF:-1 tvg-id="d60fb464-4fd5-41fb-8076-a754fa5f10ce" tvg-name="天津卫视" tvg-logo="" group-title="未分类",天津卫视
+http://192.168.50.1:20231/rtp/239.21.1.165:5002
+#EXTINF:-1 tvg-id="92f08629-6d4a-4491-85a6-dfc901b022c6" tvg-name="金鹰纪实" tvg-logo="" group-title="未分类",金鹰纪实
+http://192.168.50.1:20231/rtp/239.21.1.170:5002
+#EXTINF:-1 tvg-id="9e22b581-47c5-4cab-9770-076fe882266e" tvg-name="贵州卫视" tvg-logo="" group-title="未分类",贵州卫视
+http://192.168.50.1:20231/rtp/239.21.1.166:5002
+#EXTINF:-1 tvg-id="6af468f3-38e4-4585-822a-5ee963ef427e" tvg-name="北京纪实" tvg-logo="" group-title="未分类",北京纪实
+http://192.168.50.1:20231/rtp/239.21.1.172:5002
+#EXTINF:-1 tvg-id="d1412835-13be-45f8-a01b-7c57d8bce462" tvg-name="文登" tvg-logo="" group-title="未分类",文登
+http://192.168.50.1:20231/rtp/239.21.1.174:5002
+#EXTINF:-1 tvg-id="9f3d7938-c767-4db4-943e-ad65092ecace" tvg-name="山东生活" tvg-logo="" group-title="未分类",山东生活
+http://192.168.50.1:20231/rtp/239.21.1.175:5002
+#EXTINF:-1 tvg-id="de4cfd5b-91a0-4de6-9ac4-bda22c7757e9" tvg-name="山东文旅" tvg-logo="" group-title="未分类",山东文旅
+http://192.168.50.1:20231/rtp/239.21.1.176:5002
+#EXTINF:-1 tvg-id="511e6156-a1a2-4977-a62d-fa7be1c44056" tvg-name="山东综艺" tvg-logo="" group-title="未分类",山东综艺
+http://192.168.50.1:20231/rtp/239.21.1.177:5002
+#EXTINF:-1 tvg-id="dabfead7-4dec-4141-b441-1f5bf413503f" tvg-name="寿光综合" tvg-logo="" group-title="未分类",寿光综合
+http://192.168.50.1:20231/rtp/239.21.1.180:5002
+#EXTINF:-1 tvg-id="c5a8179c-4dbf-4145-afcf-60c868e9de80" tvg-name="惠民综合" tvg-logo="" group-title="未分类",惠民综合
+http://192.168.50.1:20231/rtp/239.21.1.181:5002
+#EXTINF:-1 tvg-id="6c379e0f-56df-4034-8b4a-16aa46821e4e" tvg-name="淄博影视" tvg-logo="" group-title="未分类",淄博影视
+http://192.168.50.1:20231/rtp/239.21.1.182:5002
+#EXTINF:-1 tvg-id="516cd2d3-e539-47a1-bf93-8926a541bd3a" tvg-name="山东农科" tvg-logo="" group-title="未分类",山东农科
+http://192.168.50.1:20231/rtp/239.21.1.183:5002
+#EXTINF:-1 tvg-id="adb6889c-1abe-466d-8d0f-4a5efec0f1da" tvg-name="CCTV-17 农业农村" tvg-logo="" group-title="未分类",CCTV-17 农业农村
+http://192.168.50.1:20231/rtp/239.21.1.186:5002
+#EXTINF:-1 tvg-id="0f563897-398b-490f-a11d-2c8aa1f0dcf8" tvg-name="邹城综合" tvg-logo="" group-title="未分类",邹城综合
+http://192.168.50.1:20231/rtp/239.21.1.185:5002
+#EXTINF:-1 tvg-id="0f8d84ba-82b4-4995-8205-dbf4443e0e21" tvg-name="广饶综合" tvg-logo="" group-title="未分类",广饶综合
+http://192.168.50.1:20231/rtp/239.21.1.193:5002
+#EXTINF:-1 tvg-id="92f08629-6d4a-4491-85a6-dfc901b022c6" tvg-name="金鹰纪实" tvg-logo="" group-title="未分类",金鹰纪实
+http://192.168.50.1:20231/rtp/239.21.1.196:5002
+#EXTINF:-1 tvg-id="e7910f14-83cf-4d56-862c-d95dc6b18662" tvg-name="山东卫视" tvg-logo="" group-title="未分类",山东卫视
+http://192.168.50.1:20231/rtp/239.21.1.187:5002
+#EXTINF:-1 tvg-id="6af468f3-38e4-4585-822a-5ee963ef427e" tvg-name="北京纪实" tvg-logo="" group-title="未分类",北京纪实
+http://192.168.50.1:20231/rtp/239.21.1.194:5002
+#EXTINF:-1 tvg-id="0cb67077-e954-4c09-8d9c-921720c0d6f4" tvg-name="烟台影视" tvg-logo="" group-title="未分类",烟台影视
+http://192.168.50.1:20231/rtp/239.21.1.204:5002
+#EXTINF:-1 tvg-id="57a8b48c-6c46-4dfb-b9e9-b858c0002816" tvg-name="烟台经济" tvg-logo="" group-title="未分类",烟台经济
+http://192.168.50.1:20231/rtp/239.21.1.205:5002
+#EXTINF:-1 tvg-id="f75bfbda-760f-41f4-9baf-348dab31005f" tvg-name="9屏同播" tvg-logo="" group-title="未分类",9屏同播
+http://192.168.50.1:20231/rtp/239.21.1.203:5002
+#EXTINF:-1 tvg-id="8d90a239-3f80-4165-9f1e-14e8c7861e54" tvg-name="岚山" tvg-logo="" group-title="未分类",岚山
+http://192.168.50.1:20231/rtp/239.21.1.209:5002
+#EXTINF:-1 tvg-id="613ba18d-50eb-48ea-927b-0bfb9d6c9e46" tvg-name="新泰综合" tvg-logo="" group-title="未分类",新泰综合
+http://192.168.50.1:20231/rtp/239.21.1.210:5002
+#EXTINF:-1 tvg-id="339fa536-657a-4575-bc18-0180cc253a75" tvg-name="山东少儿" tvg-logo="" group-title="未分类",山东少儿
+http://192.168.50.1:20231/rtp/239.21.1.208:5002
+#EXTINF:-1 tvg-id="4085d8cd-18bd-4c29-8ca1-515c4c994360" tvg-name="莘县综合" tvg-logo="" group-title="未分类",莘县综合
+http://192.168.50.1:20231/rtp/239.21.1.211:5002
+#EXTINF:-1 tvg-id="c0ae8342-40ec-4e0f-a921-53a825457aae" tvg-name="无棣综合" tvg-logo="" group-title="未分类",无棣综合
+http://192.168.50.1:20231/rtp/239.21.1.214:5002
+#EXTINF:-1 tvg-id="bfc41c06-426a-4e75-88b9-5daf103151d3" tvg-name="巨野新闻" tvg-logo="" group-title="未分类",巨野新闻
+http://192.168.50.1:20231/rtp/239.21.1.215:5002
+#EXTINF:-1 tvg-id="39d89689-1c2e-4c36-bba0-312cbca07f65" tvg-name="茌平综合" tvg-logo="" group-title="未分类",茌平综合
+http://192.168.50.1:20231/rtp/239.21.1.219:5002
+#EXTINF:-1 tvg-id="824cc3d5-e6da-4591-b2f9-0b7b0c05fdc0" tvg-name="寿光蔬菜" tvg-logo="" group-title="未分类",寿光蔬菜
+http://192.168.50.1:20231/rtp/239.21.1.218:5002
+#EXTINF:-1 tvg-id="20e9289c-7889-4071-85aa-97fa791a48dc" tvg-name="乳山综合" tvg-logo="" group-title="未分类",乳山综合
+http://192.168.50.1:20231/rtp/239.21.1.220:5002
+#EXTINF:-1 tvg-id="cab9cbb7-ed06-4cea-8678-d267ffb267df" tvg-name="东平综合" tvg-logo="" group-title="未分类",东平综合
+http://192.168.50.1:20231/rtp/239.21.1.216:5002
+#EXTINF:-1 tvg-id="046ce575-8d51-407d-9a4f-1132c90134ce" tvg-name="诸城综合" tvg-logo="" group-title="未分类",诸城综合
+http://192.168.50.1:20231/rtp/239.21.1.217:5002
+#EXTINF:-1 tvg-id="d933e1f9-8c5c-422c-8976-41ac48504ce2" tvg-name="平阴综合" tvg-logo="" group-title="未分类",平阴综合
+http://192.168.50.1:20231/rtp/239.21.1.221:5002
+#EXTINF:-1 tvg-id="5aa38c25-9ed0-4cf7-9019-cdd216a06b59" tvg-name="崂山" tvg-logo="" group-title="未分类",崂山
+http://192.168.50.1:20231/rtp/239.21.1.223:5002
+#EXTINF:-1 tvg-id="ed597735-19cf-428b-b477-b5d7a2692f84" tvg-name="兖州新闻" tvg-logo="" group-title="未分类",兖州新闻
+http://192.168.50.1:20231/rtp/239.21.1.224:5002
+#EXTINF:-1 tvg-id="b3b457a1-4719-49d1-a0da-3ac31da9bce8" tvg-name="荣成综合" tvg-logo="" group-title="未分类",荣成综合
+http://192.168.50.1:20231/rtp/239.21.1.227:5002
+#EXTINF:-1 tvg-id="989fc966-fba7-46dc-96bb-1273ef103f4b" tvg-name="平度新闻" tvg-logo="" group-title="未分类",平度新闻
+http://192.168.50.1:20231/rtp/239.21.1.228:5002
+#EXTINF:-1 tvg-id="ab15a602-34f2-47c1-9dfa-b1fc9fc5581a" tvg-name="曲阜综合" tvg-logo="" group-title="未分类",曲阜综合
+http://192.168.50.1:20231/rtp/239.21.1.225:5002
+#EXTINF:-1 tvg-id="589a87c9-4af8-4089-b990-4f5ddd199a58" tvg-name="沾化综合" tvg-logo="" group-title="未分类",沾化综合
+http://192.168.50.1:20231/rtp/239.21.1.226:5002
+#EXTINF:-1 tvg-id="8e201806-e9b6-41e3-b7f2-c1801e5c06a9" tvg-name="齐河综合" tvg-logo="" group-title="未分类",齐河综合
+http://192.168.50.1:20231/rtp/239.21.1.230:5002
+#EXTINF:-1 tvg-id="d9cb8b33-894f-4346-af0a-53faabc39913" tvg-name="青州文旅" tvg-logo="" group-title="未分类",青州文旅
+http://192.168.50.1:20231/rtp/239.21.1.231:5002
+#EXTINF:-1 tvg-id="b7b86a55-a382-47a0-a02d-9010cae8bbae" tvg-name="青州综合" tvg-logo="" group-title="未分类",青州综合
+http://192.168.50.1:20231/rtp/239.21.1.232:5002
+#EXTINF:-1 tvg-id="2c87b21c-65a6-410a-b0ab-7e454a6a5d05" tvg-name="栖霞综合" tvg-logo="" group-title="未分类",栖霞综合
+http://192.168.50.1:20231/rtp/239.21.1.229:5002
+#EXTINF:-1 tvg-id="660a92b5-809b-49f9-9e81-54e9800330b7" tvg-name="重庆卫视" tvg-logo="" group-title="卫视",重庆卫视
+http://192.168.50.1:20231/rtp/239.21.1.233:5002
+#EXTINF:-1 tvg-id="02bbc36f-96b1-4c48-b4e0-a1f5b47a3159" tvg-name="兵团卫视" tvg-logo="" group-title="卫视",兵团卫视
+http://192.168.50.1:20231/rtp/239.21.1.234:5002
+#EXTINF:-1 tvg-id="f2d7b7ae-3c97-4057-99cb-7ef12b0c7478" tvg-name="农林卫视" tvg-logo="" group-title="卫视",农林卫视
+http://192.168.50.1:20231/rtp/239.21.1.235:5002
+#EXTINF:-1 tvg-id="5ce34539-5c42-45f9-ad95-93e5e35fe9ea" tvg-name="莒县综合" tvg-logo="" group-title="未分类",莒县综合
+http://192.168.50.1:20231/rtp/239.21.1.236:5002
+#EXTINF:-1 tvg-id="782d1e6a-5c3d-4640-bdeb-40b91dd9db24" tvg-name="武城综合" tvg-logo="" group-title="未分类",武城综合
+http://192.168.50.1:20231/rtp/239.21.1.239:5002
+#EXTINF:-1 tvg-id="4aea6730-f491-424c-af85-fe2ed89349d9" tvg-name="兰陵综合" tvg-logo="" group-title="未分类",兰陵综合
+http://192.168.50.1:20231/rtp/239.21.1.237:5002
+#EXTINF:-1 tvg-id="867025c0-a27d-4d9f-94b3-f8647255bf99" tvg-name="滨州综合" tvg-logo="" group-title="未分类",滨州综合
+http://192.168.50.1:20231/rtp/239.21.1.238:5002
+#EXTINF:-1 tvg-id="abf078c4-80e0-4655-a227-b068b4b14c45" tvg-name="禹城综合" tvg-logo="" group-title="未分类",禹城综合
+http://192.168.50.1:20231/rtp/239.21.1.241:5002
+#EXTINF:-1 tvg-id="8ae24547-34a3-4f35-89e5-28aca9287f25" tvg-name="禹城综艺" tvg-logo="" group-title="未分类",禹城综艺
+http://192.168.50.1:20231/rtp/239.21.1.242:5002
+#EXTINF:-1 tvg-id="359c0b56-000d-4923-b27e-bd41543eaddf" tvg-name="平原综合" tvg-logo="" group-title="未分类",平原综合
+http://192.168.50.1:20231/rtp/239.21.1.243:5002
+#EXTINF:-1 tvg-id="9388d626-7d1f-4a6b-996e-94cda6dfabde" tvg-name="定陶" tvg-logo="" group-title="未分类",定陶
+http://192.168.50.1:20231/rtp/239.21.1.244:5002
+#EXTINF:-1 tvg-id="06d3ba30-ad98-452f-82a3-c714d7f62da0" tvg-name="莱西综合" tvg-logo="" group-title="未分类",莱西综合
+http://192.168.50.1:20231/rtp/239.21.1.247:5002
+#EXTINF:-1 tvg-id="8848605a-d126-4b06-846c-9a400eaea558" tvg-name="新泰乡村" tvg-logo="" group-title="未分类",新泰乡村
+http://192.168.50.1:20231/rtp/239.21.1.248:5002
+#EXTINF:-1 tvg-id="e55ee76a-cac1-4531-aeea-4a7a12badc4f" tvg-name="昌乐综合" tvg-logo="" group-title="未分类",昌乐综合
+http://192.168.50.1:20231/rtp/239.21.1.245:5002
+#EXTINF:-1 tvg-id="4dd75810-0407-474b-a845-91e26c73c179" tvg-name="郓城综合" tvg-logo="" group-title="未分类",郓城综合
+http://192.168.50.1:20231/rtp/239.21.1.251:5002
+#EXTINF:-1 tvg-id="53f66858-2b9c-41f0-bd6d-4a2d177c3ae5" tvg-name="东明" tvg-logo="" group-title="未分类",东明
+http://192.168.50.1:20231/rtp/239.21.1.246:5002
+#EXTINF:-1 tvg-id="8021b77d-2f23-4768-a179-eb41c89b2523" tvg-name="冠县综合" tvg-logo="" group-title="未分类",冠县综合
+http://192.168.50.1:20231/rtp/239.21.1.250:5002
+#EXTINF:-1 tvg-id="425f3c15-2156-4827-bb65-827680dbb0f7" tvg-name="阳信新闻" tvg-logo="" group-title="未分类",阳信新闻
+http://192.168.50.1:20231/rtp/239.21.1.252:5002
+#EXTINF:-1 tvg-id="30097758-b4c0-4f50-8661-634ed1ba3fb1" tvg-name="聊城综合" tvg-logo="" group-title="未分类",聊城综合
+http://192.168.50.1:20231/rtp/239.21.1.253:5002
+#EXTINF:-1 tvg-id="06fdc1f8-e10e-4c43-b66b-bd5e08538f50" tvg-name="聊城民生" tvg-logo="" group-title="未分类",聊城民生
+http://192.168.50.1:20231/rtp/239.21.1.254:5002
+#EXTINF:-1 tvg-id="6418adaf-c291-42f4-870a-654220d16006" tvg-name="CCTV-15 音乐" tvg-logo="" group-title="未分类",CCTV-15 音乐
+http://192.168.50.1:20231/rtp/239.21.2.4:5002
+#EXTINF:-1 tvg-id="70d99b7c-394f-4a41-aadc-c27f3d44037e" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="未分类",CCTV-13 新闻
+http://192.168.50.1:20231/rtp/239.21.2.3:5002
+#EXTINF:-1 tvg-id="25be7aca-a914-4084-be25-fad3c95a8f9b" tvg-name="CCTV-11 戏曲" tvg-logo="" group-title="未分类",CCTV-11 戏曲
+http://192.168.50.1:20231/rtp/239.21.2.2:5002
+#EXTINF:-1 tvg-id="4956a903-3dbd-4a64-ba11-467df0b5c09d" tvg-name="嘉佳卡通" tvg-logo="" group-title="未分类",嘉佳卡通
+http://192.168.50.1:20231/rtp/239.21.2.5:5002
+#EXTINF:-1 tvg-id="cd712f37-7be7-435c-b847-190576195344" tvg-name="厦门卫视" tvg-logo="" group-title="未分类",厦门卫视
+http://192.168.50.1:20231/rtp/239.21.2.6:5002
+#EXTINF:-1 tvg-id="070ae710-c0af-44b0-b9d9-498637ff5f96" tvg-name="CETV-1" tvg-logo="" group-title="未分类",CETV-1
+http://192.168.50.1:20231/rtp/239.21.2.7:5002
+#EXTINF:-1 tvg-id="d9fffd2f-8a37-4ad0-97c5-0b19f9393c06" tvg-name="三沙卫视" tvg-logo="" group-title="未分类",三沙卫视
+http://192.168.50.1:20231/rtp/239.21.2.9:5002
+#EXTINF:-1 tvg-id="81aeecfb-4fbc-41a2-b05d-80cf8b1fc9b8" tvg-name="牟平综合" tvg-logo="" group-title="未分类",牟平综合
+http://192.168.50.1:20231/rtp/239.21.2.10:5002
+#EXTINF:-1 tvg-id="1b57192d-0816-4049-8698-635b7b49b40d" tvg-name="梁山综合" tvg-logo="" group-title="未分类",梁山综合
+http://192.168.50.1:20231/rtp/239.21.2.12:5002
+#EXTINF:-1 tvg-id="530519c7-8485-4904-827f-3c8152c5a2ce" tvg-name="CETV-2" tvg-logo="" group-title="未分类",CETV-2
+http://192.168.50.1:20231/rtp/239.21.2.8:5002
+#EXTINF:-1 tvg-id="106a2781-c488-4486-9613-d2c6f96a57d5" tvg-name="安丘综合" tvg-logo="" group-title="未分类",安丘综合
+http://192.168.50.1:20231/rtp/239.21.2.13:5002
+#EXTINF:-1 tvg-id="36b9267a-fed1-4942-9f0e-71900cd6101d" tvg-name="海南卫视" tvg-logo="" group-title="未分类",海南卫视
+http://192.168.50.1:20231/rtp/239.21.2.14:5002
+#EXTINF:-1 tvg-id="c93b6bf6-374a-4300-8d8b-eb45d7a99607" tvg-name="四川卫视" tvg-logo="" group-title="未分类",四川卫视
+http://192.168.50.1:20231/rtp/239.21.2.15:5002
+#EXTINF:-1 tvg-id="4ddb8889-8d1b-438b-bb48-b7db58061c39" tvg-name="牟平生活" tvg-logo="" group-title="未分类",牟平生活
+http://192.168.50.1:20231/rtp/239.21.2.11:5002
+#EXTINF:-1 tvg-id="dec05040-6513-41ea-a649-4c3bee169ebe" tvg-name="济宁综合" tvg-logo="" group-title="未分类",济宁综合
+http://192.168.50.1:20231/rtp/239.21.2.19:5002
+#EXTINF:-1 tvg-id="8876461e-98fc-4057-a15d-011b04407233" tvg-name="单县综合" tvg-logo="" group-title="未分类",单县综合
+http://192.168.50.1:20231/rtp/239.21.2.21:5002
+#EXTINF:-1 tvg-id="c7428813-bbe0-4599-b2e1-5a0c42e9d993" tvg-name="陵城综合" tvg-logo="" group-title="未分类",陵城综合
+http://192.168.50.1:20231/rtp/239.21.2.24:5002
+#EXTINF:-1 tvg-id="c9c520ef-bc7e-4c7f-bddc-c3cdb75c8b37" tvg-name="蒙阴综合" tvg-logo="" group-title="未分类",蒙阴综合
+http://192.168.50.1:20231/rtp/239.21.2.23:5002
+#EXTINF:-1 tvg-id="958906f3-5235-4254-9b8c-2254ca650156" tvg-name="甘肃卫视" tvg-logo="" group-title="未分类",甘肃卫视
+http://192.168.50.1:20231/rtp/239.21.2.22:5002
+#EXTINF:-1 tvg-id="32831955-b43b-4056-b3af-0e9d09040a27" tvg-name="菏泽-2" tvg-logo="" group-title="未分类",菏泽-2
+http://192.168.50.1:20231/rtp/239.21.2.18:5002
+#EXTINF:-1 tvg-id="6072d1b4-8224-4ab1-9024-39c9e14551ab" tvg-name="济宁公共" tvg-logo="" group-title="未分类",济宁公共
+http://192.168.50.1:20231/rtp/239.21.2.20:5002
+#EXTINF:-1 tvg-id="04f2412c-6178-4070-b546-c26f1030f3cb" tvg-name="昌邑综合" tvg-logo="" group-title="未分类",昌邑综合
+http://192.168.50.1:20231/rtp/239.21.2.27:5002
+#EXTINF:-1 tvg-id="5e787209-4e9c-4cec-b3fc-0ca1883ca6d4" tvg-name="频道 221" tvg-logo="" group-title="未分类",频道 221
+http://192.168.50.1:20231/rtp/239.21.2.26:5002
+#EXTINF:-1 tvg-id="83c05cb9-df42-4c21-9b50-ef9ca4c1d237" tvg-name="CCTV-4 (欧洲)" tvg-logo="" group-title="未分类",CCTV-4 (欧洲)
+http://192.168.50.1:20231/rtp/239.21.2.28:5002
+#EXTINF:-1 tvg-id="aaf19c48-153b-4540-be25-c1bf5729401c" tvg-name="CCTV-4 (美洲)" tvg-logo="" group-title="未分类",CCTV-4 (美洲)
+http://192.168.50.1:20231/rtp/239.21.2.29:5002
+#EXTINF:-1 tvg-id="11048951-83dd-4567-9ae4-c60b8b4752ca" tvg-name="CGTN-纪录" tvg-logo="" group-title="未分类",CGTN-纪录
+http://192.168.50.1:20231/rtp/239.21.2.31:5002
+#EXTINF:-1 tvg-id="acbf9d7b-d918-46cb-a5b1-d1daf8505d8c" tvg-name="CGTN" tvg-logo="" group-title="未分类",CGTN
+http://192.168.50.1:20231/rtp/239.21.2.30:5002
+#EXTINF:-1 tvg-id="d2084ec9-da5f-45a7-b42b-b4226d3e4538" tvg-name="CGTN 西班牙语" tvg-logo="" group-title="未分类",CGTN 西班牙语
+http://192.168.50.1:20231/rtp/239.21.2.32:5002
+#EXTINF:-1 tvg-id="ed0669ba-5c65-4ccb-aec6-c6dbc3eadcf2" tvg-name="CGTN 法语" tvg-logo="" group-title="未分类",CGTN 法语
+http://192.168.50.1:20231/rtp/239.21.2.33:5002
+#EXTINF:-1 tvg-id="25d7a4e9-53d2-436a-9730-e2cc505e8c42" tvg-name="CGTN 阿拉伯语" tvg-logo="" group-title="未分类",CGTN 阿拉伯语
+http://192.168.50.1:20231/rtp/239.21.2.34:5002
+#EXTINF:-1 tvg-id="f78e85b8-75b0-463e-a355-3f27809c6f84" tvg-name="CGTN 俄语" tvg-logo="" group-title="未分类",CGTN 俄语
+http://192.168.50.1:20231/rtp/239.21.2.35:5002
+#EXTINF:-1 tvg-id="c933ef89-0ccf-4fbb-b5e8-fd26a097481f" tvg-name="河南卫视" tvg-logo="" group-title="未分类",河南卫视
+http://192.168.50.1:20231/rtp/239.21.2.37:5002
+#EXTINF:-1 tvg-id="f9b453d7-45dd-42d4-b32f-71863f884d66" tvg-name="CCTV-3 综艺" tvg-logo="" group-title="未分类",CCTV-3 综艺
+http://192.168.50.1:20231/rtp/239.21.2.45:5002
+#EXTINF:-1 tvg-id="48a3e365-bbd6-4449-b559-05f6d2e52733" tvg-name="CCTV-6 电影" tvg-logo="" group-title="未分类",CCTV-6 电影
+http://192.168.50.1:20231/rtp/239.21.2.47:5002
+#EXTINF:-1 tvg-id="391c10dc-bbf9-4ebe-a02b-081048f8016c" tvg-name="CCTV-5 体育" tvg-logo="" group-title="未分类",CCTV-5 体育
+http://192.168.50.1:20231/rtp/239.21.2.46:5002
+#EXTINF:-1 tvg-id="0e367467-c5ed-41fc-859d-0482ffb79432" tvg-name="CCTV-8 电视剧" tvg-logo="" group-title="未分类",CCTV-8 电视剧
+http://192.168.50.1:20231/rtp/239.21.2.48:5002
+#EXTINF:-1 tvg-id="636ced4c-b111-4605-9110-3e4891764f8a" tvg-name="吉林卫视" tvg-logo="" group-title="未分类",吉林卫视
+http://192.168.50.1:20231/rtp/239.21.2.49:5002
+#EXTINF:-1 tvg-id="20da566a-7bd6-4252-b73c-344b8e03467b" tvg-name="青海卫视" tvg-logo="" group-title="未分类",青海卫视
+http://192.168.50.1:20231/rtp/239.21.2.51:5002
+#EXTINF:-1 tvg-id="8f6dd1aa-490b-40aa-8a5a-bfd057cdbfb8" tvg-name="宁津综合" tvg-logo="" group-title="未分类",宁津综合
+http://192.168.50.1:20231/rtp/239.21.2.50:5002
+#EXTINF:-1 tvg-id="ce4e651f-cf92-49ee-8b4b-1233b91cb335" tvg-name="长岛" tvg-logo="" group-title="未分类",长岛
+http://192.168.50.1:20231/rtp/239.21.2.52:5002
+#EXTINF:-1 tvg-id="499999b6-5f1f-4995-b717-e371b51dd945" tvg-name="商河综合" tvg-logo="" group-title="未分类",商河综合
+http://192.168.50.1:20231/rtp/239.21.2.53:5002
+#EXTINF:-1 tvg-id="958906f3-5235-4254-9b8c-2254ca650156" tvg-name="甘肃卫视" tvg-logo="" group-title="未分类",甘肃卫视
+http://192.168.50.1:20231/rtp/239.21.2.55:5002
+#EXTINF:-1 tvg-id="6eb7136c-9e71-44a6-8d1c-6edd74e447ed" tvg-name="黄岛综合" tvg-logo="" group-title="未分类",黄岛综合
+http://192.168.50.1:20231/rtp/239.21.2.57:5002
+#EXTINF:-1 tvg-id="9d2c8917-24bd-4ac1-932c-65b216ed59f6" tvg-name="蓬莱综合" tvg-logo="" group-title="未分类",蓬莱综合
+http://192.168.50.1:20231/rtp/239.21.2.56:5002
+#EXTINF:-1 tvg-id="3baec9c5-0844-4b0d-a7bd-8ec4d268cff0" tvg-name="黄岛生活" tvg-logo="" group-title="未分类",黄岛生活
+http://192.168.50.1:20231/rtp/239.21.2.58:5002
+#EXTINF:-1 tvg-id="bb85f3c3-964e-4acf-b564-ec29c7ca95ab" tvg-name="高密综合" tvg-logo="" group-title="未分类",高密综合
+http://192.168.50.1:20231/rtp/239.21.2.59:5002
+#EXTINF:-1 tvg-id="a21c0f48-8e5d-48ca-95e4-43a4e05707be" tvg-name="东阿综合" tvg-logo="" group-title="未分类",东阿综合
+http://192.168.50.1:20231/rtp/239.21.2.61:5002
+#EXTINF:-1 tvg-id="08bb3541-8787-47bb-9275-68acea3b3b4a" tvg-name="胶州综合" tvg-logo="" group-title="未分类",胶州综合
+http://192.168.50.1:20231/rtp/239.21.2.60:5002
+#EXTINF:-1 tvg-id="92cc4e84-e707-45b5-824e-ae70f2ecd9fc" tvg-name="临朐综合" tvg-logo="" group-title="未分类",临朐综合
+http://192.168.50.1:20231/rtp/239.21.2.62:5002
+#EXTINF:-1 tvg-id="681eed85-5607-4646-91ba-944a999376e5" tvg-name="兰陵公共" tvg-logo="" group-title="未分类",兰陵公共
+http://192.168.50.1:20231/rtp/239.21.2.63:5002
+#EXTINF:-1 tvg-id="873b9abf-c590-47df-b410-ec76e3c2a9eb" tvg-name="海阳综艺" tvg-logo="" group-title="未分类",海阳综艺
+http://192.168.50.1:20231/rtp/239.21.2.65:5002
+#EXTINF:-1 tvg-id="2562ec95-f3a6-4e0f-a369-051bb296dd74" tvg-name="海阳综合" tvg-logo="" group-title="未分类",海阳综合
+http://192.168.50.1:20231/rtp/239.21.2.64:5002
+#EXTINF:-1 tvg-id="368f2f2d-6eb8-4146-98ba-2d71ffe659d9" tvg-name="莒南综合" tvg-logo="" group-title="未分类",莒南综合
+http://192.168.50.1:20231/rtp/239.21.2.66:5002
+#EXTINF:-1 tvg-id="2562ec95-f3a6-4e0f-a369-051bb296dd74" tvg-name="海阳综合" tvg-logo="" group-title="未分类",海阳综合
+http://192.168.50.1:20231/rtp/239.21.2.68:5002
+#EXTINF:-1 tvg-id="ada988a8-b42f-49eb-8b34-736c22ad19fd" tvg-name="沂水生活" tvg-logo="" group-title="未分类",沂水生活
+http://192.168.50.1:20231/rtp/239.21.2.80:5002
+#EXTINF:-1 tvg-id="fe65dc89-df4b-4314-ac94-fab7f4dd42e2" tvg-name="沂水综合" tvg-logo="" group-title="未分类",沂水综合
+http://192.168.50.1:20231/rtp/239.21.2.79:5002
+#EXTINF:-1 tvg-id="aba16016-ac9b-4dc8-97c2-8f4a28187486" tvg-name="重温经典影视" tvg-logo="" group-title="未分类",重温经典影视
+http://192.168.50.1:20231/rtp/239.21.2.77:5002
+#EXTINF:-1 tvg-id="b117c055-8c7a-42e6-bea5-d8cc2cc7f213" tvg-name="日照公共" tvg-logo="" group-title="未分类",日照公共
+http://192.168.50.1:20231/rtp/239.21.2.81:5002
+#EXTINF:-1 tvg-id="fc148093-9fd2-4e96-a3a0-5122652097ee" tvg-name="济宁高新" tvg-logo="" group-title="未分类",济宁高新
+http://192.168.50.1:20231/rtp/239.21.2.83:5002
+#EXTINF:-1 tvg-id="865e5768-c193-49b6-981a-81f9b1d4372a" tvg-name="嘉祥综合" tvg-logo="" group-title="未分类",嘉祥综合
+http://192.168.50.1:20231/rtp/239.21.2.84:5002
+#EXTINF:-1 tvg-id="20da566a-7bd6-4252-b73c-344b8e03467b" tvg-name="青海卫视" tvg-logo="" group-title="未分类",青海卫视
+http://192.168.50.1:20231/rtp/239.21.2.85:5002
+#EXTINF:-1 tvg-id="94855970-060b-475b-bd7c-d4545c9a9c56" tvg-name="云南卫视" tvg-logo="" group-title="未分类",云南卫视
+http://192.168.50.1:20231/rtp/239.21.2.86:5002
+#EXTINF:-1 tvg-id="89597083-85a2-41e0-b7e4-40cce1de6c8b" tvg-name="广西卫视" tvg-logo="" group-title="未分类",广西卫视
+http://192.168.50.1:20231/rtp/239.21.2.87:5002
+#EXTINF:-1 tvg-id="259f8c05-06fa-46b2-b7e2-d28cf1df96da" tvg-name="潍坊影视" tvg-logo="" group-title="未分类",潍坊影视
+http://192.168.50.1:20231/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="e6d569ff-6938-444b-a37c-dab4ef342cf8" tvg-name="动漫秀场" tvg-logo="" group-title="未分类",动漫秀场
+http://192.168.50.1:20231/rtp/239.21.2.92:5002
+#EXTINF:-1 tvg-id="889be992-46b2-4daf-88e4-a351c7b73e71" tvg-name="都市剧场" tvg-logo="" group-title="未分类",都市剧场
+http://192.168.50.1:20231/rtp/239.21.2.90:5002
+#EXTINF:-1 tvg-id="a4dbb8f7-6da0-47df-a767-efa456ce46ac" tvg-name="新动漫" tvg-logo="" group-title="未分类",新动漫
+http://192.168.50.1:20231/rtp/239.21.2.93:5002
+#EXTINF:-1 tvg-id="8ed3120d-366e-4384-8738-33cdafcdd1cf" tvg-name="潍坊科教" tvg-logo="" group-title="未分类",潍坊科教
+http://192.168.50.1:20231/rtp/239.21.2.89:5002
+#EXTINF:-1 tvg-id="5a5474a2-1c88-4b54-ae51-a2b7a5e69308" tvg-name="精彩影视" tvg-logo="" group-title="未分类",精彩影视
+http://192.168.50.1:20231/rtp/239.21.2.91:5002
+#EXTINF:-1 tvg-id="1892290c-1034-4bce-9ac9-0e8bcd9b8b9c" tvg-name="魅力足球" tvg-logo="" group-title="未分类",魅力足球
+http://192.168.50.1:20231/rtp/239.21.2.95:5002
+#EXTINF:-1 tvg-id="31df4ed2-b280-47e9-ae61-19fc4f25c0f9" tvg-name="武术世界" tvg-logo="" group-title="未分类",武术世界
+http://192.168.50.1:20231/rtp/239.21.2.96:5002
+#EXTINF:-1 tvg-id="cec18b11-c412-47d5-b920-67a8690e893b" tvg-name="优优宝贝" tvg-logo="" group-title="未分类",优优宝贝
+http://192.168.50.1:20231/rtp/239.21.2.94:5002
+#EXTINF:-1 tvg-id="039702a1-2b3a-4481-b675-8f04ca3190b2" tvg-name="快乐垂钓" tvg-logo="" group-title="未分类",快乐垂钓
+http://192.168.50.1:20231/rtp/239.21.2.97:5002
+#EXTINF:-1 tvg-id="d63ba285-c619-4a3d-84d9-11c2ecbb3c5c" tvg-name="梨园" tvg-logo="" group-title="未分类",梨园
+http://192.168.50.1:20231/rtp/239.21.2.101:5002
+#EXTINF:-1 tvg-id="3ef1626b-137e-4e47-8b02-a3dc696c1d39" tvg-name="先锋乒羽" tvg-logo="" group-title="未分类",先锋乒羽
+http://192.168.50.1:20231/rtp/239.21.2.98:5002
+#EXTINF:-1 tvg-id="de4ceea2-af3b-499e-9332-5a283e52cf28" tvg-name="四海钓鱼" tvg-logo="" group-title="未分类",四海钓鱼
+http://192.168.50.1:20231/rtp/239.21.2.99:5002
+#EXTINF:-1 tvg-id="021a177f-030d-4e44-a543-1963a558b1e2" tvg-name="金色学堂" tvg-logo="" group-title="未分类",金色学堂
+http://192.168.50.1:20231/rtp/239.21.2.102:5002
+#EXTINF:-1 tvg-id="885720af-f664-4248-ae65-8b8b945a00b2" tvg-name="生活时尚" tvg-logo="" group-title="未分类",生活时尚
+http://192.168.50.1:20231/rtp/239.21.2.103:5002
+#EXTINF:-1 tvg-id="4622f166-8512-4768-92e5-14f35efe41a3" tvg-name="乐游" tvg-logo="" group-title="未分类",乐游
+http://192.168.50.1:20231/rtp/239.21.2.104:5002
+#EXTINF:-1 tvg-id="742c0f6e-f699-44c4-9815-e4c27039562f" tvg-name="法治天地" tvg-logo="" group-title="未分类",法治天地
+http://192.168.50.1:20231/rtp/239.21.2.105:5002
+#EXTINF:-1 tvg-id="7d244457-dfd9-49e7-938e-5490f8d0b8b9" tvg-name="游戏风云" tvg-logo="" group-title="未分类",游戏风云
+http://192.168.50.1:20231/rtp/239.21.2.107:5002
+#EXTINF:-1 tvg-id="50ccd467-34d8-4114-9fe7-f354c728a5b5" tvg-name="东方财经" tvg-logo="" group-title="未分类",东方财经
+http://192.168.50.1:20231/rtp/239.21.2.108:5002
+#EXTINF:-1 tvg-id="4e26c2cf-79b1-4b68-98f7-79a974ebc437" tvg-name="茶" tvg-logo="" group-title="未分类",茶
+http://192.168.50.1:20231/rtp/239.21.2.110:5002
+#EXTINF:-1 tvg-id="6e79e8e5-c3e7-4be7-be67-71735c7863ce" tvg-name="书画频道" tvg-logo="" group-title="未分类",书画频道
+http://192.168.50.1:20231/rtp/239.21.2.111:5002
+#EXTINF:-1 tvg-id="0d727690-7ef3-4cec-93d6-3d128e8ba884" tvg-name="家庭理财" tvg-logo="" group-title="未分类",家庭理财
+http://192.168.50.1:20231/rtp/239.21.2.112:5002
+#EXTINF:-1 tvg-id="5c3d5545-1938-4e99-86e5-4b68ea793e5f" tvg-name="文物宝库" tvg-logo="" group-title="未分类",文物宝库
+http://192.168.50.1:20231/rtp/239.21.2.109:5002
+#EXTINF:-1 tvg-id="6a05496b-675a-47dc-8e2c-89201ebb60b7" tvg-name="环球旅游" tvg-logo="" group-title="未分类",环球旅游
+http://192.168.50.1:20231/rtp/239.21.2.115:5002
+#EXTINF:-1 tvg-id="18659334-47da-4bdc-bec8-a6c8e690b207" tvg-name="车迷频道" tvg-logo="" group-title="未分类",车迷频道
+http://192.168.50.1:20231/rtp/239.21.2.116:5002
+#EXTINF:-1 tvg-id="70dac5c7-55fd-4b43-af02-8f5f419c793d" tvg-name="BRTV卡酷少儿" tvg-logo="" group-title="未分类",BRTV卡酷少儿
+http://192.168.50.1:20231/rtp/239.21.2.120:5002
+#EXTINF:-1 tvg-id="a05ad214-3199-41b4-8504-223444495e13" tvg-name="金鹰卡通" tvg-logo="" group-title="未分类",金鹰卡通
+http://192.168.50.1:20231/rtp/239.21.2.121:5002
+#EXTINF:-1 tvg-id="5aa38c25-9ed0-4cf7-9019-cdd216a06b59" tvg-name="崂山" tvg-logo="" group-title="未分类",崂山
+http://192.168.50.1:20231/rtp/239.21.2.122:5002
+#EXTINF:-1 tvg-id="070c06fd-74cd-40ef-833a-93a2a7fc3097" tvg-name="中华特产" tvg-logo="" group-title="未分类",中华特产
+http://192.168.50.1:20231/rtp/239.21.2.118:5002
+#EXTINF:-1 tvg-id="d3278920-2cad-49f0-88b7-e2f4d664b3cd" tvg-name="海洋频道" tvg-logo="" group-title="未分类",海洋频道
+http://192.168.50.1:20231/rtp/239.21.2.119:5002
+#EXTINF:-1 tvg-id="22be5600-6e69-4103-9920-bcae36a3a1d4" tvg-name="临清综合" tvg-logo="" group-title="未分类",临清综合
+http://192.168.50.1:20231/rtp/239.21.2.123:5002
+#EXTINF:-1 tvg-id="dfc16fc1-a43a-4466-9761-4eb128e460ec" tvg-name="CHC家庭影院" tvg-logo="" group-title="未分类",CHC家庭影院
+http://192.168.50.1:20231/rtp/239.21.2.126:5002
+#EXTINF:-1 tvg-id="587a7285-20cb-49e2-b3cc-533cfe188ddd" tvg-name="CHC影迷电影" tvg-logo="" group-title="未分类",CHC影迷电影
+http://192.168.50.1:20231/rtp/239.21.2.127:5002
+#EXTINF:-1 tvg-id="69fc4bc9-0ce9-48e7-884c-cb3fd91b1b21" tvg-name="CHC动作电影" tvg-logo="" group-title="未分类",CHC动作电影
+http://192.168.50.1:20231/rtp/239.21.2.128:5002
+#EXTINF:-1 tvg-id="a01230f6-61fb-4f9e-8ba4-81dd0cd4df6e" tvg-name="CETV-4" tvg-logo="" group-title="未分类",CETV-4
+http://192.168.50.1:20231/rtp/239.21.2.129:5002
+#EXTINF:-1 tvg-id="c1b74555-753d-493a-9e90-4e5aa8eec880" tvg-name="临邑综合" tvg-logo="" group-title="未分类",临邑综合
+http://192.168.50.1:20231/rtp/239.21.2.130:5002
+#EXTINF:-1 tvg-id="ff5e2254-5786-4ae5-a93b-137434c26f4c" tvg-name="潍坊高新区" tvg-logo="" group-title="未分类",潍坊高新区
+http://192.168.50.1:20231/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="91ef83f8-598a-4e1b-84f0-c4d5f53ea9b5" tvg-name="历城综合" tvg-logo="" group-title="未分类",历城综合
+http://192.168.50.1:20231/rtp/239.21.2.132:5002
+#EXTINF:-1 tvg-id="cdb34324-ef0f-4c78-bf49-2a675af63c3d" tvg-name="鱼台综合" tvg-logo="" group-title="未分类",鱼台综合
+http://192.168.50.1:20231/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="32f816da-858b-4b79-b031-47d376ac322d" tvg-name="鱼台生活" tvg-logo="" group-title="未分类",鱼台生活
+http://192.168.50.1:20231/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="cbeb0a8b-a6ee-4e3e-babd-aaf2f47711d9" tvg-name="河东综合" tvg-logo="" group-title="未分类",河东综合
+http://192.168.50.1:20231/rtp/239.21.2.136:5002
+#EXTINF:-1 tvg-id="a518407a-2cc2-4bd8-b945-f48300d9b5ff" tvg-name="任城-1" tvg-logo="" group-title="未分类",任城-1
+http://192.168.50.1:20231/rtp/239.21.2.143:5002
+#EXTINF:-1 tvg-id="585516e1-776a-46eb-ba91-8c16c7ae6c98" tvg-name="岱岳" tvg-logo="" group-title="未分类",岱岳
+http://192.168.50.1:20231/rtp/239.21.2.139:5002
+#EXTINF:-1 tvg-id="db5a99bf-8834-4da7-a474-a22762afe5db" tvg-name="张店" tvg-logo="" group-title="未分类",张店
+http://192.168.50.1:20231/rtp/239.21.2.138:5002
+#EXTINF:-1 tvg-id="9d36ea8f-7a3a-4049-9c19-02f84dfd63ee" tvg-name="汽摩" tvg-logo="" group-title="未分类",汽摩
+http://192.168.50.1:20231/rtp/239.21.2.142:5002
+#EXTINF:-1 tvg-id="3a6ad297-033c-4d05-b774-714f8d1e0421" tvg-name="高青综合" tvg-logo="" group-title="未分类",高青综合
+http://192.168.50.1:20231/rtp/239.21.2.140:5002
+#EXTINF:-1 tvg-id="e88f1dc1-4d10-4f0f-9f00-1a245ee31ab3" tvg-name="鄄城综合" tvg-logo="" group-title="未分类",鄄城综合
+http://192.168.50.1:20231/rtp/239.21.2.141:5002
+#EXTINF:-1 tvg-id="bd1be8d5-75f7-49e1-b519-70ce2ad2a983" tvg-name="任城-2" tvg-logo="" group-title="未分类",任城-2
+http://192.168.50.1:20231/rtp/239.21.2.144:5002
+#EXTINF:-1 tvg-id="60da249b-64d4-466d-9698-bbe2793d4b0a" tvg-name="延边卫视" tvg-logo="" group-title="未分类",延边卫视
+http://192.168.50.1:20231/rtp/239.21.2.137:5002
+#EXTINF:-1 tvg-id="ddbde48e-a97e-48b1-90ba-71b9119b5f76" tvg-name="招远综合" tvg-logo="" group-title="未分类",招远综合
+http://192.168.50.1:20231/rtp/239.21.2.145:5002
+#EXTINF:-1 tvg-id="ffac6c42-af0f-4c76-ac91-12c0748cc641" tvg-name="CCTV-4K 超高清" tvg-logo="" group-title="未分类",CCTV-4K 超高清
+http://192.168.50.1:20231/rtp/239.21.2.152:5002
+#EXTINF:-1 tvg-id="42f7d981-9734-4048-b179-83db8662b2d4" tvg-name="龙口综合" tvg-logo="" group-title="未分类",龙口综合
+http://192.168.50.1:20231/rtp/239.21.2.146:5002
+#EXTINF:-1 tvg-id="c2c18aa5-8180-4e84-99ca-e2786da9360a" tvg-name="泰山" tvg-logo="" group-title="未分类",泰山
+http://192.168.50.1:20231/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="e3adb045-28bc-46a4-976a-ec0785297621" tvg-name="山东经济广播" tvg-logo="" group-title="未分类",山东经济广播
+http://192.168.50.1:20231/rtp/239.21.2.148:5002
+#EXTINF:-1 tvg-id="8021b77d-2f23-4768-a179-eb41c89b2523" tvg-name="冠县综合" tvg-logo="" group-title="未分类",冠县综合
+http://192.168.50.1:20231/rtp/239.21.2.149:5002
+#EXTINF:-1 tvg-id="f0df479a-3eab-4509-8a17-075173a7e0bb" tvg-name="凤凰卫视" tvg-logo="" group-title="未分类",凤凰卫视
+http://192.168.50.1:20231/rtp/239.21.2.153:5002
+#EXTINF:-1 tvg-id="1ede5624-52d6-48ba-9e72-8a9825a47ca7" tvg-name="周村新闻" tvg-logo="" group-title="未分类",周村新闻
+http://192.168.50.1:20231/rtp/239.21.2.150:5002
+#EXTINF:-1 tvg-id="9a9f4baa-c5f1-458b-a583-4ee04d2e9256" tvg-name="山东交通广播" tvg-logo="" group-title="未分类",山东交通广播
+http://192.168.50.1:20231/rtp/239.21.2.151:5002
+#EXTINF:-1 tvg-id="90f94680-8e26-4a7c-9f92-8343948c971b" tvg-name="临沭综合" tvg-logo="" group-title="未分类",临沭综合
+http://192.168.50.1:20231/rtp/239.21.2.154:5002
+#EXTINF:-1 tvg-id="233e4260-4b44-4507-ba0f-215ab85765c9" tvg-name="威海新闻" tvg-logo="" group-title="未分类",威海新闻
+http://192.168.50.1:20231/rtp/239.21.2.155:5002
+#EXTINF:-1 tvg-id="823246c3-982e-4b2e-b70d-61ba398ff6a2" tvg-name="威海都市" tvg-logo="" group-title="未分类",威海都市
+http://192.168.50.1:20231/rtp/239.21.2.156:5002
+#EXTINF:-1 tvg-id="e7910f14-83cf-4d56-862c-d95dc6b18662" tvg-name="山东卫视" tvg-logo="" group-title="未分类",山东卫视
+http://192.168.50.1:20231/rtp/239.21.2.157:5002
+#EXTINF:-1 tvg-id="e7910f14-83cf-4d56-862c-d95dc6b18662" tvg-name="山东卫视" tvg-logo="" group-title="未分类",山东卫视
+http://192.168.50.1:20231/rtp/239.21.2.158:5002
+#EXTINF:-1 tvg-id="ef0891a5-7596-4453-823f-8061f50c639a" tvg-name="肥城综合" tvg-logo="" group-title="未分类",肥城综合
+http://192.168.50.1:20231/rtp/239.21.2.161:5002
+#EXTINF:-1 tvg-id="821298f9-4305-4f57-a8b7-ece3b722220f" tvg-name="生态环境" tvg-logo="" group-title="未分类",生态环境
+http://192.168.50.1:20231/rtp/239.21.2.160:5002
+#EXTINF:-1 tvg-id="947c7b5b-58f5-4831-9e65-438e16e96b91" tvg-name="求索记录" tvg-logo="" group-title="未分类",求索记录
+http://192.168.50.1:20231/rtp/239.21.2.159:5002
