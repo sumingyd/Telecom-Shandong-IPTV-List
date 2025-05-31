@@ -419,7 +419,7 @@ http://192.168.50.1:20231/rtp/239.21.2.107:5002
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5409
 http://192.168.50.1:20231/rtp/239.21.1.115:5002
-#EXTINF:-1 tvg-id="" tvg-name="重温经典影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/央视/重温经典影视.png" group-title="特色频道" tvg-language="" tvg-country="" ,重温经典影视
+#EXTINF:-1 tvg-id="" tvg-name="重温经典影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/重温经典影视.png" group-title="特色频道" tvg-language="" tvg-country="" ,重温经典影视
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5215
 http://192.168.50.1:20231/rtp/239.21.2.77:5002
