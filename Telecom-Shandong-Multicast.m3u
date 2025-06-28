@@ -231,7 +231,7 @@ http://192.168.50.1:20231/rtp/239.21.2.157:5002
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5709
 http://192.168.50.1:20231/rtp/239.21.1.93:5002
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,深圳卫视-4K
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,深圳卫视-4K
 #EXTVLCOPT:video-resolution=3840x2160
 #EXTVLCOPT:network-caching=5709
 http://192.168.50.1:20231/rtp/239.21.2.174:5002
