@@ -119,7 +119,7 @@ http://192.168.50.1:20231/rtp/239.21.1.159:5002
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5029
 http://192.168.50.1:20231/rtp/239.21.1.88:5002
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视-4K
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视-4K
 #EXTVLCOPT:video-resolution=3840x2160
 #EXTVLCOPT:network-caching=3274
 http://192.168.50.1:20231/rtp/239.21.2.172:5002
@@ -155,6 +155,10 @@ http://192.168.50.1:20231/rtp/239.21.2.55:5002
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5519
 http://192.168.50.1:20231/rtp/239.21.1.92:5002
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广东卫视-4K
+#EXTVLCOPT:video-resolution=3840x2160
+#EXTVLCOPT:network-caching=5519
+http://192.168.50.1:20231/rtp/239.21.2.173:5002
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广西/广西卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广西卫视
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5166
@@ -227,6 +231,10 @@ http://192.168.50.1:20231/rtp/239.21.2.157:5002
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5709
 http://192.168.50.1:20231/rtp/239.21.1.93:5002
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,深圳卫视-4K
+#EXTVLCOPT:video-resolution=3840x2160
+#EXTVLCOPT:network-caching=5709
+http://192.168.50.1:20231/rtp/239.21.2.174:5002
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/四川/四川卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,四川卫视
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5352
