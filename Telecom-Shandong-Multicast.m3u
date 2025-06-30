@@ -767,7 +767,7 @@ http://192.168.50.1:20231/rtp/239.21.1.216:5002
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5099
 http://192.168.50.1:20231/rtp/239.21.2.161:5002
-#EXTINF:-1 tvg-id="" tvg-name="宁阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/宁阳.png" group-title="泰安" tvg-language="" tvg-country="" ,宁阳综合
+#EXTINF:-1 tvg-id="" tvg-name="宁阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳.png" group-title="泰安" tvg-language="" tvg-country="" ,宁阳综合
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5110
 http://192.168.50.1:20231/rtp/239.21.1.143:5002
