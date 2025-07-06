@@ -159,6 +159,7 @@ http://192.168.50.1:20231/rtp/239.21.1.92:5002
 #EXTVLCOPT:video-resolution=3840x2160
 #EXTVLCOPT:network-caching=5519
 http://192.168.50.1:20231/rtp/239.21.2.173:5002
+http://192.168.50.1:20231/rtp/239.21.2.157:5002
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广西/广西卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广西卫视
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5166
@@ -235,6 +236,7 @@ http://192.168.50.1:20231/rtp/239.21.1.93:5002
 #EXTVLCOPT:video-resolution=3840x2160
 #EXTVLCOPT:network-caching=5709
 http://192.168.50.1:20231/rtp/239.21.2.174:5002
+http://192.168.50.1:20231/rtp/239.21.2.158:5002
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/四川/四川卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,四川卫视
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5352
@@ -675,6 +677,10 @@ http://192.168.50.1:20231/rtp/239.21.2.134:5002
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5256
 http://192.168.50.1:20231/rtp/239.21.1.185:5002
+#EXTINF:-1 tvg-id="" tvg-name="汶上综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁汶上.png" group-title="济宁" tvg-language="" tvg-country="" ,汶上综合
+#EXTVLCOPT:video-resolution=1920x1080
+#EXTVLCOPT:network-caching=5256
+http://192.168.50.1:20231/rtp/239.21.2.175:5002
 #EXTINF:-1 tvg-id="" tvg-name="茌平综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城茌平.png" group-title="聊城" tvg-language="" tvg-country="" ,茌平综合
 #EXTVLCOPT:video-resolution=1920x1080
 #EXTVLCOPT:network-caching=5203
