@@ -55,7 +55,7 @@
 | iptv-org | `https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/main/epg/epg.xml` |
 
 * 扫源工具
-  * 1.IPTV专业扫描编辑工具[IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro)
+  * 1.[IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro)  IPTV专业扫描编辑工具
 
 * EGP工具
   * 1.[WebGrab+Plus](http://webgrabplus.com/download)  根据编写的规则采集设定的节目表，自定义频道名称及频道代码
