@@ -65,11 +65,17 @@ http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/北京卫视.png" group-title="卫视",北京卫视
 http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/北京卫视.png" group-title="卫视",北京卫视-4K
+<<<<<<< HEAD
 http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
+=======
+http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8
+>>>>>>> 975bc2fa9f9d3734d769abd2c6a1920a650f6044
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/安徽卫视.png" group-title="卫视",安徽卫视
 http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/深圳卫视.png" group-title="卫视",深圳卫视
 http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/深圳卫视.png" group-title="卫视",深圳卫视-4K
+http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/河南卫视.png" group-title="卫视",河南卫视
 http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/东南卫视.png" group-title="卫视",东南卫视
@@ -80,6 +86,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/广东卫视.png" group-title="卫视",广东卫视
 http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/广东卫视.png" group-title="卫视",广东卫视-4K
+http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/天津卫视.png" group-title="卫视",天津卫视
 http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/重庆卫视.png" group-title="卫视",重庆卫视
