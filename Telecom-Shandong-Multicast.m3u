@@ -1,1187 +1,595 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-1 综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5799
 http://192.168.50.1:20231/rtp/239.21.1.120:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV2.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-2 财经
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5389
 http://192.168.50.1:20231/rtp/239.21.1.151:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV3.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-3 综艺
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5144
 http://192.168.50.1:20231/rtp/239.21.2.45:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4 (亚洲)" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-4 (亚洲)
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5346
 http://192.168.50.1:20231/rtp/239.21.1.154:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4 (欧洲)" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4欧洲.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-4 (欧洲)
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5356
 http://192.168.50.1:20231/rtp/239.21.2.28:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4 (美洲)" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4美洲.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-4 (美洲)
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5355
 http://192.168.50.1:20231/rtp/239.21.2.29:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV5.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-5 体育
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5148
 http://192.168.50.1:20231/rtp/239.21.2.46:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV5+.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-5+ 体育赛事
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5013
 http://192.168.50.1:20231/rtp/239.21.1.142:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV6.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-6 电影
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5027
 http://192.168.50.1:20231/rtp/239.21.2.47:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV7.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-7 国防军事
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5211
 http://192.168.50.1:20231/rtp/239.21.1.152:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV8.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-8 电视剧
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5143
 http://192.168.50.1:20231/rtp/239.21.2.48:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV9.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-9 纪录
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5205
 http://192.168.50.1:20231/rtp/239.21.1.153:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV10.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-10 科教
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5269
 http://192.168.50.1:20231/rtp/239.21.1.155:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV11.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-11 戏曲
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=4961
 http://192.168.50.1:20231/rtp/239.21.2.2:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV12.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-12 社会与法
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5302
 http://192.168.50.1:20231/rtp/239.21.1.156:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV13.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-13 新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5117
 http://192.168.50.1:20231/rtp/239.21.2.3:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV14.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-14 少儿
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5298
 http://192.168.50.1:20231/rtp/239.21.1.157:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV15.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-15 音乐
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5146
 http://192.168.50.1:20231/rtp/239.21.2.4:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV17.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-17 农业农村
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5190
 http://192.168.50.1:20231/rtp/239.21.1.186:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4K 超高清" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4K.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-4K 超高清
-#EXTVLCOPT:video-resolution=3840x2160
-#EXTVLCOPT:network-caching=1957
 http://192.168.50.1:20231/rtp/239.21.2.152:5002
 #EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV1.png" group-title="CETV" tvg-language="" tvg-country="" ,CETV-1
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5179
 http://192.168.50.1:20231/rtp/239.21.2.7:5002
 #EXTINF:-1 tvg-id="" tvg-name="CETV-4" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV4.png" group-title="CETV" tvg-language="" tvg-country="" ,CETV-4
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5237
 http://192.168.50.1:20231/rtp/239.21.2.129:5002
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN.png" group-title="CGTN" tvg-language="" tvg-country="" ,CGTN
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5382
 http://192.168.50.1:20231/rtp/239.21.2.30:5002
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN俄语.png" group-title="CGTN" tvg-language="" tvg-country="" ,CGTN俄语
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5340
 http://192.168.50.1:20231/rtp/239.21.2.35:5002
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN法语.png" group-title="CGTN" tvg-language="" tvg-country="" ,CGTN法语
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5197
 http://192.168.50.1:20231/rtp/239.21.2.33:5002
 #EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN纪录.png" group-title="CGTN" tvg-language="" tvg-country="" ,CGTN纪录
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5303
 http://192.168.50.1:20231/rtp/239.21.2.31:5002
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN西语.png" group-title="CGTN" tvg-language="" tvg-country="" ,CGTN西语
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5571
 http://192.168.50.1:20231/rtp/239.21.2.32:5002
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN阿语.png" group-title="CGTN" tvg-language="" tvg-country="" ,CGTN阿语
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5275
 http://192.168.50.1:20231/rtp/239.21.2.34:5002
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/福建/东南卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,东南卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=6018
 http://192.168.50.1:20231/rtp/239.21.1.113:5002
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/东方卫视1.png" group-title="卫视" tvg-language="" tvg-country="" ,东方卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5976
 http://192.168.50.1:20231/rtp/239.21.1.111:5002
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/云南/云南卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,云南卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5227
 http://192.168.50.1:20231/rtp/239.21.2.86:5002
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰卫视.png" group-title="卫视" tvg-language="" tvg-country="" ,凤凰卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5596
 http://192.168.50.1:20231/rtp/239.21.2.153:5002
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰资讯.png" group-title="卫视" tvg-language="" tvg-country="" ,凤凰资讯
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5319
 http://192.168.50.1:20231/rtp/239.21.2.163:5002
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰香港.png" group-title="卫视" tvg-language="" tvg-country="" ,凤凰香港
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5254
 http://192.168.50.1:20231/rtp/239.21.2.164:5002
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5943
 http://192.168.50.1:20231/rtp/239.21.1.88:5002
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视-4K
-#EXTVLCOPT:video-resolution=3840x2160
-#EXTVLCOPT:network-caching=5360
 http://192.168.50.1:20231/rtp/239.21.2.172:5002
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/吉林卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,吉林卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5133
 http://192.168.50.1:20231/rtp/239.21.2.49:5002
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/四川/四川卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,四川卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5204
 http://192.168.50.1:20231/rtp/239.21.2.15:5002
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/天津/天津卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,天津卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5344
 http://192.168.50.1:20231/rtp/239.21.1.165:5002
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/安徽/安徽卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,安徽卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5299
 http://192.168.50.1:20231/rtp/239.21.1.159:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,山东卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5944
 http://192.168.50.1:20231/rtp/239.21.1.87:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广东卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5879
 http://192.168.50.1:20231/rtp/239.21.1.92:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,广东卫视-4K
-#EXTVLCOPT:video-resolution=3840x2160
-#EXTVLCOPT:network-caching=2430
 http://192.168.50.1:20231/rtp/239.21.2.157:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,广东卫视-4K
-#EXTVLCOPT:video-resolution=3840x2160
-#EXTVLCOPT:network-caching=2137
 http://192.168.50.1:20231/rtp/239.21.2.173:5002
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广西/广西卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广西卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5222
 http://192.168.50.1:20231/rtp/239.21.2.87:5002
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江苏/江苏卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,江苏卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5976
 http://192.168.50.1:20231/rtp/239.21.1.89:5002
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江西/江西卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,江西卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5594
 http://192.168.50.1:20231/rtp/239.21.1.167:5002
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/河北/河北卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,河北卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5584
 http://192.168.50.1:20231/rtp/239.21.1.168:5002
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/河南/河南卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,河南卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5210
 http://192.168.50.1:20231/rtp/239.21.2.37:5002
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/浙江/浙江卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,浙江卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5697
 http://192.168.50.1:20231/rtp/239.21.1.90:5002
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/海南/海南卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,海南卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5130
 http://192.168.50.1:20231/rtp/239.21.2.14:5002
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,深圳卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5872
 http://192.168.50.1:20231/rtp/239.21.1.93:5002
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,深圳卫视-4K
-#EXTVLCOPT:video-resolution=3840x2160
-#EXTVLCOPT:network-caching=2368
 http://192.168.50.1:20231/rtp/239.21.2.158:5002
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,深圳卫视-4K
-#EXTVLCOPT:video-resolution=3840x2160
-#EXTVLCOPT:network-caching=2675
 http://192.168.50.1:20231/rtp/239.21.2.174:5002
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖北/湖北卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,湖北卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5302
 http://192.168.50.1:20231/rtp/239.21.1.163:5002
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/湖南卫视1.png" group-title="卫视" tvg-language="" tvg-country="" ,湖南卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5404
 http://192.168.50.1:20231/rtp/239.21.1.158:5002
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/甘肃/甘肃卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,甘肃卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5317
 http://192.168.50.1:20231/rtp/239.21.2.22:5002
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/甘肃/甘肃卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,甘肃卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5340
 http://192.168.50.1:20231/rtp/239.21.2.55:5002
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/贵州/贵州卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,贵州卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5615
 http://192.168.50.1:20231/rtp/239.21.1.166:5002
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/辽宁/辽宁卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,辽宁卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5344
 http://192.168.50.1:20231/rtp/239.21.1.164:5002
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/重庆/重庆卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,重庆卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5191
 http://192.168.50.1:20231/rtp/239.21.1.233:5002
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/青海/青海卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,青海卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5144
 http://192.168.50.1:20231/rtp/239.21.2.51:5002
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/青海/青海卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,青海卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5419
 http://192.168.50.1:20231/rtp/239.21.2.85:5002
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/黑龙江/黑龙江卫视1.png" group-title="卫视" tvg-language="" tvg-country="" ,黑龙江卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5907
 http://192.168.50.1:20231/rtp/239.21.1.91:5002
 #EXTINF:-1 tvg-id="" tvg-name="NHK世界台" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/日本/NHK世界台.png" group-title="国际频道" tvg-language="" tvg-country="" ,NHK世界台
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5120
 http://192.168.50.1:20231/rtp/239.21.2.170:5002
 #EXTINF:-1 tvg-id="" tvg-name="新加坡新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新加坡/新加坡新闻.png" group-title="国际频道" tvg-language="" tvg-country="" ,新加坡新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5619
 http://192.168.50.1:20231/rtp/239.21.2.165:5002
 #EXTINF:-1 tvg-id="" tvg-name="法兰西" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/法兰西/法兰西.png" group-title="国际频道" tvg-language="" tvg-country="" ,法兰西
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5258
 http://192.168.50.1:20231/rtp/239.21.2.168:5002
 #EXTINF:-1 tvg-id="" tvg-name="澳门电视台" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/澳门/澳门电视台.png" group-title="国际频道" tvg-language="" tvg-country="" ,澳门电视台
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5138
 http://192.168.50.1:20231/rtp/239.21.2.167:5002
 #EXTINF:-1 tvg-id="" tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/韩国/阿里郎.png" group-title="国际频道" tvg-language="" tvg-country="" ,阿里郎
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5103
 http://192.168.50.1:20231/rtp/239.21.2.171:5002
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC动作电影.png" group-title="特色频道" tvg-language="" tvg-country="" ,CHC动作电影
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5199
 http://192.168.50.1:20231/rtp/239.21.2.128:5002
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC家庭电影.png" group-title="特色频道" tvg-language="" tvg-country="" ,CHC家庭影院
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5216
 http://192.168.50.1:20231/rtp/239.21.2.126:5002
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC高清电影.png" group-title="特色频道" tvg-language="" tvg-country="" ,CHC高清电影
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5142
 http://192.168.50.1:20231/rtp/239.21.2.127:5002
 #EXTINF:-1 tvg-id="" tvg-name="IPTV动作影院" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/华数.png" group-title="特色频道" tvg-language="" tvg-country="" ,IPTV动作影院
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5640
 http://192.168.50.1:20231/rtp/239.21.1.123:5002
 #EXTINF:-1 tvg-id="" tvg-name="IPTV喜剧影院" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/华数.png" group-title="特色频道" tvg-language="" tvg-country="" ,IPTV喜剧影院
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5303
 http://192.168.50.1:20231/rtp/239.21.1.122:5002
 #EXTINF:-1 tvg-id="" tvg-name="IPTV少儿动画" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/华数.png" group-title="特色频道" tvg-language="" tvg-country="" ,IPTV少儿动画
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5552
 http://192.168.50.1:20231/rtp/239.21.1.125:5002
 #EXTINF:-1 tvg-id="" tvg-name="IPTV热播剧场" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/华数.png" group-title="特色频道" tvg-language="" tvg-country="" ,IPTV热播剧场
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5534
 http://192.168.50.1:20231/rtp/239.21.1.128:5002
 #EXTINF:-1 tvg-id="" tvg-name="IPTV相声小品" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/华数.png" group-title="特色频道" tvg-language="" tvg-country="" ,IPTV相声小品
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5372
 http://192.168.50.1:20231/rtp/239.21.1.126:5002
 #EXTINF:-1 tvg-id="" tvg-name="IPTV经典电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/华数.png" group-title="特色频道" tvg-language="" tvg-country="" ,IPTV经典电影
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5440
 http://192.168.50.1:20231/rtp/239.21.1.124:5002
 #EXTINF:-1 tvg-id="" tvg-name="IPTV魅力时尚" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/华数.png" group-title="特色频道" tvg-language="" tvg-country="" ,IPTV魅力时尚
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5635
 http://192.168.50.1:20231/rtp/239.21.1.129:5002
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/东方财经.png" group-title="特色频道" tvg-language="" tvg-country="" ,东方财经
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5048
 http://192.168.50.1:20231/rtp/239.21.2.108:5002
 #EXTINF:-1 tvg-id="" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/公安部/中国交通3.png" group-title="特色频道" tvg-language="" tvg-country="" ,中国交通
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=6017
 http://192.168.50.1:20231/rtp/239.21.1.115:5002
 #EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/乐游.png" group-title="特色频道" tvg-language="" tvg-country="" ,乐游
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5599
 http://192.168.50.1:20231/rtp/239.21.2.104:5002
 #EXTINF:-1 tvg-id="" tvg-name="光影" tvg-logo="" group-title="特色频道" tvg-language="" tvg-country="" ,光影
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5401
 http://192.168.50.1:20231/rtp/239.21.1.131:5002
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/动漫秀场.png" group-title="特色频道" tvg-language="" tvg-country="" ,动漫秀场
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5295
 http://192.168.50.1:20231/rtp/239.21.2.92:5002
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/卡酷少儿.png" group-title="特色频道" tvg-language="" tvg-country="" ,卡酷少儿
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5089
 http://192.168.50.1:20231/rtp/239.21.2.120:5002
 #EXTINF:-1 tvg-id="" tvg-name="墨宝" tvg-logo="" group-title="特色频道" tvg-language="" tvg-country="" ,墨宝
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5456
 http://192.168.50.1:20231/rtp/239.21.1.130:5002
 #EXTINF:-1 tvg-id="" tvg-name="天下足球" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/天下足球.png" group-title="特色频道" tvg-language="" tvg-country="" ,天下足球
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5708
 http://192.168.50.1:20231/rtp/239.21.1.162:5002
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/快乐垂钓.png" group-title="特色频道" tvg-language="" tvg-country="" ,快乐垂钓
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5462
 http://192.168.50.1:20231/rtp/239.21.2.97:5002
 #EXTINF:-1 tvg-id="" tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/河南/文物宝库.png" group-title="特色频道" tvg-language="" tvg-country="" ,文物宝库
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=4986
 http://192.168.50.1:20231/rtp/239.21.2.109:5002
 #EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/河南/梨园频道.png" group-title="特色频道" tvg-language="" tvg-country="" ,梨园
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5108
 http://192.168.50.1:20231/rtp/239.21.2.101:5002
 #EXTINF:-1 tvg-id="" tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/河南/武术世界.png" group-title="特色频道" tvg-language="" tvg-country="" ,武术世界
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5909
 http://192.168.50.1:20231/rtp/239.21.2.96:5002
 #EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/浙江/求索纪录.png" group-title="特色频道" tvg-language="" tvg-country="" ,求索纪录
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5413
 http://192.168.50.1:20231/rtp/239.21.2.159:5002
 #EXTINF:-1 tvg-id="" tvg-name="汽摩" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/重庆/汽摩.png" group-title="特色频道" tvg-language="" tvg-country="" ,汽摩
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5304
 http://192.168.50.1:20231/rtp/239.21.2.142:5002
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/法治天地3.png" group-title="特色频道" tvg-language="" tvg-country="" ,法治天地
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5315
 http://192.168.50.1:20231/rtp/239.21.2.105:5002
 #EXTINF:-1 tvg-id="" tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/海洋频道.png" group-title="特色频道" tvg-language="" tvg-country="" ,海洋频道
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5472
 http://192.168.50.1:20231/rtp/239.21.2.119:5002
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/游戏风云.png" group-title="特色频道" tvg-language="" tvg-country="" ,游戏风云
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5178
 http://192.168.50.1:20231/rtp/239.21.2.107:5002
 #EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/生态环境.png" group-title="特色频道" tvg-language="" tvg-country="" ,生态环境
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5388
 http://192.168.50.1:20231/rtp/239.21.2.160:5002
 #EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/生活时尚.png" group-title="特色频道" tvg-language="" tvg-country="" ,生活时尚
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5416
 http://192.168.50.1:20231/rtp/239.21.2.103:5002
 #EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/精彩影视.png" group-title="特色频道" tvg-language="" tvg-country="" ,精彩影视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5591
 http://192.168.50.1:20231/rtp/239.21.2.91:5002
 #EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/纪实科教.png" group-title="特色频道" tvg-language="" tvg-country="" ,纪实科教
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5431
 http://192.168.50.1:20231/rtp/239.21.1.172:5002
 #EXTINF:-1 tvg-id="" tvg-name="综合测试" tvg-logo="" group-title="特色频道" tvg-language="" tvg-country="" ,综合测试
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5342
 http://192.168.50.1:20231/rtp/239.21.1.203:5002
 #EXTINF:-1 tvg-id="" tvg-name="美人" tvg-logo="" group-title="特色频道" tvg-language="" tvg-country="" ,美人
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5885
 http://192.168.50.1:20231/rtp/239.21.1.132:5002
 #EXTINF:-1 tvg-id="" tvg-name="茶" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/茶频道.png" group-title="特色频道" tvg-language="" tvg-country="" ,茶
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5128
 http://192.168.50.1:20231/rtp/239.21.2.110:5002
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/都市剧场.png" group-title="特色频道" tvg-language="" tvg-country="" ,都市剧场
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5333
 http://192.168.50.1:20231/rtp/239.21.2.90:5002
 #EXTINF:-1 tvg-id="" tvg-name="重温经典影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/央视/重温经典影视.png" group-title="特色频道" tvg-language="" tvg-country="" ,重温经典影视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5294
 http://192.168.50.1:20231/rtp/239.21.2.77:5002
 #EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/金色学堂.png" group-title="特色频道" tvg-language="" tvg-country="" ,金色学堂
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5328
 http://192.168.50.1:20231/rtp/239.21.2.102:5002
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/金鹰卡通.png" group-title="特色频道" tvg-language="" tvg-country="" ,金鹰卡通
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5232
 http://192.168.50.1:20231/rtp/239.21.2.121:5002
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/金鹰纪实.png" group-title="特色频道" tvg-language="" tvg-country="" ,金鹰纪实
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5445
 http://192.168.50.1:20231/rtp/239.21.1.170:5002
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/魅力足球2.png" group-title="特色频道" tvg-language="" tvg-country="" ,魅力足球
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5265
 http://192.168.50.1:20231/rtp/239.21.2.95:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东体育.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东体育
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5041
 http://192.168.50.1:20231/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东农科.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东农科
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5186
 http://192.168.50.1:20231/rtp/239.21.1.183:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东少儿.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东少儿
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5428
 http://192.168.50.1:20231/rtp/239.21.1.208:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东教育.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东教育卫视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5529
 http://192.168.50.1:20231/rtp/239.21.1.169:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东文旅.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东文旅
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5636
 http://192.168.50.1:20231/rtp/239.21.1.176:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东新闻.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5143
 http://192.168.50.1:20231/rtp/239.21.1.140:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东生活.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东生活
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5450
 http://192.168.50.1:20231/rtp/239.21.1.175:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东综艺.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东综艺
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5366
 http://192.168.50.1:20231/rtp/239.21.1.177:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东购物" tvg-logo="" group-title="山东频道" tvg-language="" tvg-country="" ,山东购物
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=6020
 http://192.168.50.1:20231/rtp/239.21.1.112:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东齐鲁.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东齐鲁
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5135
 http://192.168.50.1:20231/rtp/239.21.1.134:5002
 #EXTINF:-1 tvg-id="" tvg-name="德州新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州新闻.png" group-title="市级频道" tvg-language="" tvg-country="" ,德州新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5187
 http://192.168.50.1:20231/rtp/239.21.1.75:5002
 #EXTINF:-1 tvg-id="" tvg-name="德州生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州生活.png" group-title="市级频道" tvg-language="" tvg-country="" ,德州生活
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5147
 http://192.168.50.1:20231/rtp/239.21.1.76:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南教育" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南教育.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南教育
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5202
 http://192.168.50.1:20231/rtp/239.21.1.133:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南新闻.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=6094
 http://192.168.50.1:20231/rtp/239.21.1.94:5002
 #EXTINF:-1 tvg-id="" tvg-name="济宁综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁.png" group-title="市级频道" tvg-language="" tvg-country="" ,济宁综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5192
 http://192.168.50.1:20231/rtp/239.21.2.19:5002
 #EXTINF:-1 tvg-id="" tvg-name="济宁高新" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁.png" group-title="市级频道" tvg-language="" tvg-country="" ,济宁高新
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5281
 http://192.168.50.1:20231/rtp/239.21.2.83:5002
 #EXTINF:-1 tvg-id="" tvg-name="淄博影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博影视.png" group-title="市级频道" tvg-language="" tvg-country="" ,淄博影视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5129
 http://192.168.50.1:20231/rtp/239.21.1.182:5002
 #EXTINF:-1 tvg-id="" tvg-name="淄博新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博新闻.png" group-title="市级频道" tvg-language="" tvg-country="" ,淄博新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5757
 http://192.168.50.1:20231/rtp/239.21.1.84:5002
 #EXTINF:-1 tvg-id="" tvg-name="潍坊影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊影视.png" group-title="市级频道" tvg-language="" tvg-country="" ,潍坊影视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5532
 http://192.168.50.1:20231/rtp/239.21.2.88:5002
 #EXTINF:-1 tvg-id="" tvg-name="潍坊文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊文旅.png" group-title="市级频道" tvg-language="" tvg-country="" ,潍坊文旅
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5660
 http://192.168.50.1:20231/rtp/239.21.2.89:5002
 #EXTINF:-1 tvg-id="" tvg-name="潍坊新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊新闻.png" group-title="市级频道" tvg-language="" tvg-country="" ,潍坊新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5224
 http://192.168.50.1:20231/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="" tvg-name="潍坊生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊生活.png" group-title="市级频道" tvg-language="" tvg-country="" ,潍坊生活
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5620
 http://192.168.50.1:20231/rtp/239.21.1.78:5002
 #EXTINF:-1 tvg-id="" tvg-name="潍坊高新" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊高新.png" group-title="市级频道" tvg-language="" tvg-country="" ,潍坊高新
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5527
 http://192.168.50.1:20231/rtp/239.21.2.131:5002
 #EXTINF:-1 tvg-id="" tvg-name="烟台影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台.png" group-title="市级频道" tvg-language="" tvg-country="" ,烟台影视
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5244
 http://192.168.50.1:20231/rtp/239.21.1.204:5002
 #EXTINF:-1 tvg-id="" tvg-name="烟台新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台.png" group-title="市级频道" tvg-language="" tvg-country="" ,烟台新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5972
 http://192.168.50.1:20231/rtp/239.21.1.116:5002
 #EXTINF:-1 tvg-id="" tvg-name="烟台经济" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台.png" group-title="市级频道" tvg-language="" tvg-country="" ,烟台经济
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5189
 http://192.168.50.1:20231/rtp/239.21.1.205:5002
 #EXTINF:-1 tvg-id="" tvg-name="聊城民生" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城.png" group-title="市级频道" tvg-language="" tvg-country="" ,聊城民生
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5238
 http://192.168.50.1:20231/rtp/239.21.1.254:5002
 #EXTINF:-1 tvg-id="" tvg-name="聊城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城.png" group-title="市级频道" tvg-language="" tvg-country="" ,聊城综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5255
 http://192.168.50.1:20231/rtp/239.21.1.253:5002
 #EXTINF:-1 tvg-id="" tvg-name="无棣综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/滨州无棣.png" group-title="滨州" tvg-language="" tvg-country="" ,无棣综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5439
 http://192.168.50.1:20231/rtp/239.21.1.214:5002
 #EXTINF:-1 tvg-id="" tvg-name="沾化综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/滨州沾化.png" group-title="滨州" tvg-language="" tvg-country="" ,沾化综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5280
 http://192.168.50.1:20231/rtp/239.21.1.226:5002
 #EXTINF:-1 tvg-id="" tvg-name="邹平综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/滨州邹平.png" group-title="滨州" tvg-language="" tvg-country="" ,邹平综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5129
 http://192.168.50.1:20231/rtp/239.21.1.238:5002
 #EXTINF:-1 tvg-id="" tvg-name="阳信综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/滨州阳信.png" group-title="滨州" tvg-language="" tvg-country="" ,阳信综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5496
 http://192.168.50.1:20231/rtp/239.21.1.252:5002
 #EXTINF:-1 tvg-id="" tvg-name="临邑综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州临邑.png" group-title="德州" tvg-language="" tvg-country="" ,临邑综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5528
 http://192.168.50.1:20231/rtp/239.21.2.130:5002
 #EXTINF:-1 tvg-id="" tvg-name="夏津公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州夏津.png" group-title="德州" tvg-language="" tvg-country="" ,夏津公共
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5963
 http://192.168.50.1:20231/rtp/239.21.1.102:5002
 #EXTINF:-1 tvg-id="" tvg-name="夏津综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州夏津.png" group-title="德州" tvg-language="" tvg-country="" ,夏津综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=6019
 http://192.168.50.1:20231/rtp/239.21.1.106:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁津综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州宁津.png" group-title="德州" tvg-language="" tvg-country="" ,宁津综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5398
 http://192.168.50.1:20231/rtp/239.21.2.50:5002
 #EXTINF:-1 tvg-id="" tvg-name="平原综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州平原.png" group-title="德州" tvg-language="" tvg-country="" ,平原综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5113
 http://192.168.50.1:20231/rtp/239.21.1.243:5002
 #EXTINF:-1 tvg-id="" tvg-name="武城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州武城.png" group-title="德州" tvg-language="" tvg-country="" ,武城综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5143
 http://192.168.50.1:20231/rtp/239.21.1.239:5002
 #EXTINF:-1 tvg-id="" tvg-name="禹城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州禹城.png" group-title="德州" tvg-language="" tvg-country="" ,禹城综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5191
 http://192.168.50.1:20231/rtp/239.21.1.241:5002
 #EXTINF:-1 tvg-id="" tvg-name="禹城综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州禹城.png" group-title="德州" tvg-language="" tvg-country="" ,禹城综艺
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5036
 http://192.168.50.1:20231/rtp/239.21.1.242:5002
 #EXTINF:-1 tvg-id="" tvg-name="陵城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州陵城.png" group-title="德州" tvg-language="" tvg-country="" ,陵城综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5191
 http://192.168.50.1:20231/rtp/239.21.2.24:5002
 #EXTINF:-1 tvg-id="" tvg-name="齐河综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/德州齐河.png" group-title="德州" tvg-language="" tvg-country="" ,齐河综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5350
 http://192.168.50.1:20231/rtp/239.21.1.230:5002
 #EXTINF:-1 tvg-id="" tvg-name="广饶新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/东营广饶.png" group-title="东营" tvg-language="" tvg-country="" ,广饶新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5088
 http://192.168.50.1:20231/rtp/239.21.1.193:5002
 #EXTINF:-1 tvg-id="" tvg-name="单县综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽单县.png" group-title="菏泽" tvg-language="" tvg-country="" ,单县综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5298
 http://192.168.50.1:20231/rtp/239.21.2.21:5002
 #EXTINF:-1 tvg-id="" tvg-name="定陶综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽定陶.png" group-title="菏泽" tvg-language="" tvg-country="" ,定陶综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5045
 http://192.168.50.1:20231/rtp/239.21.1.244:5002
 #EXTINF:-1 tvg-id="" tvg-name="巨野新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽巨野.png" group-title="菏泽" tvg-language="" tvg-country="" ,巨野新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5437
 http://192.168.50.1:20231/rtp/239.21.1.215:5002
 #EXTINF:-1 tvg-id="" tvg-name="郓城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽郓城.png" group-title="菏泽" tvg-language="" tvg-country="" ,郓城综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5364
 http://192.168.50.1:20231/rtp/239.21.1.251:5002
 #EXTINF:-1 tvg-id="" tvg-name="历城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南历城.png" group-title="济南" tvg-language="" tvg-country="" ,历城综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5326
 http://192.168.50.1:20231/rtp/239.21.2.132:5002
 #EXTINF:-1 tvg-id="" tvg-name="商河综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南商河.png" group-title="济南" tvg-language="" tvg-country="" ,商河综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5132
 http://192.168.50.1:20231/rtp/239.21.2.53:5002
 #EXTINF:-1 tvg-id="" tvg-name="平阴综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南平阴.png" group-title="济南" tvg-language="" tvg-country="" ,平阴综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5379
 http://192.168.50.1:20231/rtp/239.21.1.221:5002
 #EXTINF:-1 tvg-id="" tvg-name="济阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南济阳.png" group-title="济南" tvg-language="" tvg-country="" ,济阳综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5057
 http://192.168.50.1:20231/rtp/239.21.1.187:5002
 #EXTINF:-1 tvg-id="" tvg-name="任城生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁任城.png" group-title="济宁" tvg-language="" tvg-country="" ,任城生活
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5289
 http://192.168.50.1:20231/rtp/239.21.2.144:5002
 #EXTINF:-1 tvg-id="" tvg-name="任城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁任城.png" group-title="济宁" tvg-language="" tvg-country="" ,任城综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5415
 http://192.168.50.1:20231/rtp/239.21.2.143:5002
 #EXTINF:-1 tvg-id="" tvg-name="兖州新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁兖州.png" group-title="济宁" tvg-language="" tvg-country="" ,兖州新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5250
 http://192.168.50.1:20231/rtp/239.21.1.224:5002
 #EXTINF:-1 tvg-id="" tvg-name="嘉祥新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁嘉祥.png" group-title="济宁" tvg-language="" tvg-country="" ,嘉祥新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5372
 http://192.168.50.1:20231/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="" tvg-name="曲阜新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁曲阜.png" group-title="济宁" tvg-language="" tvg-country="" ,曲阜新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5314
 http://192.168.50.1:20231/rtp/239.21.1.225:5002
 #EXTINF:-1 tvg-id="" tvg-name="梁山综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁梁山.png" group-title="济宁" tvg-language="" tvg-country="" ,梁山综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5071
 http://192.168.50.1:20231/rtp/239.21.2.12:5002
 #EXTINF:-1 tvg-id="" tvg-name="汶上综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁汶上.png" group-title="济宁" tvg-language="" tvg-country="" ,汶上综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5329
 http://192.168.50.1:20231/rtp/239.21.2.175:5002
 #EXTINF:-1 tvg-id="" tvg-name="邹城新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁邹城.png" group-title="济宁" tvg-language="" tvg-country="" ,邹城新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5076
 http://192.168.50.1:20231/rtp/239.21.1.185:5002
 #EXTINF:-1 tvg-id="" tvg-name="鱼台新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁鱼台.png" group-title="济宁" tvg-language="" tvg-country="" ,鱼台新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5310
 http://192.168.50.1:20231/rtp/239.21.2.134:5002
 #EXTINF:-1 tvg-id="" tvg-name="鱼台生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁鱼台.png" group-title="济宁" tvg-language="" tvg-country="" ,鱼台生活
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5166
 http://192.168.50.1:20231/rtp/239.21.2.135:5002
 #EXTINF:-1 tvg-id="" tvg-name="东阿综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城东阿.png" group-title="聊城" tvg-language="" tvg-country="" ,东阿综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5180
 http://192.168.50.1:20231/rtp/239.21.2.61:5002
 #EXTINF:-1 tvg-id="" tvg-name="临清综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城临清.png" group-title="聊城" tvg-language="" tvg-country="" ,临清综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5058
 http://192.168.50.1:20231/rtp/239.21.2.123:5002
 #EXTINF:-1 tvg-id="" tvg-name="茌平综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城茌平.png" group-title="聊城" tvg-language="" tvg-country="" ,茌平综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5450
 http://192.168.50.1:20231/rtp/239.21.1.219:5002
 #EXTINF:-1 tvg-id="" tvg-name="莘县综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城莘县.png" group-title="聊城" tvg-language="" tvg-country="" ,莘县综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5845
 http://192.168.50.1:20231/rtp/239.21.1.211:5002
 #EXTINF:-1 tvg-id="" tvg-name="临沭综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂临沭.png" group-title="临沂" tvg-language="" tvg-country="" ,临沭综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5173
 http://192.168.50.1:20231/rtp/239.21.2.154:5002
 #EXTINF:-1 tvg-id="" tvg-name="兰陵公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂兰陵.png" group-title="临沂" tvg-language="" tvg-country="" ,兰陵公共
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5234
 http://192.168.50.1:20231/rtp/239.21.2.63:5002
 #EXTINF:-1 tvg-id="" tvg-name="兰陵综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂兰陵.png" group-title="临沂" tvg-language="" tvg-country="" ,兰陵综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5155
 http://192.168.50.1:20231/rtp/239.21.1.237:5002
 #EXTINF:-1 tvg-id="" tvg-name="沂水生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂沂水.png" group-title="临沂" tvg-language="" tvg-country="" ,沂水生活
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5305
 http://192.168.50.1:20231/rtp/239.21.2.80:5002
 #EXTINF:-1 tvg-id="" tvg-name="沂水科教" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂沂水.png" group-title="临沂" tvg-language="" tvg-country="" ,沂水科教
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5046
 http://192.168.50.1:20231/rtp/239.21.2.79:5002
 #EXTINF:-1 tvg-id="" tvg-name="河东综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂河东.png" group-title="临沂" tvg-language="" tvg-country="" ,河东综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5132
 http://192.168.50.1:20231/rtp/239.21.2.136:5002
 #EXTINF:-1 tvg-id="" tvg-name="蒙阴综合" tvg-logo="" group-title="临沂" tvg-language="" tvg-country="" ,蒙阴综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5336
 http://192.168.50.1:20231/rtp/239.21.2.23:5002
 #EXTINF:-1 tvg-id="" tvg-name="崂山综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛崂山.png" group-title="青岛" tvg-language="" tvg-country="" ,崂山综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5176
 http://192.168.50.1:20231/rtp/239.21.1.223:5002
 #EXTINF:-1 tvg-id="" tvg-name="崂山综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛崂山.png" group-title="青岛" tvg-language="" tvg-country="" ,崂山综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5182
 http://192.168.50.1:20231/rtp/239.21.2.122:5002
 #EXTINF:-1 tvg-id="" tvg-name="平度综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛平度.png" group-title="青岛" tvg-language="" tvg-country="" ,平度综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5143
 http://192.168.50.1:20231/rtp/239.21.1.228:5002
 #EXTINF:-1 tvg-id="" tvg-name="胶州综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛胶州.png" group-title="青岛" tvg-language="" tvg-country="" ,胶州综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5248
 http://192.168.50.1:20231/rtp/239.21.2.60:5002
 #EXTINF:-1 tvg-id="" tvg-name="莱西综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛莱西.png" group-title="青岛" tvg-language="" tvg-country="" ,莱西综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5128
 http://192.168.50.1:20231/rtp/239.21.1.247:5002
 #EXTINF:-1 tvg-id="" tvg-name="黄岛生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛黄岛.png" group-title="青岛" tvg-language="" tvg-country="" ,黄岛生活
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5138
 http://192.168.50.1:20231/rtp/239.21.2.58:5002
 #EXTINF:-1 tvg-id="" tvg-name="黄岛综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛黄岛.png" group-title="青岛" tvg-language="" tvg-country="" ,黄岛综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5100
 http://192.168.50.1:20231/rtp/239.21.2.57:5002
 #EXTINF:-1 tvg-id="" tvg-name="岚山综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/日照岚山.png" group-title="日照" tvg-language="" tvg-country="" ,岚山综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5412
 http://192.168.50.1:20231/rtp/239.21.1.209:5002
 #EXTINF:-1 tvg-id="" tvg-name="莒县综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/日照莒县.png" group-title="日照" tvg-language="" tvg-country="" ,莒县综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5147
 http://192.168.50.1:20231/rtp/239.21.1.236:5002
 #EXTINF:-1 tvg-id="" tvg-name="东平综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安东平.png" group-title="泰安" tvg-language="" tvg-country="" ,东平综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5771
 http://192.168.50.1:20231/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳.png" group-title="泰安" tvg-language="" tvg-country="" ,宁阳综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5334
 http://192.168.50.1:20231/rtp/239.21.1.143:5002
 #EXTINF:-1 tvg-id="" tvg-name="岱岳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安岱岳.png" group-title="泰安" tvg-language="" tvg-country="" ,岱岳综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5330
 http://192.168.50.1:20231/rtp/239.21.2.139:5002
 #EXTINF:-1 tvg-id="" tvg-name="新泰乡村" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安新泰.png" group-title="泰安" tvg-language="" tvg-country="" ,新泰乡村
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5127
 http://192.168.50.1:20231/rtp/239.21.1.248:5002
 #EXTINF:-1 tvg-id="" tvg-name="新泰新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安新泰.png" group-title="泰安" tvg-language="" tvg-country="" ,新泰新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5401
 http://192.168.50.1:20231/rtp/239.21.1.210:5002
 #EXTINF:-1 tvg-id="" tvg-name="泰山综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安泰山.png" group-title="泰安" tvg-language="" tvg-country="" ,泰山综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5191
 http://192.168.50.1:20231/rtp/239.21.2.147:5002
 #EXTINF:-1 tvg-id="" tvg-name="肥城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安肥城.png" group-title="泰安" tvg-language="" tvg-country="" ,肥城综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5194
 http://192.168.50.1:20231/rtp/239.21.2.161:5002
 #EXTINF:-1 tvg-id="" tvg-name="乳山综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/威海乳山.png" group-title="威海" tvg-language="" tvg-country="" ,乳山综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5473
 http://192.168.50.1:20231/rtp/239.21.1.220:5002
 #EXTINF:-1 tvg-id="" tvg-name="文登综合" tvg-logo="" group-title="威海" tvg-language="" tvg-country="" ,文登综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5493
 http://192.168.50.1:20231/rtp/239.21.1.174:5002
 #EXTINF:-1 tvg-id="" tvg-name="荣成综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/威海荣成.png" group-title="威海" tvg-language="" tvg-country="" ,荣成综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5322
 http://192.168.50.1:20231/rtp/239.21.1.227:5002
 #EXTINF:-1 tvg-id="" tvg-name="临朐综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊临朐.png" group-title="潍坊" tvg-language="" tvg-country="" ,临朐综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5190
 http://192.168.50.1:20231/rtp/239.21.2.62:5002
 #EXTINF:-1 tvg-id="" tvg-name="安丘综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊安丘.png" group-title="潍坊" tvg-language="" tvg-country="" ,安丘综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5240
 http://192.168.50.1:20231/rtp/239.21.2.13:5002
 #EXTINF:-1 tvg-id="" tvg-name="寿光蔬菜" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊寿光.png" group-title="潍坊" tvg-language="" tvg-country="" ,寿光蔬菜
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5640
 http://192.168.50.1:20231/rtp/239.21.1.218:5002
 #EXTINF:-1 tvg-id="" tvg-name="昌乐综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊昌乐.png" group-title="潍坊" tvg-language="" tvg-country="" ,昌乐综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5097
 http://192.168.50.1:20231/rtp/239.21.1.245:5002
 #EXTINF:-1 tvg-id="" tvg-name="昌邑综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊昌邑.png" group-title="潍坊" tvg-language="" tvg-country="" ,昌邑综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5458
 http://192.168.50.1:20231/rtp/239.21.2.27:5002
 #EXTINF:-1 tvg-id="" tvg-name="青州文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊青州.png" group-title="潍坊" tvg-language="" tvg-country="" ,青州文旅
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5318
 http://192.168.50.1:20231/rtp/239.21.1.231:5002
 #EXTINF:-1 tvg-id="" tvg-name="青州综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊青州.png" group-title="潍坊" tvg-language="" tvg-country="" ,青州综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5346
 http://192.168.50.1:20231/rtp/239.21.1.232:5002
 #EXTINF:-1 tvg-id="" tvg-name="高密综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊高密.png" group-title="潍坊" tvg-language="" tvg-country="" ,高密综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5137
 http://192.168.50.1:20231/rtp/239.21.2.59:5002
 #EXTINF:-1 tvg-id="" tvg-name="招远综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台招远.png" group-title="烟台" tvg-language="" tvg-country="" ,招远综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5476
 http://192.168.50.1:20231/rtp/239.21.2.145:5002
 #EXTINF:-1 tvg-id="" tvg-name="海阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台海阳.png" group-title="烟台" tvg-language="" tvg-country="" ,海阳综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5145
 http://192.168.50.1:20231/rtp/239.21.2.64:5002
 #EXTINF:-1 tvg-id="" tvg-name="海阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台海阳.png" group-title="烟台" tvg-language="" tvg-country="" ,海阳综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5188
 http://192.168.50.1:20231/rtp/239.21.2.68:5002
 #EXTINF:-1 tvg-id="" tvg-name="海阳综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台海阳.png" group-title="烟台" tvg-language="" tvg-country="" ,海阳综艺
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5278
 http://192.168.50.1:20231/rtp/239.21.2.65:5002
 #EXTINF:-1 tvg-id="" tvg-name="牟平生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台牟平.png" group-title="烟台" tvg-language="" tvg-country="" ,牟平生活
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5141
 http://192.168.50.1:20231/rtp/239.21.2.11:5002
 #EXTINF:-1 tvg-id="" tvg-name="牟平综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台牟平.png" group-title="烟台" tvg-language="" tvg-country="" ,牟平综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5164
 http://192.168.50.1:20231/rtp/239.21.2.10:5002
 #EXTINF:-1 tvg-id="" tvg-name="蓬莱综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台蓬莱.png" group-title="烟台" tvg-language="" tvg-country="" ,蓬莱综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5280
 http://192.168.50.1:20231/rtp/239.21.2.56:5002
 #EXTINF:-1 tvg-id="" tvg-name="长岛综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台长岛.png" group-title="烟台" tvg-language="" tvg-country="" ,长岛综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5240
 http://192.168.50.1:20231/rtp/239.21.2.52:5002
 #EXTINF:-1 tvg-id="" tvg-name="龙口综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台龙口.png" group-title="烟台" tvg-language="" tvg-country="" ,龙口综合
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5136
 http://192.168.50.1:20231/rtp/239.21.2.146:5002
 #EXTINF:-1 tvg-id="" tvg-name="淄川新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博淄川.png" group-title="淄博" tvg-language="" tvg-country="" ,淄川新闻
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=6169
 http://192.168.50.1:20231/rtp/239.21.1.160:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东交通广播" tvg-logo="" group-title="广播" tvg-language="" tvg-country="" ,山东交通广播
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5390
 http://192.168.50.1:20231/rtp/239.21.2.151:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东经济广播" tvg-logo="" group-title="广播" tvg-language="" tvg-country="" ,山东经济广播
-#EXTVLCOPT:video-resolution=1920x1080
-#EXTVLCOPT:network-caching=5357
 http://192.168.50.1:20231/rtp/239.21.2.148:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-1 综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5764
 http://192.168.50.1:20231/rtp/239.21.1.1:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-中视购物" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV中视购物.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-中视购物
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6108
 http://192.168.50.1:20231/rtp/239.21.1.100:5002
 #EXTINF:-1 tvg-id="" tvg-name="CETV-2" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV2.png" group-title="CETV" tvg-language="" tvg-country="" ,CETV-2
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5262
 http://192.168.50.1:20231/rtp/239.21.2.8:5002
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CGTN/CGTN.png" group-title="CGTN" tvg-language="" tvg-country="" ,CGTN
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5808
 http://192.168.50.1:20231/rtp/239.21.1.10:5002
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/海南/三沙卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,三沙卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5353
 http://192.168.50.1:20231/rtp/239.21.2.9:5002
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新疆/兵团卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,兵团卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5477
 http://192.168.50.1:20231/rtp/239.21.1.234:5002
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/内蒙古/内蒙古卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,内蒙古卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6220
 http://192.168.50.1:20231/rtp/239.21.1.41:5002
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/陕西/农林卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,农林卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5350
 http://192.168.50.1:20231/rtp/239.21.1.235:5002
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/福建/厦门卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,厦门卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5341
 http://192.168.50.1:20231/rtp/239.21.2.6:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/宁夏/宁夏卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,宁夏卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6331
 http://192.168.50.1:20231/rtp/239.21.1.44:5002
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山西/山西卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,山西卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6186
 http://192.168.50.1:20231/rtp/239.21.1.33:5002
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/延边卫视.png" group-title="卫视" tvg-language="" tvg-country="" ,延边卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5357
 http://192.168.50.1:20231/rtp/239.21.2.137:5002
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新疆/新疆卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,新疆卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6242
 http://192.168.50.1:20231/rtp/239.21.1.45:5002
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/西藏/西藏卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,西藏卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6424
 http://192.168.50.1:20231/rtp/239.21.1.46:5002
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/陕西/陕西卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,陕西卫视
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6377
 http://192.168.50.1:20231/rtp/239.21.1.30:5002
 #EXTINF:-1 tvg-id="" tvg-name="欧洲新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/欧洲/欧洲新闻.png" group-title="国际频道" tvg-language="" tvg-country="" ,欧洲新闻
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5422
 http://192.168.50.1:20231/rtp/239.21.2.169:5002
 #EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/中华特产.png" group-title="特色频道" tvg-language="" tvg-country="" ,中华特产
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5374
 http://192.168.50.1:20231/rtp/239.21.2.118:5002
 #EXTINF:-1 tvg-id="" tvg-name="书画" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/书画.png" group-title="特色频道" tvg-language="" tvg-country="" ,书画
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5250
 http://192.168.50.1:20231/rtp/239.21.2.111:5002
 #EXTINF:-1 tvg-id="" tvg-name="优优宝贝" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/优优宝贝2.png" group-title="特色频道" tvg-language="" tvg-country="" ,优优宝贝
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5338
 http://192.168.50.1:20231/rtp/239.21.2.94:5002
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江苏/优漫卡通2.png" group-title="特色频道" tvg-language="" tvg-country="" ,优漫卡通
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6247
 http://192.168.50.1:20231/rtp/239.21.1.50:5002
 #EXTINF:-1 tvg-id="" tvg-name="先锋乒羽" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/先锋乒羽.png" group-title="特色频道" tvg-language="" tvg-country="" ,先锋乒羽
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5853
 http://192.168.50.1:20231/rtp/239.21.2.98:5002
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/哈哈炫动2.png" group-title="特色频道" tvg-language="" tvg-country="" ,哈哈炫动
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6150
 http://192.168.50.1:20231/rtp/239.21.1.51:5002
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/嘉佳卡通.png" group-title="特色频道" tvg-language="" tvg-country="" ,嘉佳卡通
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5270
 http://192.168.50.1:20231/rtp/239.21.2.5:5002
 #EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/四海钓鱼.png" group-title="特色频道" tvg-language="" tvg-country="" ,四海钓鱼
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5822
 http://192.168.50.1:20231/rtp/239.21.2.99:5002
 #EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/辽宁/家庭理财.png" group-title="特色频道" tvg-language="" tvg-country="" ,家庭理财
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5308
 http://192.168.50.1:20231/rtp/239.21.2.112:5002
 #EXTINF:-1 tvg-id="" tvg-name="已停用" tvg-logo="" group-title="特色频道" tvg-language="" tvg-country="" ,已停用
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5573
 http://192.168.50.1:20231/rtp/239.21.2.26:5002
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/辽宁/新动漫2.png" group-title="特色频道" tvg-language="" tvg-country="" ,新动漫
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5340
 http://192.168.50.1:20231/rtp/239.21.2.93:5002
 #EXTINF:-1 tvg-id="" tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/环球旅游.png" group-title="特色频道" tvg-language="" tvg-country="" ,环球旅游
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5231
 http://192.168.50.1:20231/rtp/239.21.2.115:5002
 #EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/财富天下.png" group-title="特色频道" tvg-language="" tvg-country="" ,财富天下
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5065
 http://192.168.50.1:20231/rtp/239.21.1.127:5002
 #EXTINF:-1 tvg-id="" tvg-name="车迷" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/车迷频道.png" group-title="特色频道" tvg-language="" tvg-country="" ,车迷
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5604
 http://192.168.50.1:20231/rtp/239.21.2.116:5002
 #EXTINF:-1 tvg-id="" tvg-name="东营公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/东营.png" group-title="市级频道" tvg-language="" tvg-country="" ,东营公共
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5963
 http://192.168.50.1:20231/rtp/239.21.1.82:5002
 #EXTINF:-1 tvg-id="" tvg-name="东营新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/东营.png" group-title="市级频道" tvg-language="" tvg-country="" ,东营新闻
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5838
 http://192.168.50.1:20231/rtp/239.21.1.81:5002
 #EXTINF:-1 tvg-id="" tvg-name="威海新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/威海.png" group-title="市级频道" tvg-language="" tvg-country="" ,威海新闻
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5363
 http://192.168.50.1:20231/rtp/239.21.2.155:5002
 #EXTINF:-1 tvg-id="" tvg-name="威海生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/威海.png" group-title="市级频道" tvg-language="" tvg-country="" ,威海生活
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5361
 http://192.168.50.1:20231/rtp/239.21.2.156:5002
 #EXTINF:-1 tvg-id="" tvg-name="日照公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/日照公共.png" group-title="市级频道" tvg-language="" tvg-country="" ,日照公共
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5415
 http://192.168.50.1:20231/rtp/239.21.2.81:5002
 #EXTINF:-1 tvg-id="" tvg-name="日照新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/日照新闻.png" group-title="市级频道" tvg-language="" tvg-country="" ,日照新闻
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6533
 http://192.168.50.1:20231/rtp/239.21.1.79:5002
 #EXTINF:-1 tvg-id="" tvg-name="日照科教" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/日照科教.png" group-title="市级频道" tvg-language="" tvg-country="" ,日照科教
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6188
 http://192.168.50.1:20231/rtp/239.21.1.80:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南文旅体育.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南体育
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5378
 http://192.168.50.1:20231/rtp/239.21.1.65:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南娱乐" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南娱乐.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南娱乐
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5366
 http://192.168.50.1:20231/rtp/239.21.1.66:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南少儿.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南少儿
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5395
 http://192.168.50.1:20231/rtp/239.21.1.68:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南生活.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南生活
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5419
 http://192.168.50.1:20231/rtp/239.21.1.64:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南新闻综合.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5396
 http://192.168.50.1:20231/rtp/239.21.1.62:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南都市" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南都市.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南都市
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5408
 http://192.168.50.1:20231/rtp/239.21.1.63:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南鲁中" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南鲁中.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南鲁中
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5241
 http://192.168.50.1:20231/rtp/239.21.1.149:5002
 #EXTINF:-1 tvg-id="" tvg-name="济宁公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁.png" group-title="市级频道" tvg-language="" tvg-country="" ,济宁公共
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5481
 http://192.168.50.1:20231/rtp/239.21.2.20:5002
 #EXTINF:-1 tvg-id="" tvg-name="济宁生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁.png" group-title="市级频道" tvg-language="" tvg-country="" ,济宁生活
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5301
 http://192.168.50.1:20231/rtp/239.21.1.139:5002
 #EXTINF:-1 tvg-id="" tvg-name="淄博文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博文旅.png" group-title="市级频道" tvg-language="" tvg-country="" ,淄博文旅
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6502
 http://192.168.50.1:20231/rtp/239.21.1.83:5002
 #EXTINF:-1 tvg-id="" tvg-name="淄博民生" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博民生.png" group-title="市级频道" tvg-language="" tvg-country="" ,淄博民生
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6021
 http://192.168.50.1:20231/rtp/239.21.1.109:5002
 #EXTINF:-1 tvg-id="" tvg-name="滨州新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/滨州.png" group-title="市级频道" tvg-language="" tvg-country="" ,滨州新闻
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5945
 http://192.168.50.1:20231/rtp/239.21.1.118:5002
 #EXTINF:-1 tvg-id="" tvg-name="滨州民生" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/滨州.png" group-title="市级频道" tvg-language="" tvg-country="" ,滨州民生
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6066
 http://192.168.50.1:20231/rtp/239.21.1.119:5002
 #EXTINF:-1 tvg-id="" tvg-name="烟台公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台.png" group-title="市级频道" tvg-language="" tvg-country="" ,烟台公共
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6085
 http://192.168.50.1:20231/rtp/239.21.1.117:5002
 #EXTINF:-1 tvg-id="" tvg-name="菏泽-1" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽.png" group-title="市级频道" tvg-language="" tvg-country="" ,菏泽-1
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6145
 http://192.168.50.1:20231/rtp/239.21.1.103:5002
 #EXTINF:-1 tvg-id="" tvg-name="菏泽-2" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽.png" group-title="市级频道" tvg-language="" tvg-country="" ,菏泽-2
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5433
 http://192.168.50.1:20231/rtp/239.21.2.18:5002
 #EXTINF:-1 tvg-id="" tvg-name="青岛QTV-1" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/QTV1.png" group-title="市级频道" tvg-language="" tvg-country="" ,青岛QTV-1
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5276
 http://192.168.50.1:20231/rtp/239.21.1.69:5002
 #EXTINF:-1 tvg-id="" tvg-name="青岛QTV-2" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/QTV2.png" group-title="市级频道" tvg-language="" tvg-country="" ,青岛QTV-2
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5288
 http://192.168.50.1:20231/rtp/239.21.1.70:5002
 #EXTINF:-1 tvg-id="" tvg-name="青岛QTV-3" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/QTV3.png" group-title="市级频道" tvg-language="" tvg-country="" ,青岛QTV-3
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5319
 http://192.168.50.1:20231/rtp/239.21.1.71:5002
 #EXTINF:-1 tvg-id="" tvg-name="青岛QTV-4" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/QTV4.png" group-title="市级频道" tvg-language="" tvg-country="" ,青岛QTV-4
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5283
 http://192.168.50.1:20231/rtp/239.21.1.72:5002
 #EXTINF:-1 tvg-id="" tvg-name="青岛QTV-5" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/QTV5.png" group-title="市级频道" tvg-language="" tvg-country="" ,青岛QTV-5
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5205
 http://192.168.50.1:20231/rtp/239.21.1.73:5002
 #EXTINF:-1 tvg-id="" tvg-name="青岛QTV-6" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/QTV6.png" group-title="市级频道" tvg-language="" tvg-country="" ,青岛QTV-6
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5381
 http://192.168.50.1:20231/rtp/239.21.1.74:5002
 #EXTINF:-1 tvg-id="" tvg-name="惠民综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/滨州惠民.png" group-title="滨州" tvg-language="" tvg-country="" ,惠民综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5528
 http://192.168.50.1:20231/rtp/239.21.1.181:5002
 #EXTINF:-1 tvg-id="" tvg-name="东明综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽东明.png" group-title="菏泽" tvg-language="" tvg-country="" ,东明综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5244
 http://192.168.50.1:20231/rtp/239.21.1.246:5002
 #EXTINF:-1 tvg-id="" tvg-name="鄄城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽鄄城.png" group-title="菏泽" tvg-language="" tvg-country="" ,鄄城综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5602
 http://192.168.50.1:20231/rtp/239.21.2.141:5002
 #EXTINF:-1 tvg-id="" tvg-name="长清综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南长清.png" group-title="济南" tvg-language="" tvg-country="" ,长清综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6348
 http://192.168.50.1:20231/rtp/239.21.1.107:5002
 #EXTINF:-1 tvg-id="" tvg-name="冠县综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城冠县.png" group-title="聊城" tvg-language="" tvg-country="" ,冠县综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5506
 http://192.168.50.1:20231/rtp/239.21.1.250:5002
 #EXTINF:-1 tvg-id="" tvg-name="冠县综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城冠县.png" group-title="聊城" tvg-language="" tvg-country="" ,冠县综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5404
 http://192.168.50.1:20231/rtp/239.21.2.149:5002
 #EXTINF:-1 tvg-id="" tvg-name="莒南综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂莒南.png" group-title="临沂" tvg-language="" tvg-country="" ,莒南综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5326
 http://192.168.50.1:20231/rtp/239.21.2.66:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁阳生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳.png" group-title="泰安" tvg-language="" tvg-country="" ,宁阳生活
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5292
 http://192.168.50.1:20231/rtp/239.21.1.144:5002
 #EXTINF:-1 tvg-id="" tvg-name="寿光综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊寿光.png" group-title="潍坊" tvg-language="" tvg-country="" ,寿光综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6106
 http://192.168.50.1:20231/rtp/239.21.1.180:5002
 #EXTINF:-1 tvg-id="" tvg-name="诸城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊诸城.png" group-title="潍坊" tvg-language="" tvg-country="" ,诸城综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5666
 http://192.168.50.1:20231/rtp/239.21.1.217:5002
 #EXTINF:-1 tvg-id="" tvg-name="栖霞综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台栖霞.png" group-title="烟台" tvg-language="" tvg-country="" ,栖霞综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5555
 http://192.168.50.1:20231/rtp/239.21.1.229:5002
 #EXTINF:-1 tvg-id="" tvg-name="周村新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博周村.png" group-title="淄博" tvg-language="" tvg-country="" ,周村新闻
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5396
 http://192.168.50.1:20231/rtp/239.21.2.150:5002
 #EXTINF:-1 tvg-id="" tvg-name="张店综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博张店.png" group-title="淄博" tvg-language="" tvg-country="" ,张店综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5338
 http://192.168.50.1:20231/rtp/239.21.2.138:5002
 #EXTINF:-1 tvg-id="" tvg-name="桓台综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博桓台.png" group-title="淄博" tvg-language="" tvg-country="" ,桓台综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6107
 http://192.168.50.1:20231/rtp/239.21.1.105:5002
 #EXTINF:-1 tvg-id="" tvg-name="沂源综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博沂源.png" group-title="淄博" tvg-language="" tvg-country="" ,沂源综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=6069
 http://192.168.50.1:20231/rtp/239.21.1.114:5002
 #EXTINF:-1 tvg-id="" tvg-name="高青综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/淄博高青.png" group-title="淄博" tvg-language="" tvg-country="" ,高青综合
-#EXTVLCOPT:video-resolution=720x576
-#EXTVLCOPT:network-caching=5251
 http://192.168.50.1:20231/rtp/239.21.2.140:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东综合广播" tvg-logo="" group-title="广播" tvg-language="" tvg-country="" ,山东综合广播
-#EXTVLCOPT:video-resolution=未知分辨率
-#EXTVLCOPT:network-caching=5438
 http://192.168.50.1:20231/rtp/239.21.2.36:5002
 
 # Generated by IPTV Scanner Editor Pro
