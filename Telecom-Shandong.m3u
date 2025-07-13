@@ -68,7 +68,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000380/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视
 http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="卫视",北京卫视-4K
-http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
+http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/吉林卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,吉林卫视
 http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/四川/四川卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,四川卫视
@@ -80,7 +80,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广东卫视
 http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4K.png" group-title="卫视",广东卫视-4K
-http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
+http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广西/广西卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广西卫视
 http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江苏/江苏卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,江苏卫视
@@ -98,7 +98,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,深圳卫视
 http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视4K.png" group-title="卫视",深圳卫视-4K
-http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil
+http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖北/湖北卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,湖北卫视
 http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/湖南卫视1.png" group-title="卫视" tvg-language="" tvg-country="" ,湖南卫视
@@ -116,13 +116,13 @@ http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/黑龙江/黑龙江卫视1.png" group-title="卫视" tvg-language="" tvg-country="" ,黑龙江卫视
 http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰中文.png" group-title="卫视",凤凰中文
-http://150.138.9.170:80/PLTV/88888888/224/3221227409/497429879.smil
+http://150.138.9.170:80/PLTV/88888888/224/3221227409/497429879.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰资讯.png" group-title="卫视",凤凰资讯
-http://150.138.9.170:80/PLTV/88888888/224/3221227280/516918666.smil
+http://150.138.9.170:80/PLTV/88888888/224/3221227280/516918666.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰香港.png" group-title="卫视",凤凰香港
-http://150.138.9.170:80/PLTV/88888888/224/3221227291/516918680.smil
+http://150.138.9.170:80/PLTV/88888888/224/3221227291/516918680.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/澳门/澳门电视台.png" group-title="卫视",澳视卫星
-http://150.138.9.170:80/PLTV/88888888/224/3221227295/517077830.smil
+http://150.138.9.170:80/PLTV/88888888/224/3221227295/517077830.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC动作电影.png" group-title="特色频道" tvg-language="" tvg-country="" ,CHC动作电影
 http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC家庭电影.png" group-title="特色频道" tvg-language="" tvg-country="" ,CHC家庭影院
