@@ -67,7 +67,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000380/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视
 http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4k.png" group-title="卫视",北京卫视-4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="卫视",北京卫视-4K
 http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/吉林卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,吉林卫视
 http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
@@ -79,7 +79,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广东卫视
 http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4k.png" group-title="卫视",广东卫视-4K
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4K.png" group-title="卫视",广东卫视-4K
 http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广西/广西卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广西卫视
 http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
