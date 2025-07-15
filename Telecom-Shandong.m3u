@@ -123,6 +123,14 @@ http://150.138.9.170:80/PLTV/88888888/224/3221227280/516918666.smil/index.m3u8?f
 http://150.138.9.170:80/PLTV/88888888/224/3221227291/516918680.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/澳门/澳门电视台.png" group-title="卫视",澳视卫星
 http://150.138.9.170:80/PLTV/88888888/224/3221227295/517077830.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="NHK世界台" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/日本/NHK世界台.png" group-title="国际频道" tvg-language="" tvg-country="" ,NHK世界台
+http://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="欧洲新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/欧洲/欧洲新闻.png" group-title="国际频道" tvg-language="" tvg-country="" ,欧洲新闻
+http://150.138.8.132/PLTV/88888888/224/3221227288/517077815.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="法兰西" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/法兰西/法兰西.png" group-title="国际频道" tvg-language="" tvg-country="" ,法兰西
+http://150.138.8.132/PLTV/88888888/224/3221227284/517077846.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/韩国/阿里郎.png" group-title="国际频道" tvg-language="" tvg-country="" ,阿里郎
+http://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC动作电影.png" group-title="特色频道" tvg-language="" tvg-country="" ,CHC动作电影
 http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC家庭电影.png" group-title="特色频道" tvg-language="" tvg-country="" ,CHC家庭影院
