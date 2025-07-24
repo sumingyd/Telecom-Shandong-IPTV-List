@@ -39,6 +39,8 @@ http://192.168.50.1:20231/rtp/239.21.2.4:5002
 http://192.168.50.1:20231/rtp/239.21.1.186:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4K 超高清" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4K.png" group-title="央视频道" tvg-language="" tvg-country="" ,CCTV-4K 超高清
 http://192.168.50.1:20231/rtp/239.21.2.152:5002
+#EXTINF:-1 tvg-id="" tvg-name="中央新影 中学生" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/中央新影中学生.png" group-title="央视频道" resolution="1920x1080" ,中央新影 中学生
+http://192.168.50.1:20231/rtp/239.21.2.176:5002
 #EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV1.png" group-title="CETV" tvg-language="" tvg-country="" ,CETV-1
 http://192.168.50.1:20231/rtp/239.21.2.7:5002
 #EXTINF:-1 tvg-id="" tvg-name="CETV-4" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV4.png" group-title="CETV" tvg-language="" tvg-country="" ,CETV-4
@@ -131,6 +133,8 @@ http://192.168.50.1:20231/rtp/239.21.1.91:5002
 http://192.168.50.1:20231/rtp/239.21.2.170:5002
 #EXTINF:-1 tvg-id="" tvg-name="新加坡新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新加坡/新加坡新闻.png" group-title="国际频道" tvg-language="" tvg-country="" ,新加坡新闻
 http://192.168.50.1:20231/rtp/239.21.2.165:5002
+#EXTINF:-1 tvg-id="" tvg-name="欧洲新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/德国/DW德国之声.png" group-title="国际频道" resolution="1920x1080" ,欧洲新闻
+http://192.168.50.1:20231/rtp/239.21.2.169:5002
 #EXTINF:-1 tvg-id="" tvg-name="法兰西" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/法兰西/法兰西.png" group-title="国际频道" tvg-language="" tvg-country="" ,法兰西
 http://192.168.50.1:20231/rtp/239.21.2.168:5002
 #EXTINF:-1 tvg-id="" tvg-name="澳门电视台" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/澳门/澳门电视台.png" group-title="国际频道" tvg-language="" tvg-country="" ,澳门电视台
@@ -159,6 +163,8 @@ http://192.168.50.1:20231/rtp/239.21.1.124:5002
 http://192.168.50.1:20231/rtp/239.21.1.129:5002
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/东方财经.png" group-title="特色频道" tvg-language="" tvg-country="" ,东方财经
 http://192.168.50.1:20231/rtp/239.21.2.108:5002
+#EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/中华特产.png" group-title="特色频道" resolution="1920x1080" ,中华特产
+http://192.168.50.1:20231/rtp/239.21.2.177:5002
 #EXTINF:-1 tvg-id="" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/公安部/中国交通3.png" group-title="特色频道" tvg-language="" tvg-country="" ,中国交通
 http://192.168.50.1:20231/rtp/239.21.1.115:5002
 #EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/乐游.png" group-title="特色频道" tvg-language="" tvg-country="" ,乐游
@@ -215,8 +221,6 @@ http://192.168.50.1:20231/rtp/239.21.2.102:5002
 http://192.168.50.1:20231/rtp/239.21.2.121:5002
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/金鹰纪实.png" group-title="特色频道" tvg-language="" tvg-country="" ,金鹰纪实
 http://192.168.50.1:20231/rtp/239.21.1.170:5002
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/魅力足球2.png" group-title="特色频道" tvg-language="" tvg-country="" ,魅力足球
-http://192.168.50.1:20231/rtp/239.21.2.95:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东体育.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东体育
 http://192.168.50.1:20231/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东农科.png" group-title="山东频道" tvg-language="" tvg-country="" ,山东农科
@@ -469,8 +473,6 @@ http://192.168.50.1:20231/rtp/239.21.1.45:5002
 http://192.168.50.1:20231/rtp/239.21.1.46:5002
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/陕西/陕西卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,陕西卫视
 http://192.168.50.1:20231/rtp/239.21.1.30:5002
-#EXTINF:-1 tvg-id="" tvg-name="欧洲新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/欧洲/欧洲新闻.png" group-title="国际频道" tvg-language="" tvg-country="" ,欧洲新闻
-http://192.168.50.1:20231/rtp/239.21.2.169:5002
 #EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/中华特产.png" group-title="特色频道" tvg-language="" tvg-country="" ,中华特产
 http://192.168.50.1:20231/rtp/239.21.2.118:5002
 #EXTINF:-1 tvg-id="" tvg-name="书画" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/书画.png" group-title="特色频道" tvg-language="" tvg-country="" ,书画
@@ -487,8 +489,6 @@ http://192.168.50.1:20231/rtp/239.21.1.51:5002
 http://192.168.50.1:20231/rtp/239.21.2.5:5002
 #EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/四海钓鱼.png" group-title="特色频道" tvg-language="" tvg-country="" ,四海钓鱼
 http://192.168.50.1:20231/rtp/239.21.2.99:5002
-#EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/辽宁/家庭理财.png" group-title="特色频道" tvg-language="" tvg-country="" ,家庭理财
-http://192.168.50.1:20231/rtp/239.21.2.112:5002
 #EXTINF:-1 tvg-id="" tvg-name="已停用" tvg-logo="" group-title="特色频道" tvg-language="" tvg-country="" ,已停用
 http://192.168.50.1:20231/rtp/239.21.2.26:5002
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/辽宁/新动漫2.png" group-title="特色频道" tvg-language="" tvg-country="" ,新动漫
@@ -497,8 +497,6 @@ http://192.168.50.1:20231/rtp/239.21.2.93:5002
 http://192.168.50.1:20231/rtp/239.21.2.115:5002
 #EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/财富天下.png" group-title="特色频道" tvg-language="" tvg-country="" ,财富天下
 http://192.168.50.1:20231/rtp/239.21.1.127:5002
-#EXTINF:-1 tvg-id="" tvg-name="车迷" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/车迷频道.png" group-title="特色频道" tvg-language="" tvg-country="" ,车迷
-http://192.168.50.1:20231/rtp/239.21.2.116:5002
 #EXTINF:-1 tvg-id="" tvg-name="东营公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/东营.png" group-title="市级频道" tvg-language="" tvg-country="" ,东营公共
 http://192.168.50.1:20231/rtp/239.21.1.82:5002
 #EXTINF:-1 tvg-id="" tvg-name="东营新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/东营.png" group-title="市级频道" tvg-language="" tvg-country="" ,东营新闻
@@ -519,10 +517,10 @@ http://192.168.50.1:20231/rtp/239.21.1.65:5002
 http://192.168.50.1:20231/rtp/239.21.1.66:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南少儿" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南少儿.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南少儿
 http://192.168.50.1:20231/rtp/239.21.1.68:5002
+#EXTINF:-1 tvg-id="" tvg-name="济南新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南新闻综合.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南综合
+http://192.168.50.1:20231/rtp/239.21.1.62:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南生活.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南生活
 http://192.168.50.1:20231/rtp/239.21.1.64:5002
-#EXTINF:-1 tvg-id="" tvg-name="济南综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南新闻综合.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南综合
-http://192.168.50.1:20231/rtp/239.21.1.62:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南都市" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南都市.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南都市
 http://192.168.50.1:20231/rtp/239.21.1.63:5002
 #EXTINF:-1 tvg-id="" tvg-name="济南鲁中" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南鲁中.png" group-title="市级频道" tvg-language="" tvg-country="" ,济南鲁中
