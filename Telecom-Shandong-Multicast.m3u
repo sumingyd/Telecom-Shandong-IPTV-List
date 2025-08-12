@@ -487,7 +487,7 @@ http://192.168.50.1:20231/rtp/239.21.2.98:5002
 http://192.168.50.1:20231/rtp/239.21.1.51:5002
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/嘉佳卡通.png" group-title="特色频道" tvg-language="" tvg-country="" ,嘉佳卡通
 http://192.168.50.1:20231/rtp/239.21.2.5:5002
-#EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/四海钓鱼.png" group-title="特色频道" tvg-language="" tvg-country="" ,四海钓鱼
+#EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" "增值-sihaidiaoyuHD" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/四海钓鱼.png" group-title="特色频道" tvg-language="" tvg-country="" ,四海钓鱼
 http://192.168.50.1:20231/rtp/239.21.2.99:5002
 #EXTINF:-1 tvg-id="" tvg-name="已停用" tvg-logo="" group-title="特色频道" tvg-language="" tvg-country="" ,已停用
 http://192.168.50.1:20231/rtp/239.21.2.26:5002
