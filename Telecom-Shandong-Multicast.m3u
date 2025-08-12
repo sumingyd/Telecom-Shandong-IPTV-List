@@ -71,7 +71,7 @@ http://192.168.50.1:20231/rtp/239.21.2.163:5002
 http://192.168.50.1:20231/rtp/239.21.2.164:5002
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视
 http://192.168.50.1:20231/rtp/239.21.1.88:5002
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视-4K
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视4K" "苏超25P" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,北京卫视-4K
 http://192.168.50.1:20231/rtp/239.21.2.172:5002
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/吉林/吉林卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,吉林卫视
 http://192.168.50.1:20231/rtp/239.21.2.49:5002
