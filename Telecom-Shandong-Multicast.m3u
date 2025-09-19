@@ -84,6 +84,8 @@ http://192.168.50.1:20231/rtp/239.21.1.165:5002
 http://192.168.50.1:20231/rtp/239.21.1.159:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东卫视3.png" group-title="卫视" tvg-language="" tvg-country="" ,山东卫视
 http://192.168.50.1:20231/rtp/239.21.1.87:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,山东卫视-4K
+http://192.168.50.1:20231/rtp/239.21.2.179:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视2.png" group-title="卫视" tvg-language="" tvg-country="" ,广东卫视
 http://192.168.50.1:20231/rtp/239.21.1.92:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4K.png" group-title="卫视" tvg-language="" tvg-country="" ,广东卫视-4K
