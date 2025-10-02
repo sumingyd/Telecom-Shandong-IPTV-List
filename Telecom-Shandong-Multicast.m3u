@@ -39,6 +39,8 @@ http://192.168.50.1:20231/rtp/239.21.2.4:5002
 http://192.168.50.1:20231/rtp/239.21.1.186:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4K 超高清" tvg-logo="" group-title="央视频道" resolution="3840x2160" ,CCTV-4K 超高清
 http://192.168.50.1:20231/rtp/239.21.2.152:5002
+#EXTINF:-1 tvg-id="" tvg-name="中央新影 中学生" tvg-logo="" group-title="央视频道" resolution="1920x1080" ,中央新影 中学生
+http://192.168.50.1:20231/rtp/239.21.2.176:5002
 #EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-logo="" group-title="CETV" resolution="1920x1080" ,CETV-1
 http://192.168.50.1:20231/rtp/239.21.2.7:5002
 #EXTINF:-1 tvg-id="" tvg-name="CETV-4" tvg-logo="" group-title="CETV" resolution="1920x1080" ,CETV-4
@@ -63,10 +65,18 @@ http://192.168.50.1:20231/rtp/239.21.1.111:5002
 http://192.168.50.1:20231/rtp/239.21.2.184:5002
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,云南卫视
 http://192.168.50.1:20231/rtp/239.21.2.86:5002
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,兵团卫视
+http://192.168.50.1:20231/rtp/239.21.2.188:5002
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,凤凰卫视
 http://192.168.50.1:20231/rtp/239.21.2.153:5002
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="" group-title="卫视" resolution="1920x1080" ,凤凰资讯
+http://192.168.50.1:20231/rtp/239.21.2.163:5002
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="" group-title="卫视" resolution="1920x1080" ,凤凰香港
+http://192.168.50.1:20231/rtp/239.21.2.164:5002
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,北京卫视
 http://192.168.50.1:20231/rtp/239.21.1.88:5002
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视-4K" tvg-logo="" group-title="卫视" resolution="3840x2160" ,北京卫视-4K
+http://192.168.50.1:20231/rtp/239.21.2.172:5002
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,吉林卫视
 http://192.168.50.1:20231/rtp/239.21.2.49:5002
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,四川卫视
@@ -75,6 +85,8 @@ http://192.168.50.1:20231/rtp/239.21.2.15:5002
 http://192.168.50.1:20231/rtp/239.21.2.185:5002
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,天津卫视
 http://192.168.50.1:20231/rtp/239.21.1.165:5002
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,宁夏卫视
+http://192.168.50.1:20231/rtp/239.21.2.189:5002
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,安徽卫视
 http://192.168.50.1:20231/rtp/239.21.1.159:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,山东卫视
@@ -83,6 +95,8 @@ http://192.168.50.1:20231/rtp/239.21.1.87:5002
 http://192.168.50.1:20231/rtp/239.21.2.179:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,广东卫视
 http://192.168.50.1:20231/rtp/239.21.1.92:5002
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视-4K" tvg-logo="" group-title="卫视" resolution="1920x1080" ,广东卫视-4K
+http://192.168.50.1:20231/rtp/239.21.2.157:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视-4K" tvg-logo="" group-title="卫视" resolution="3840x2160" ,广东卫视-4K
 http://192.168.50.1:20231/rtp/239.21.2.173:5002
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,广西卫视
@@ -91,6 +105,8 @@ http://192.168.50.1:20231/rtp/239.21.2.87:5002
 http://192.168.50.1:20231/rtp/239.21.2.187:5002
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,江苏卫视
 http://192.168.50.1:20231/rtp/239.21.1.89:5002
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视-4K" tvg-logo="" group-title="卫视" resolution="3840x2160" ,江苏卫视-4K
+http://192.168.50.1:20231/rtp/239.21.2.183:5002
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,江西卫视
 http://192.168.50.1:20231/rtp/239.21.1.167:5002
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,河北卫视
@@ -117,16 +133,28 @@ http://192.168.50.1:20231/rtp/239.21.1.158:5002
 http://192.168.50.1:20231/rtp/239.21.2.181:5002
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,甘肃卫视
 http://192.168.50.1:20231/rtp/239.21.2.22:5002
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,西藏卫视
+http://192.168.50.1:20231/rtp/239.21.2.186:5002
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,贵州卫视
 http://192.168.50.1:20231/rtp/239.21.1.166:5002
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,辽宁卫视
 http://192.168.50.1:20231/rtp/239.21.1.164:5002
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,重庆卫视
+http://192.168.50.1:20231/rtp/239.21.1.233:5002
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,青海卫视
 http://192.168.50.1:20231/rtp/239.21.2.51:5002
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,青海卫视
 http://192.168.50.1:20231/rtp/239.21.2.85:5002
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="卫视" resolution="1920x1080" ,黑龙江卫视
 http://192.168.50.1:20231/rtp/239.21.1.91:5002
+#EXTINF:-1 tvg-id="" tvg-name="NHK世界台" tvg-logo="" group-title="国际频道" resolution="1920x1080" ,NHK世界台
+http://192.168.50.1:20231/rtp/239.21.2.170:5002
+#EXTINF:-1 tvg-id="" tvg-name="新加坡新闻" tvg-logo="" group-title="国际频道" resolution="1920x1080" ,新加坡新闻
+http://192.168.50.1:20231/rtp/239.21.2.165:5002
+#EXTINF:-1 tvg-id="" tvg-name="法兰西" tvg-logo="" group-title="国际频道" resolution="1920x1080" ,法兰西
+http://192.168.50.1:20231/rtp/239.21.2.168:5002
+#EXTINF:-1 tvg-id="" tvg-name="澳门Macau" tvg-logo="" group-title="国际频道" resolution="1920x1080" ,澳门Macau
+http://192.168.50.1:20231/rtp/239.21.2.167:5002
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,CHC动作电影
 http://192.168.50.1:20231/rtp/239.21.2.128:5002
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,CHC家庭影院
@@ -135,6 +163,8 @@ http://192.168.50.1:20231/rtp/239.21.2.126:5002
 http://192.168.50.1:20231/rtp/239.21.2.127:5002
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,东方财经
 http://192.168.50.1:20231/rtp/239.21.2.108:5002
+#EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,中华特产
+http://192.168.50.1:20231/rtp/239.21.2.177:5002
 #EXTINF:-1 tvg-id="" tvg-name="中国交通" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,中国交通
 http://192.168.50.1:20231/rtp/239.21.1.115:5002
 #EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,乐游
@@ -143,6 +173,8 @@ http://192.168.50.1:20231/rtp/239.21.2.104:5002
 http://192.168.50.1:20231/rtp/239.21.2.92:5002
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,卡酷少儿
 http://192.168.50.1:20231/rtp/239.21.2.120:5002
+#EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,四海钓鱼
+http://192.168.50.1:20231/rtp/239.21.2.180:5002
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,快乐垂钓
 http://192.168.50.1:20231/rtp/239.21.2.97:5002
 #EXTINF:-1 tvg-id="" tvg-name="文物宝库" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,文物宝库
@@ -151,6 +183,8 @@ http://192.168.50.1:20231/rtp/239.21.2.109:5002
 http://192.168.50.1:20231/rtp/239.21.2.101:5002
 #EXTINF:-1 tvg-id="" tvg-name="武术世界" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,武术世界
 http://192.168.50.1:20231/rtp/239.21.2.96:5002
+#EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,求索纪录
+http://192.168.50.1:20231/rtp/239.21.2.159:5002
 #EXTINF:-1 tvg-id="" tvg-name="汽摩" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,汽摩
 http://192.168.50.1:20231/rtp/239.21.2.142:5002
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,法治天地
@@ -159,12 +193,16 @@ http://192.168.50.1:20231/rtp/239.21.2.105:5002
 http://192.168.50.1:20231/rtp/239.21.2.119:5002
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,游戏风云
 http://192.168.50.1:20231/rtp/239.21.2.107:5002
+#EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,生态环境
+http://192.168.50.1:20231/rtp/239.21.2.160:5002
 #EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,生活时尚
 http://192.168.50.1:20231/rtp/239.21.2.103:5002
 #EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,精彩影视
 http://192.168.50.1:20231/rtp/239.21.2.91:5002
 #EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,纪实科教
 http://192.168.50.1:20231/rtp/239.21.1.172:5002
+#EXTINF:-1 tvg-id="" tvg-name="综合测试" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,综合测试
+http://192.168.50.1:20231/rtp/239.21.1.203:5002
 #EXTINF:-1 tvg-id="" tvg-name="茶频道" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,茶频道
 http://192.168.50.1:20231/rtp/239.21.2.110:5002
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="" group-title="特色频道" resolution="1920x1080" ,都市剧场
@@ -181,6 +219,8 @@ http://192.168.50.1:20231/rtp/239.21.1.170:5002
 http://192.168.50.1:20231/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="" group-title="山东频道" resolution="1920x1080" ,山东农科
 http://192.168.50.1:20231/rtp/239.21.1.183:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="" group-title="山东频道" resolution="1920x1080" ,山东少儿
+http://192.168.50.1:20231/rtp/239.21.1.208:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东居家购物" tvg-logo="" group-title="山东频道" resolution="1920x1080" ,山东居家购物
 http://192.168.50.1:20231/rtp/239.21.1.112:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="" group-title="山东频道" resolution="1920x1080" ,山东教育卫视
@@ -221,8 +261,24 @@ http://192.168.50.1:20231/rtp/239.21.2.89:5002
 http://192.168.50.1:20231/rtp/239.21.1.78:5002
 #EXTINF:-1 tvg-id="" tvg-name="潍坊高新区" tvg-logo="" group-title="市级频道" resolution="1920x1080" ,潍坊高新区
 http://192.168.50.1:20231/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="" tvg-name="烟台影视" tvg-logo="" group-title="市级频道" resolution="1920x1080" ,烟台影视
+http://192.168.50.1:20231/rtp/239.21.1.204:5002
 #EXTINF:-1 tvg-id="" tvg-name="烟台新闻综合" tvg-logo="" group-title="市级频道" resolution="1920x1080" ,烟台新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.116:5002
+#EXTINF:-1 tvg-id="" tvg-name="烟台经济科技" tvg-logo="" group-title="市级频道" resolution="1920x1080" ,烟台经济科技
+http://192.168.50.1:20231/rtp/239.21.1.205:5002
+#EXTINF:-1 tvg-id="" tvg-name="聊城民生" tvg-logo="" group-title="市级频道" resolution="1920x1080" ,聊城民生
+http://192.168.50.1:20231/rtp/239.21.1.254:5002
+#EXTINF:-1 tvg-id="" tvg-name="聊城综合" tvg-logo="" group-title="市级频道" resolution="1920x1080" ,聊城综合
+http://192.168.50.1:20231/rtp/239.21.1.253:5002
+#EXTINF:-1 tvg-id="" tvg-name="无棣综合" tvg-logo="" group-title="滨州" resolution="1920x1080" ,无棣综合
+http://192.168.50.1:20231/rtp/239.21.1.214:5002
+#EXTINF:-1 tvg-id="" tvg-name="沾化综合" tvg-logo="" group-title="滨州" resolution="1920x1080" ,沾化综合
+http://192.168.50.1:20231/rtp/239.21.1.226:5002
+#EXTINF:-1 tvg-id="" tvg-name="邹平综合" tvg-logo="" group-title="滨州" resolution="1920x1080" ,邹平综合
+http://192.168.50.1:20231/rtp/239.21.1.238:5002
+#EXTINF:-1 tvg-id="" tvg-name="阳信综合" tvg-logo="" group-title="滨州" resolution="1920x1080" ,阳信综合
+http://192.168.50.1:20231/rtp/239.21.1.252:5002
 #EXTINF:-1 tvg-id="" tvg-name="临邑综合" tvg-logo="" group-title="德州" resolution="1920x1080" ,临邑综合
 http://192.168.50.1:20231/rtp/239.21.2.130:5002
 #EXTINF:-1 tvg-id="" tvg-name="夏津公共" tvg-logo="" group-title="德州" resolution="1920x1080" ,夏津公共
@@ -231,26 +287,50 @@ http://192.168.50.1:20231/rtp/239.21.1.102:5002
 http://192.168.50.1:20231/rtp/239.21.1.106:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁津综合" tvg-logo="" group-title="德州" resolution="1920x1080" ,宁津综合
 http://192.168.50.1:20231/rtp/239.21.2.50:5002
+#EXTINF:-1 tvg-id="" tvg-name="平原综合" tvg-logo="" group-title="德州" resolution="1920x1080" ,平原综合
+http://192.168.50.1:20231/rtp/239.21.1.243:5002
+#EXTINF:-1 tvg-id="" tvg-name="武城综合频道" tvg-logo="" group-title="德州" resolution="1920x1080" ,武城综合频道
+http://192.168.50.1:20231/rtp/239.21.1.239:5002
+#EXTINF:-1 tvg-id="" tvg-name="禹城综合" tvg-logo="" group-title="德州" resolution="1920x1080" ,禹城综合
+http://192.168.50.1:20231/rtp/239.21.1.241:5002
+#EXTINF:-1 tvg-id="" tvg-name="禹城综艺" tvg-logo="" group-title="德州" resolution="1920x1080" ,禹城综艺
+http://192.168.50.1:20231/rtp/239.21.1.242:5002
 #EXTINF:-1 tvg-id="" tvg-name="陵城综合" tvg-logo="" group-title="德州" resolution="1920x1080" ,陵城综合
 http://192.168.50.1:20231/rtp/239.21.2.24:5002
+#EXTINF:-1 tvg-id="" tvg-name="齐河综合" tvg-logo="" group-title="德州" resolution="1920x1080" ,齐河综合
+http://192.168.50.1:20231/rtp/239.21.1.230:5002
 #EXTINF:-1 tvg-id="" tvg-name="广饶综合" tvg-logo="" group-title="东营" resolution="1920x1080" ,广饶综合
 http://192.168.50.1:20231/rtp/239.21.1.193:5002
 #EXTINF:-1 tvg-id="" tvg-name="单县综合" tvg-logo="" group-title="菏泽" resolution="1920x1080" ,单县综合
 http://192.168.50.1:20231/rtp/239.21.2.21:5002
+#EXTINF:-1 tvg-id="" tvg-name="定陶综合" tvg-logo="" group-title="菏泽" resolution="1920x1080" ,定陶综合
+http://192.168.50.1:20231/rtp/239.21.1.244:5002
+#EXTINF:-1 tvg-id="" tvg-name="巨野新闻" tvg-logo="" group-title="菏泽" resolution="1920x1080" ,巨野新闻
+http://192.168.50.1:20231/rtp/239.21.1.215:5002
+#EXTINF:-1 tvg-id="" tvg-name="郓城综合" tvg-logo="" group-title="菏泽" resolution="1920x1080" ,郓城综合
+http://192.168.50.1:20231/rtp/239.21.1.251:5002
 #EXTINF:-1 tvg-id="" tvg-name="历城综合" tvg-logo="" group-title="济南" resolution="1920x1080" ,历城综合
 http://192.168.50.1:20231/rtp/239.21.2.132:5002
 #EXTINF:-1 tvg-id="" tvg-name="商河综合" tvg-logo="" group-title="济南" resolution="1920x1080" ,商河综合
 http://192.168.50.1:20231/rtp/239.21.2.53:5002
+#EXTINF:-1 tvg-id="" tvg-name="平阴综合" tvg-logo="" group-title="济南" resolution="1920x1080" ,平阴综合
+http://192.168.50.1:20231/rtp/239.21.1.221:5002
 #EXTINF:-1 tvg-id="" tvg-name="济阳综合" tvg-logo="" group-title="济南" resolution="1920x1080" ,济阳综合
 http://192.168.50.1:20231/rtp/239.21.1.187:5002
 #EXTINF:-1 tvg-id="" tvg-name="任城生活" tvg-logo="" group-title="济宁" resolution="1920x1080" ,任城生活
 http://192.168.50.1:20231/rtp/239.21.2.144:5002
 #EXTINF:-1 tvg-id="" tvg-name="任城综合" tvg-logo="" group-title="济宁" resolution="1920x1080" ,任城综合
 http://192.168.50.1:20231/rtp/239.21.2.143:5002
+#EXTINF:-1 tvg-id="" tvg-name="兖州新闻" tvg-logo="" group-title="济宁" resolution="1920x1080" ,兖州新闻
+http://192.168.50.1:20231/rtp/239.21.1.224:5002
 #EXTINF:-1 tvg-id="" tvg-name="嘉祥综合" tvg-logo="" group-title="济宁" resolution="1920x1080" ,嘉祥综合
 http://192.168.50.1:20231/rtp/239.21.2.84:5002
+#EXTINF:-1 tvg-id="" tvg-name="曲阜综合" tvg-logo="" group-title="济宁" resolution="1920x1080" ,曲阜综合
+http://192.168.50.1:20231/rtp/239.21.1.225:5002
 #EXTINF:-1 tvg-id="" tvg-name="梁山综合" tvg-logo="" group-title="济宁" resolution="1920x1080" ,梁山综合
 http://192.168.50.1:20231/rtp/239.21.2.12:5002
+#EXTINF:-1 tvg-id="" tvg-name="汶上综合" tvg-logo="" group-title="济宁" resolution="1920x1080" ,汶上综合
+http://192.168.50.1:20231/rtp/239.21.2.175:5002
 #EXTINF:-1 tvg-id="" tvg-name="邹城综合" tvg-logo="" group-title="济宁" resolution="1920x1080" ,邹城综合
 http://192.168.50.1:20231/rtp/239.21.1.185:5002
 #EXTINF:-1 tvg-id="" tvg-name="鱼台生活" tvg-logo="" group-title="济宁" resolution="1920x1080" ,鱼台生活
@@ -261,10 +341,16 @@ http://192.168.50.1:20231/rtp/239.21.2.134:5002
 http://192.168.50.1:20231/rtp/239.21.2.61:5002
 #EXTINF:-1 tvg-id="" tvg-name="临清综合" tvg-logo="" group-title="聊城" resolution="1920x1080" ,临清综合
 http://192.168.50.1:20231/rtp/239.21.2.123:5002
+#EXTINF:-1 tvg-id="" tvg-name="茌平综合" tvg-logo="" group-title="聊城" resolution="1920x1080" ,茌平综合
+http://192.168.50.1:20231/rtp/239.21.1.219:5002
+#EXTINF:-1 tvg-id="" tvg-name="莘县综合" tvg-logo="" group-title="聊城" resolution="1920x1080" ,莘县综合
+http://192.168.50.1:20231/rtp/239.21.1.211:5002
 #EXTINF:-1 tvg-id="" tvg-name="临沭综合" tvg-logo="" group-title="临沂" resolution="1920x1080" ,临沭综合
 http://192.168.50.1:20231/rtp/239.21.2.154:5002
 #EXTINF:-1 tvg-id="" tvg-name="兰陵公共" tvg-logo="" group-title="临沂" resolution="1920x1080" ,兰陵公共
 http://192.168.50.1:20231/rtp/239.21.2.63:5002
+#EXTINF:-1 tvg-id="" tvg-name="兰陵综合" tvg-logo="" group-title="临沂" resolution="1920x1080" ,兰陵综合
+http://192.168.50.1:20231/rtp/239.21.1.237:5002
 #EXTINF:-1 tvg-id="" tvg-name="沂水生活" tvg-logo="" group-title="临沂" resolution="1920x1080" ,沂水生活
 http://192.168.50.1:20231/rtp/239.21.2.80:5002
 #EXTINF:-1 tvg-id="" tvg-name="沂水综合" tvg-logo="" group-title="临沂" resolution="1920x1080" ,沂水综合
@@ -274,27 +360,57 @@ http://192.168.50.1:20231/rtp/239.21.2.136:5002
 #EXTINF:-1 tvg-id="" tvg-name="蒙阴综合" tvg-logo="" group-title="临沂" resolution="1920x1080" ,蒙阴综合
 http://192.168.50.1:20231/rtp/239.21.2.23:5002
 #EXTINF:-1 tvg-id="" tvg-name="崂山综合" tvg-logo="" group-title="青岛" resolution="1920x1080" ,崂山综合
+http://192.168.50.1:20231/rtp/239.21.1.223:5002
+#EXTINF:-1 tvg-id="" tvg-name="崂山综合" tvg-logo="" group-title="青岛" resolution="1920x1080" ,崂山综合
 http://192.168.50.1:20231/rtp/239.21.2.122:5002
+#EXTINF:-1 tvg-id="" tvg-name="平度综合" tvg-logo="" group-title="青岛" resolution="1920x1080" ,平度综合
+http://192.168.50.1:20231/rtp/239.21.1.228:5002
 #EXTINF:-1 tvg-id="" tvg-name="胶州综合" tvg-logo="" group-title="青岛" resolution="1920x1080" ,胶州综合
 http://192.168.50.1:20231/rtp/239.21.2.60:5002
+#EXTINF:-1 tvg-id="" tvg-name="莱西综合" tvg-logo="" group-title="青岛" resolution="1920x1080" ,莱西综合
+http://192.168.50.1:20231/rtp/239.21.1.247:5002
 #EXTINF:-1 tvg-id="" tvg-name="黄岛生活" tvg-logo="" group-title="青岛" resolution="1920x1080" ,黄岛生活
 http://192.168.50.1:20231/rtp/239.21.2.58:5002
 #EXTINF:-1 tvg-id="" tvg-name="黄岛综合" tvg-logo="" group-title="青岛" resolution="1920x1080" ,黄岛综合
 http://192.168.50.1:20231/rtp/239.21.2.57:5002
+#EXTINF:-1 tvg-id="" tvg-name="岚山综合" tvg-logo="" group-title="日照" resolution="1920x1080" ,岚山综合
+http://192.168.50.1:20231/rtp/239.21.1.209:5002
+#EXTINF:-1 tvg-id="" tvg-name="莒县综合" tvg-logo="" group-title="日照" resolution="1920x1080" ,莒县综合
+http://192.168.50.1:20231/rtp/239.21.1.236:5002
+#EXTINF:-1 tvg-id="" tvg-name="东平综合" tvg-logo="" group-title="泰安" resolution="1920x1080" ,东平综合
+http://192.168.50.1:20231/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁阳综合" tvg-logo="" group-title="泰安" resolution="1920x1080" ,宁阳综合
 http://192.168.50.1:20231/rtp/239.21.1.143:5002
 #EXTINF:-1 tvg-id="" tvg-name="岱岳综合" tvg-logo="" group-title="泰安" resolution="1920x1080" ,岱岳综合
 http://192.168.50.1:20231/rtp/239.21.2.139:5002
+#EXTINF:-1 tvg-id="" tvg-name="新泰乡村" tvg-logo="" group-title="泰安" resolution="1920x1080" ,新泰乡村
+http://192.168.50.1:20231/rtp/239.21.1.248:5002
+#EXTINF:-1 tvg-id="" tvg-name="新泰综合" tvg-logo="" group-title="泰安" resolution="1920x1080" ,新泰综合
+http://192.168.50.1:20231/rtp/239.21.1.210:5002
 #EXTINF:-1 tvg-id="" tvg-name="泰山综合" tvg-logo="" group-title="泰安" resolution="1920x1080" ,泰山综合
 http://192.168.50.1:20231/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="" tvg-name="肥城综合" tvg-logo="" group-title="泰安" resolution="1920x1080" ,肥城综合
+http://192.168.50.1:20231/rtp/239.21.2.161:5002
+#EXTINF:-1 tvg-id="" tvg-name="乳山综合" tvg-logo="" group-title="威海" resolution="1920x1080" ,乳山综合
+http://192.168.50.1:20231/rtp/239.21.1.220:5002
 #EXTINF:-1 tvg-id="" tvg-name="文登综合" tvg-logo="" group-title="威海" resolution="1920x1080" ,文登综合
 http://192.168.50.1:20231/rtp/239.21.1.174:5002
+#EXTINF:-1 tvg-id="" tvg-name="荣成综合" tvg-logo="" group-title="威海" resolution="1920x1080" ,荣成综合
+http://192.168.50.1:20231/rtp/239.21.1.227:5002
 #EXTINF:-1 tvg-id="" tvg-name="临朐综合" tvg-logo="" group-title="潍坊" resolution="1920x1080" ,临朐综合
 http://192.168.50.1:20231/rtp/239.21.2.62:5002
 #EXTINF:-1 tvg-id="" tvg-name="安丘综合" tvg-logo="" group-title="潍坊" resolution="1920x1080" ,安丘综合
 http://192.168.50.1:20231/rtp/239.21.2.13:5002
+#EXTINF:-1 tvg-id="" tvg-name="寿光蔬菜" tvg-logo="" group-title="潍坊" resolution="1920x1080" ,寿光蔬菜
+http://192.168.50.1:20231/rtp/239.21.1.218:5002
+#EXTINF:-1 tvg-id="" tvg-name="昌乐综合" tvg-logo="" group-title="潍坊" resolution="1920x1080" ,昌乐综合
+http://192.168.50.1:20231/rtp/239.21.1.245:5002
 #EXTINF:-1 tvg-id="" tvg-name="昌邑综合" tvg-logo="" group-title="潍坊" resolution="1920x1080" ,昌邑综合
 http://192.168.50.1:20231/rtp/239.21.2.27:5002
+#EXTINF:-1 tvg-id="" tvg-name="青州文化旅游" tvg-logo="" group-title="潍坊" resolution="1920x1080" ,青州文化旅游
+http://192.168.50.1:20231/rtp/239.21.1.231:5002
+#EXTINF:-1 tvg-id="" tvg-name="青州综合" tvg-logo="" group-title="潍坊" resolution="1920x1080" ,青州综合
+http://192.168.50.1:20231/rtp/239.21.1.232:5002
 #EXTINF:-1 tvg-id="" tvg-name="高密综合" tvg-logo="" group-title="潍坊" resolution="1920x1080" ,高密综合
 http://192.168.50.1:20231/rtp/239.21.2.59:5002
 #EXTINF:-1 tvg-id="" tvg-name="招远综合" tvg-logo="" group-title="烟台" resolution="1920x1080" ,招远综合
@@ -317,6 +433,10 @@ http://192.168.50.1:20231/rtp/239.21.2.52:5002
 http://192.168.50.1:20231/rtp/239.21.2.146:5002
 #EXTINF:-1 tvg-id="" tvg-name="淄川新闻" tvg-logo="" group-title="淄博" resolution="1920x1080" ,淄川新闻
 http://192.168.50.1:20231/rtp/239.21.1.160:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东交通广播" tvg-logo="" group-title="广播" resolution="1920x1080" ,山东交通广播
+http://192.168.50.1:20231/rtp/239.21.2.151:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东经济广播" tvg-logo="" group-title="广播" resolution="1920x1080" ,山东经济广播
+http://192.168.50.1:20231/rtp/239.21.2.148:5002
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1 综合" tvg-logo="" group-title="央视频道" resolution="720x576" ,CCTV-1 综合
 http://192.168.50.1:20231/rtp/239.21.1.1:5002
 #EXTINF:-1 tvg-id="" tvg-name="CETV-2" tvg-logo="" group-title="CETV" resolution="720x576" ,CETV-2
@@ -325,20 +445,18 @@ http://192.168.50.1:20231/rtp/239.21.2.8:5002
 http://192.168.50.1:20231/rtp/239.21.1.10:5002
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,三沙卫视
 http://192.168.50.1:20231/rtp/239.21.2.9:5002
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,兵团卫视
+http://192.168.50.1:20231/rtp/239.21.1.234:5002
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,内蒙古卫视
 http://192.168.50.1:20231/rtp/239.21.1.41:5002
-#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="" group-title="卫视" resolution="" ,凤凰卫视
-http://192.168.50.1:20231/rtp/239.21.2.163:5002
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="" group-title="卫视" resolution="" ,凤凰香港
-http://192.168.50.1:20231/rtp/239.21.2.164:5002
+#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,农林卫视
+http://192.168.50.1:20231/rtp/239.21.1.235:5002
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,厦门卫视
 http://192.168.50.1:20231/rtp/239.21.2.6:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,宁夏卫视
 http://192.168.50.1:20231/rtp/239.21.1.44:5002
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,山西卫视
 http://192.168.50.1:20231/rtp/239.21.1.33:5002
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="卫视" resolution="" ,广东卫视
-http://192.168.50.1:20231/rtp/239.21.2.157:5002
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,延边卫视
 http://192.168.50.1:20231/rtp/239.21.2.137:5002
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,新疆卫视
@@ -347,10 +465,8 @@ http://192.168.50.1:20231/rtp/239.21.1.45:5002
 http://192.168.50.1:20231/rtp/239.21.1.46:5002
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="卫视" resolution="720x576" ,陕西卫视
 http://192.168.50.1:20231/rtp/239.21.1.30:5002
-#EXTINF:-1 tvg-id="" tvg-name="欧洲新闻" tvg-logo="" group-title="国际频道" resolution="" ,欧洲新闻
+#EXTINF:-1 tvg-id="" tvg-name="欧洲新闻" tvg-logo="" group-title="国际频道" resolution="720x576" ,欧洲新闻
 http://192.168.50.1:20231/rtp/239.21.2.169:5002
-#EXTINF:-1 tvg-id="" tvg-name="法兰西" tvg-logo="" group-title="国际频道" resolution="" ,法兰西
-http://192.168.50.1:20231/rtp/239.21.2.168:5002
 #EXTINF:-1 tvg-id="" tvg-name="书画" tvg-logo="" group-title="特色频道" resolution="720x576" ,书画
 http://192.168.50.1:20231/rtp/239.21.2.111:5002
 #EXTINF:-1 tvg-id="" tvg-name="优优宝贝" tvg-logo="" group-title="特色频道" resolution="720x576" ,优优宝贝
@@ -375,7 +491,9 @@ http://192.168.50.1:20231/rtp/239.21.1.127:5002
 http://192.168.50.1:20231/rtp/239.21.1.82:5002
 #EXTINF:-1 tvg-id="" tvg-name="东营新闻综合" tvg-logo="" group-title="市级频道" resolution="720x576" ,东营新闻综合
 http://192.168.50.1:20231/rtp/239.21.1.81:5002
-#EXTINF:-1 tvg-id="" tvg-name="威海都市生活" tvg-logo="" group-title="市级频道" resolution="" ,威海都市生活
+#EXTINF:-1 tvg-id="" tvg-name="威海新闻综合" tvg-logo="" group-title="市级频道" resolution="720x576" ,威海新闻综合
+http://192.168.50.1:20231/rtp/239.21.2.155:5002
+#EXTINF:-1 tvg-id="" tvg-name="威海都市生活" tvg-logo="" group-title="市级频道" resolution="720x576" ,威海都市生活
 http://192.168.50.1:20231/rtp/239.21.2.156:5002
 #EXTINF:-1 tvg-id="" tvg-name="日照公共" tvg-logo="" group-title="市级频道" resolution="720x576" ,日照公共
 http://192.168.50.1:20231/rtp/239.21.2.81:5002
@@ -427,16 +545,26 @@ http://192.168.50.1:20231/rtp/239.21.1.72:5002
 http://192.168.50.1:20231/rtp/239.21.1.74:5002
 #EXTINF:-1 tvg-id="" tvg-name="惠民综合" tvg-logo="" group-title="滨州" resolution="720x576" ,惠民综合
 http://192.168.50.1:20231/rtp/239.21.1.181:5002
-#EXTINF:-1 tvg-id="" tvg-name="鄄城综合" tvg-logo="" group-title="菏泽" resolution="" ,鄄城综合
+#EXTINF:-1 tvg-id="" tvg-name="东明综合" tvg-logo="" group-title="菏泽" resolution="720x576" ,东明综合
+http://192.168.50.1:20231/rtp/239.21.1.246:5002
+#EXTINF:-1 tvg-id="" tvg-name="鄄城综合" tvg-logo="" group-title="菏泽" resolution="720x576" ,鄄城综合
 http://192.168.50.1:20231/rtp/239.21.2.141:5002
 #EXTINF:-1 tvg-id="" tvg-name="长清综合" tvg-logo="" group-title="济南" resolution="720x576" ,长清综合
 http://192.168.50.1:20231/rtp/239.21.1.107:5002
+#EXTINF:-1 tvg-id="" tvg-name="冠县综合" tvg-logo="" group-title="聊城" resolution="720x576" ,冠县综合
+http://192.168.50.1:20231/rtp/239.21.1.250:5002
+#EXTINF:-1 tvg-id="" tvg-name="冠县综合" tvg-logo="" group-title="聊城" resolution="720x576" ,冠县综合
+http://192.168.50.1:20231/rtp/239.21.2.149:5002
 #EXTINF:-1 tvg-id="" tvg-name="莒南综合" tvg-logo="" group-title="临沂" resolution="720x576" ,莒南综合
 http://192.168.50.1:20231/rtp/239.21.2.66:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁阳生活" tvg-logo="" group-title="泰安" resolution="720x576" ,宁阳生活
 http://192.168.50.1:20231/rtp/239.21.1.144:5002
 #EXTINF:-1 tvg-id="" tvg-name="寿光综合" tvg-logo="" group-title="潍坊" resolution="720x576" ,寿光综合
 http://192.168.50.1:20231/rtp/239.21.1.180:5002
+#EXTINF:-1 tvg-id="" tvg-name="诸城综合" tvg-logo="" group-title="潍坊" resolution="720x576" ,诸城综合
+http://192.168.50.1:20231/rtp/239.21.1.217:5002
+#EXTINF:-1 tvg-id="" tvg-name="栖霞综合" tvg-logo="" group-title="烟台" resolution="720x576" ,栖霞综合
+http://192.168.50.1:20231/rtp/239.21.1.229:5002
 #EXTINF:-1 tvg-id="" tvg-name="周村新闻" tvg-logo="" group-title="淄博" resolution="720x576" ,周村新闻
 http://192.168.50.1:20231/rtp/239.21.2.150:5002
 #EXTINF:-1 tvg-id="" tvg-name="张店综合" tvg-logo="" group-title="淄博" resolution="720x576" ,张店综合
@@ -447,13 +575,9 @@ http://192.168.50.1:20231/rtp/239.21.1.105:5002
 http://192.168.50.1:20231/rtp/239.21.1.114:5002
 #EXTINF:-1 tvg-id="" tvg-name="高青综合" tvg-logo="" group-title="淄博" resolution="720x576" ,高青综合
 http://192.168.50.1:20231/rtp/239.21.2.140:5002
-#EXTINF:-1 tvg-id="" tvg-name="山东交通广播" tvg-logo="" group-title="广播" resolution="" ,山东交通广播
-http://192.168.50.1:20231/rtp/239.21.2.151:5002
-#EXTINF:-1 tvg-id="" tvg-name="山东经济广播" tvg-logo="" group-title="广播" resolution="" ,山东经济广播
-http://192.168.50.1:20231/rtp/239.21.2.148:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东综合广播" tvg-logo="" group-title="广播" resolution="" ,山东综合广播
 http://192.168.50.1:20231/rtp/239.21.2.36:5002
 
 # Generated by IPTV Scanner Editor Pro
-# Saved at: 2025-09-28 21:23:37
+# Saved at: 2025-10-03 03:18:52
 # GitHub: https://github.com/your-repo/IPTV-Scanner-Editor-Pro
