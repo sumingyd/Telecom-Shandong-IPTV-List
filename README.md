@@ -66,27 +66,33 @@
 
 ## 🔧 技术说明
 
-### M3U播放列表结构
+### M3U播放列表IPTV属性标签
 
-播放列表遵循标准M3U格式，包含以下属性：
-
-| 属性 | 说明 |
-|------|------|
-| `tvg-id` | 频道唯一标识符 |
-| `tvg-name` | 频道名称 |
-| `group-title` | 频道分组 |
-| `tvg-chno` | 频道编号 |
-| `tvg-logo` | 频道台标URL |
-| `tvg-country` | 国家代码 |
-| `tvg-language` | 语言代码 |
-| `audio-track` | 音轨代码 (ISO 639-1) |
+| 标签名称 | 含义说明 | 示例值 |
+|---------|----------|--------|
+| **`tvg-id`** | 频道在EPG数据源中的唯一标识符，用于匹配节目指南 | `tvg-id="CCTV1.cn"` |
+| **`tvg-name`** | 频道名称，当`tvg-id`不可用时作为备用匹配项 | `tvg-name="中央电视台综合频道"` |
+| **`tvg-logo`** | 频道台标的URL地址或本地文件路径 | `tvg-logo="https://example.com/logo/cctv1.png"` |
+| **`tvg-chno`** | 频道号码，用于在播放器中自定义频道排序 | `tvg-chno="1"` |
+| **`group-title`** | 频道分组名称，多个分组用分号分隔 | `group-title="中央台;高清"` |
+| **`tvg-language`** | 频道的主要语言 | `tvg-language="Chinese"` |
+| **`tvg-country`** | 频道所属的国家或地区 | `tvg-country="China"` |
+| **`tvg-shift`** | EPG时间的时区偏移量（小时），用于时间校正 | `tvg-shift="-1"` |
+| **`tvg-timezone`** | 为特定频道指定时区，覆盖全局设置 | `tvg-timezone="Asia/Shanghai"` |
+| **`catchup`** | 启用回看功能 | `catchup="default"` |
+| **`catchup-days`** | 回看功能可获取过去多少天的节目 | `catchup-days="7"` |
+| **`catchup-source`** | 回看流的URL模板，包含时间戳占位符 | `catchup-source="https://example.com/playlist?start={utc}"` |
+| **`timeshift`** | 直播流的时移缓冲时间（秒） | `timeshift="10800"` |
+| **`url-tvg`** | 指定EPG源（XMLTV格式）的URL | `url-tvg="https://example.com/epg.xml"` |
+| **`aspect-ratio`** | 建议播放器使用的视频宽高比 | `aspect-ratio="16:9"` |
+| **`geo-auth`** | 指定该频道或流是否有地域限制 | `geo-auth="yes"` |
 
 ### 示例格式
 
 ```m3u
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1综合" group-title="央视" tvg-logo="https://example.com/cctv1.png",CCTV-1综合
-http://example.com/stream/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-logo="https://example.com/cctv1.png" tvg-chno="1" group-title="新闻;综合" tvg-language="zh" tvg-country="CN" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="http://example.com/{utc}",CCTV-1 综合
+http://example.com/stream/live/cctv1
 ```
 
 ## 🛠️ 工具推荐
