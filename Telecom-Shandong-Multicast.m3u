@@ -67,10 +67,6 @@ http://192.168.50.1:20231/rtp/239.21.2.184:5002
 http://192.168.50.1:20231/rtp/239.21.2.86:5002
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新疆/兵团卫视2.png" group-title="卫视" resolution="1920x1080" ,兵团卫视
 http://192.168.50.1:20231/rtp/239.21.2.188:5002
-#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰卫视.png" group-title="卫视" resolution="1920x1080" ,凤凰卫视
-http://192.168.50.1:20231/rtp/239.21.2.153:5002
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰香港.png" group-title="卫视" resolution="1920x1080" ,凤凰香港
-http://192.168.50.1:20231/rtp/239.21.2.164:5002
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视.png" group-title="卫视" resolution="1920x1080" ,北京卫视
 http://192.168.50.1:20231/rtp/239.21.1.88:5002
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="卫视" resolution="3840x2160" ,北京卫视-4K
@@ -90,11 +86,11 @@ http://192.168.50.1:20231/rtp/239.21.1.159:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东卫视3.png" group-title="卫视" resolution="1920x1080" ,山东卫视
 http://192.168.50.1:20231/rtp/239.21.1.87:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东卫视4K.png" group-title="卫视" resolution="3840x2160" ,山东卫视-4K
+http://192.168.50.1:20231/rtp/239.21.2.157:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东卫视4K.png" group-title="卫视" resolution="3840x2160" ,山东卫视-4K
 http://192.168.50.1:20231/rtp/239.21.2.179:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视2.png" group-title="卫视" resolution="1920x1080" ,广东卫视
 http://192.168.50.1:20231/rtp/239.21.1.92:5002
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4K.png" group-title="卫视" resolution="1920x1080" ,广东卫视-4K
-http://192.168.50.1:20231/rtp/239.21.2.157:5002
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4K.png" group-title="卫视" resolution="3840x2160" ,广东卫视-4K
 http://192.168.50.1:20231/rtp/239.21.2.173:5002
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广西/广西卫视2.png" group-title="卫视" resolution="1920x1080" ,广西卫视
@@ -121,6 +117,8 @@ http://192.168.50.1:20231/rtp/239.21.2.14:5002
 http://192.168.50.1:20231/rtp/239.21.1.93:5002
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视4K.png" group-title="卫视" resolution="3840x2160" ,深圳卫视-4K
 http://192.168.50.1:20231/rtp/239.21.2.158:5002
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视4K.png" group-title="卫视" resolution="3840x2160" ,深圳卫视-4K
+http://192.168.50.1:20231/rtp/239.21.2.174:5002
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖北/湖北卫视2.png" group-title="卫视" resolution="1920x1080" ,湖北卫视
 http://192.168.50.1:20231/rtp/239.21.1.163:5002
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/湖南卫视1.png" group-title="卫视" resolution="1920x1080" ,湖南卫视
@@ -143,12 +141,6 @@ http://192.168.50.1:20231/rtp/239.21.2.51:5002
 http://192.168.50.1:20231/rtp/239.21.2.85:5002
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/黑龙江/黑龙江卫视1.png" group-title="卫视" resolution="1920x1080" ,黑龙江卫视
 http://192.168.50.1:20231/rtp/239.21.1.91:5002
-#EXTINF:-1 tvg-id="" tvg-name="NHK世界台" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/日本/NHK世界台.png" group-title="国际频道" resolution="1920x1080" ,NHK世界台
-http://192.168.50.1:20231/rtp/239.21.2.170:5002
-#EXTINF:-1 tvg-id="" tvg-name="新加坡新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新加坡/新加坡新闻.png" group-title="国际频道" resolution="1920x1080" ,新加坡新闻
-http://192.168.50.1:20231/rtp/239.21.2.165:5002
-#EXTINF:-1 tvg-id="" tvg-name="法兰西" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/法兰西/法兰西.png" group-title="国际频道" resolution="1920x1080" ,法兰西
-http://192.168.50.1:20231/rtp/239.21.2.168:5002
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC动作电影.png" group-title="特色频道" resolution="1920x1080" ,CHC动作电影
 http://192.168.50.1:20231/rtp/239.21.2.128:5002
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC家庭电影.png" group-title="特色频道" resolution="1920x1080" ,CHC家庭影院
@@ -187,6 +179,10 @@ http://192.168.50.1:20231/rtp/239.21.2.105:5002
 http://192.168.50.1:20231/rtp/239.21.2.119:5002
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/游戏风云.png" group-title="特色频道" resolution="1920x1080" ,游戏风云
 http://192.168.50.1:20231/rtp/239.21.2.107:5002
+#EXTINF:-1 tvg-id="" tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/环球旅游.png" group-title="特色频道" resolution="1920x1080" ,环球旅游
+http://192.168.50.1:20231/rtp/239.21.2.115:5002
+#EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/生态环境.png" group-title="特色频道" resolution="1920x1080" ,生态环境
+http://192.168.50.1:20231/rtp/239.21.2.160:5002
 #EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/生活时尚.png" group-title="特色频道" resolution="1920x1080" ,生活时尚
 http://192.168.50.1:20231/rtp/239.21.2.103:5002
 #EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/华数/精彩影视.png" group-title="特色频道" resolution="1920x1080" ,精彩影视
@@ -199,7 +195,7 @@ http://192.168.50.1:20231/rtp/239.21.1.203:5002
 http://192.168.50.1:20231/rtp/239.21.2.110:5002
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/都市剧场.png" group-title="特色频道" resolution="1920x1080" ,都市剧场
 http://192.168.50.1:20231/rtp/239.21.2.90:5002
-#EXTINF:-1 tvg-id="" tvg-name="重温经典影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/央视/重温经典影视.png" group-title="特色频道" resolution="1920x1080" ,重温经典影视
+#EXTINF:-1 tvg-id="" tvg-name="重温经典影视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/重温经典影视.png" group-title="特色频道" resolution="1920x1080" ,重温经典影视
 http://192.168.50.1:20231/rtp/239.21.2.77:5002
 #EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/金色学堂.png" group-title="特色频道" resolution="1920x1080" ,金色学堂
 http://192.168.50.1:20231/rtp/239.21.2.102:5002
@@ -349,6 +345,8 @@ http://192.168.50.1:20231/rtp/239.21.2.80:5002
 http://192.168.50.1:20231/rtp/239.21.2.79:5002
 #EXTINF:-1 tvg-id="" tvg-name="河东综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂河东.png" group-title="临沂" resolution="1920x1080" ,河东综合
 http://192.168.50.1:20231/rtp/239.21.2.136:5002
+#EXTINF:-1 tvg-id="" tvg-name="莒南综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂莒南.png" group-title="临沂" resolution="1920x1080" ,莒南综合
+http://192.168.50.1:20231/rtp/239.21.2.66:5002
 #EXTINF:-1 tvg-id="" tvg-name="蒙阴综合" tvg-logo="" group-title="临沂" resolution="1920x1080" ,蒙阴综合
 http://192.168.50.1:20231/rtp/239.21.2.23:5002
 #EXTINF:-1 tvg-id="" tvg-name="崂山综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛崂山.png" group-title="青岛" resolution="1920x1080" ,崂山综合
@@ -443,8 +441,6 @@ http://192.168.50.1:20231/rtp/239.21.1.234:5002
 http://192.168.50.1:20231/rtp/239.21.1.41:5002
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/陕西/农林卫视2.png" group-title="卫视" resolution="720x576" ,农林卫视
 http://192.168.50.1:20231/rtp/239.21.1.235:5002
-#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/香港/凤凰卫视.png" group-title="卫视" resolution="" ,凤凰卫视
-http://192.168.50.1:20231/rtp/239.21.2.163:5002
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/福建/厦门卫视3.png" group-title="卫视" resolution="720x576" ,厦门卫视
 http://192.168.50.1:20231/rtp/239.21.2.6:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/宁夏/宁夏卫视2.png" group-title="卫视" resolution="720x576" ,宁夏卫视
@@ -455,36 +451,24 @@ http://192.168.50.1:20231/rtp/239.21.1.33:5002
 http://192.168.50.1:20231/rtp/239.21.2.137:5002
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/新疆/新疆卫视2.png" group-title="卫视" resolution="720x576" ,新疆卫视
 http://192.168.50.1:20231/rtp/239.21.1.45:5002
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视-4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/深圳卫视4K.png" group-title="卫视" resolution="0x0" ,深圳卫视-4K
-http://192.168.50.1:20231/rtp/239.21.2.174:5002
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/西藏/西藏卫视2.png" group-title="卫视" resolution="720x576" ,西藏卫视
 http://192.168.50.1:20231/rtp/239.21.1.46:5002
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/陕西/陕西卫视3.png" group-title="卫视" resolution="720x576" ,陕西卫视
 http://192.168.50.1:20231/rtp/239.21.1.30:5002
-#EXTINF:-1 tvg-id="" tvg-name="欧洲新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/德国/DW德国之声.png" group-title="国际频道" resolution="" ,欧洲新闻
-http://192.168.50.1:20231/rtp/239.21.2.169:5002
-#EXTINF:-1 tvg-id="" tvg-name="澳门Macau" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/澳门/澳门电视台.png" group-title="国际频道" resolution="" ,澳门Macau
-http://192.168.50.1:20231/rtp/239.21.2.167:5002
 #EXTINF:-1 tvg-id="" tvg-name="书画" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/书画.png" group-title="特色频道" resolution="720x576" ,书画
 http://192.168.50.1:20231/rtp/239.21.2.111:5002
 #EXTINF:-1 tvg-id="" tvg-name="优优宝贝" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/优优宝贝2.png" group-title="特色频道" resolution="720x576" ,优优宝贝
 http://192.168.50.1:20231/rtp/239.21.2.94:5002
-#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江苏/优漫卡通2.png" group-title="特色频道" resolution="720x576" ,优漫卡通
-http://192.168.50.1:20231/rtp/239.21.1.50:5002
+#EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC影迷电影.png" group-title="特色频道" resolution="None" ,CHC影迷电影
+http://192.168.50.1:20231/rtp/239.21.2.127:5002
 #EXTINF:-1 tvg-id="" tvg-name="先锋乒羽" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/先锋乒羽.png" group-title="特色频道" resolution="720x576" ,先锋乒羽
 http://192.168.50.1:20231/rtp/239.21.2.98:5002
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/嘉佳卡通.png" group-title="特色频道" resolution="720x576" ,嘉佳卡通
 http://192.168.50.1:20231/rtp/239.21.2.5:5002
-#EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/四海钓鱼.png" group-title="特色频道" resolution="720x576" ,四海钓鱼
-http://192.168.50.1:20231/rtp/239.21.2.99:5002
 #EXTINF:-1 tvg-id="" tvg-name="已停用" tvg-logo="" group-title="特色频道" resolution="720x576" ,已停用
 http://192.168.50.1:20231/rtp/239.21.2.26:5002
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/辽宁/新动漫2.png" group-title="特色频道" resolution="720x576" ,新动漫
 http://192.168.50.1:20231/rtp/239.21.2.93:5002
-#EXTINF:-1 tvg-id="" tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/环球旅游.png" group-title="特色频道" resolution="720x576" ,环球旅游
-http://192.168.50.1:20231/rtp/239.21.2.115:5002
-#EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/生态环境.png" group-title="特色频道" resolution="" ,生态环境
-http://192.168.50.1:20231/rtp/239.21.2.160:5002
 #EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/财富天下.png" group-title="特色频道" resolution="720x576" ,财富天下
 http://192.168.50.1:20231/rtp/239.21.1.127:5002
 #EXTINF:-1 tvg-id="" tvg-name="东营公共" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/东营.png" group-title="市级频道" resolution="720x576" ,东营公共
@@ -547,7 +531,7 @@ http://192.168.50.1:20231/rtp/239.21.1.74:5002
 http://192.168.50.1:20231/rtp/239.21.1.181:5002
 #EXTINF:-1 tvg-id="" tvg-name="东明综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽东明.png" group-title="菏泽" resolution="720x576" ,东明综合
 http://192.168.50.1:20231/rtp/239.21.1.246:5002
-#EXTINF:-1 tvg-id="" tvg-name="鄄城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽鄄城.png" group-title="菏泽" resolution="" ,鄄城综合
+#EXTINF:-1 tvg-id="" tvg-name="鄄城综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/菏泽鄄城.png" group-title="菏泽" resolution="720x576" ,鄄城综合
 http://192.168.50.1:20231/rtp/239.21.2.141:5002
 #EXTINF:-1 tvg-id="" tvg-name="长清综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济南长清.png" group-title="济南" resolution="720x576" ,长清综合
 http://192.168.50.1:20231/rtp/239.21.1.107:5002
@@ -555,8 +539,6 @@ http://192.168.50.1:20231/rtp/239.21.1.107:5002
 http://192.168.50.1:20231/rtp/239.21.1.250:5002
 #EXTINF:-1 tvg-id="" tvg-name="冠县综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城冠县.png" group-title="聊城" resolution="720x576" ,冠县综合
 http://192.168.50.1:20231/rtp/239.21.2.149:5002
-#EXTINF:-1 tvg-id="" tvg-name="莒南综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂莒南.png" group-title="临沂" resolution="720x576" ,莒南综合
-http://192.168.50.1:20231/rtp/239.21.2.66:5002
 #EXTINF:-1 tvg-id="" tvg-name="宁阳生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳.png" group-title="泰安" resolution="720x576" ,宁阳生活
 http://192.168.50.1:20231/rtp/239.21.1.144:5002
 #EXTINF:-1 tvg-id="" tvg-name="寿光综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊寿光.png" group-title="潍坊" resolution="720x576" ,寿光综合
@@ -579,5 +561,5 @@ http://192.168.50.1:20231/rtp/239.21.2.140:5002
 http://192.168.50.1:20231/rtp/239.21.2.36:5002
 
 # Generated by IPTV Scanner Editor Pro
-# Saved at: 2025-10-06 18:37:02
+# Saved at: 2025-12-06 22:30:49
 # GitHub: https://github.com/your-repo/IPTV-Scanner-Editor-Pro
