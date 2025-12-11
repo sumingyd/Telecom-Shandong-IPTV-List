@@ -114,16 +114,6 @@ http://example.com/stream/live/cctv1
 - ✅ 为部分频道增加高清版本
 - ✅ 优化播放列表结构
 
-## 🤝 贡献指南
-
-欢迎提交Issue和Pull Request来帮助改进这个项目：
-
-1. Fork 本仓库
-2. 创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个Pull Request
-
 ## 📞 交流群组
 
 - **QQ群**: 757694351
