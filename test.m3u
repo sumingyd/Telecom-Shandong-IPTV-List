@@ -372,7 +372,7 @@ http://192.168.50.1:20231/rtp/239.21.1.209:5002?150.138.8.132:8027
 http://192.168.50.1:20231/rtp/239.21.1.236:5002?150.138.8.132:8027
 #EXTINF:-1 tvg-id="" tvg-name="东平综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安东平.png" group-title="地方频道" resolution="1920x1080" ,东平综合
 http://192.168.50.1:20231/rtp/239.21.1.216:5002?150.138.8.132:8027
-#EXTINF:-1 tvg-id="" tvg-name="宁阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳.png" group-title="泰安" resolution="1920x1080" ,宁阳综合
+#EXTINF:-1 tvg-id="" tvg-name="宁阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳.png" group-title="地方频道" resolution="1920x1080" ,宁阳综合
 http://192.168.50.1:20231/rtp/239.21.1.143:5002?150.138.8.132:8027
 #EXTINF:-1 tvg-id="" tvg-name="岱岳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安岱岳.png" group-title="地方频道" resolution="1920x1080" ,岱岳综合
 http://192.168.50.1:20231/rtp/239.21.2.139:5002?150.138.8.132:8027
@@ -430,7 +430,7 @@ http://192.168.50.1:20231/rtp/239.21.1.160:5002?150.138.8.132:8027
 http://192.168.50.1:20231/rtp/239.21.2.151:5002?150.138.8.132:8027
 #EXTINF:-1 tvg-id="490711724" tvg-name="山东经济广播" tvg-logo="" tvg-chno="290" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227366/490711725.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="广播" resolution="1920x1080" ,山东经济广播
 http://192.168.50.1:20231/rtp/239.21.2.148:5002?150.138.8.132:8027
-#EXTINF:-1 tvg-id="20000098" tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" tvg-chno="301" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221225997/10000100000000060000000002706806_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" resolution="720x576" ,CCTV-1 综合
+#EXTINF:-1 tvg-id="20000098" tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" tvg-chno="301" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221225997/10000100000000060000000002706806_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频道" resolution="720x576" ,CCTV-1 综合
 http://192.168.50.1:20231/rtp/239.21.1.1:5002?150.138.8.132:8027
 #EXTINF:-1 tvg-id="395256486" tvg-name="中国教育-2" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CETV/CETV2.png" tvg-chno="76" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226834/395256487.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="教育" resolution="720x576" ,中国教育-2
 http://192.168.50.1:20231/rtp/239.21.2.8:5002?150.138.8.132:8027
