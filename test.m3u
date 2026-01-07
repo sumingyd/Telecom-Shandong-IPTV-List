@@ -350,7 +350,7 @@ http://192.168.50.1:20231/rtp/239.21.2.79:5002?150.138.8.132:8027
 http://192.168.50.1:20231/rtp/239.21.2.136:5002?150.138.8.132:8027
 #EXTINF:-1 tvg-id="" tvg-name="莒南综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂莒南.png" group-title="地方频道" resolution="1920x1080" ,莒南综合
 http://192.168.50.1:20231/rtp/239.21.2.66:5002?150.138.8.132:8027
-#EXTINF:-1 tvg-id="" tvg-name="蒙阴综合" tvg-logo="" group-title="地方频道" resolution="1920x1080" ,蒙阴综合
+#EXTINF:-1 tvg-id="" tvg-name="蒙阴综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂蒙阴.png" group-title="地方频道" resolution="1920x1080" ,蒙阴综合
 http://192.168.50.1:20231/rtp/239.21.2.23:5002?150.138.8.132:8027
 #EXTINF:-1 tvg-id="" tvg-name="崂山综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/青岛崂山.png" group-title="地方频道" resolution="1920x1080" ,崂山综合
 http://192.168.50.1:20231/rtp/239.21.1.223:5002?150.138.8.132:8027
