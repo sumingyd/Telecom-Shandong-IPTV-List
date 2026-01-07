@@ -331,10 +331,8 @@ http://192.168.50.1:20231/rtp/239.21.1.185:5002
 http://192.168.50.1:20231/rtp/239.21.2.135:5002
 #EXTINF:-1 tvg-id="" tvg-name="鱼台综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/济宁鱼台.png" group-title="济宁" resolution="1920x1080" ,鱼台综合
 http://192.168.50.1:20231/rtp/239.21.2.134:5002
-
 #EXTINF:-1 tvg-id="533741323" tvg-name="东昌综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城东昌.png" tvg-chno="1" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227328/533741324.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="聊城" resolution="1920x1080" ,东昌综合
 http://192.168.50.1:20231/rtp/239.21.2.190:5002
-
 #EXTINF:-1 tvg-id="" tvg-name="东阿综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城东阿.png" group-title="聊城" resolution="1920x1080" ,东阿综合
 http://192.168.50.1:20231/rtp/239.21.2.61:5002
 #EXTINF:-1 tvg-id="" tvg-name="临清综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/聊城临清.png" group-title="聊城" resolution="1920x1080" ,临清综合
