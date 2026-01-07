@@ -462,7 +462,7 @@ http://192.168.50.1:20231/rtp/239.21.1.30:5002?150.138.8.132:8027
 http://192.168.50.1:20231/rtp/239.21.2.111:5002?150.138.8.132:8027
 #EXTINF:-1 tvg-id="410462865" tvg-name="优优宝贝" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/优优宝贝2.png" tvg-chno="115" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227023/410462866.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿频道" resolution="720x576" ,优优宝贝
 http://192.168.50.1:20231/rtp/239.21.2.94:5002?150.138.8.132:8027
-#EXTINF:-1 tvg-id="20000088" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/优漫卡通.png" tvg-chno="65" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226066/10000100000000060000000002706940_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿频道" resolution="720x576" ,优漫卡通
+#EXTINF:-1 tvg-id="20000088" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/优漫卡通2.png" tvg-chno="65" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226066/10000100000000060000000002706940_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿频道" resolution="720x576" ,优漫卡通
 http://192.168.50.1:20231/rtp/239.21.1.50:5002?150.138.8.132:8027
 #EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/CHC影迷电影.png" group-title="特色频道" resolution="None" ,CHC影迷电影
 http://192.168.50.1:20231/rtp/239.21.2.127:5002?150.138.8.132:8027
