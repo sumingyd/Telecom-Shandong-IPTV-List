@@ -45,6 +45,8 @@ http://192.168.50.1:20231/rtp/239.21.2.152:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id=523619249" tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/中央新影中学生.png" tvg-chno="92" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227434/523619250.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频道" resolution="1920x1080" ,中学生
 http://192.168.50.1:20231/rtp/239.21.2.176:5002?fcc=150.138.8.132:8027
 
+
+
 #EXTINF:-1 tvg-id="20000114" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/福建/东南卫视2.png" tvg-chno="41" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226154/10000100000000060000000002885447_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视频道" resolution="1920x1080" ,东南卫视
 http://192.168.50.1:20231/rtp/239.21.1.113:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="20000108" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/东方卫视1.png" tvg-chno="34" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226150/10000100000000060000000002807413_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视频道" resolution="1920x1080" ,东方卫视
