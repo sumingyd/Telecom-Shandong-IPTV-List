@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=“https://raw.githubusercontent.com/sparkssssssssss/epg/refs/heads/main/pp.xml https://epg.pw/xmltv/epg_CN.xml”  
+#EXTM3U x-tvg-url=“https://epg.112114.xyz/pp.xml http://epg.51zmt.top:8000/e.xml.gz”  
 
 #EXTINF:-1 tvg-id="20000113" tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" tvg-chno="1" tvg-shift="0" catchup="vod" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226103/10000100000000060000000002902003_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频道" resolution="1920x1080" ,CCTV-1 综合
 http://192.168.50.1:20231/rtp/239.21.1.120:5002
