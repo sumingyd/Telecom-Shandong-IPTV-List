@@ -373,7 +373,7 @@ http://192.168.50.1:20231/rtp/239.21.1.216:5002
 http://192.168.50.1:20231/rtp/239.21.1.143:5002
 #EXTINF:-1 tvg-id="" tvg-name="岱岳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安岱岳.png" group-title="泰安" resolution="1920x1080" ,岱岳综合
 http://192.168.50.1:20231/rtp/239.21.2.139:5002
-#EXTINF:-1 tvg-id="" tvg-name="新泰乡村" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安新泰.png" group-title="泰安" resolution="1920x1080" ,新泰乡村
+#EXTINF:-1 tvg-id="" tvg-name="新泰乡村" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安新泰乡村.png" group-title="泰安" resolution="1920x1080" ,新泰乡村
 http://192.168.50.1:20231/rtp/239.21.1.248:5002
 #EXTINF:-1 tvg-id="" tvg-name="新泰综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安新泰.png" group-title="泰安" resolution="1920x1080" ,新泰综合
 http://192.168.50.1:20231/rtp/239.21.1.210:5002
