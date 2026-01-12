@@ -241,10 +241,6 @@ http://192.168.50.1:20231/rtp/239.21.2.102:5002?fcc=150.138.8.132:8027
 http://192.168.50.1:20231/rtp/239.21.1.170:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="458063" tvg-name="书画" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/书画.png" tvg-chno="132" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227163/443330165.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="特色频道" resolution="720x576" ,书画
 http://192.168.50.1:20231/rtp/239.21.2.111:5002?fcc=150.138.8.132:8027
-#EXTINF:-1 tvg-id="457633" tvg-name="先锋乒羽" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/先锋乒羽.png" catchup="none" catchup-days="0" group-title="特色频道" resolution="720x576" ,先锋乒羽
-http://192.168.50.1:20231/rtp/239.21.2.98:5002?fcc=150.138.8.132:8027
-#EXTINF:-1 tvg-id="491603" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/财富天下.png" catchup="none" catchup-days="0" group-title="特色频道" resolution="720x576" ,财富天下
-http://192.168.50.1:20231/rtp/239.21.1.127:5002?fcc=150.138.8.132:8027
 
 
 #EXTINF:-1 tvg-id="458031" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/上海/动漫秀场.png" tvg-chno="113" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227297/443309884.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿频道" resolution="1920x1080" ,动漫秀场
