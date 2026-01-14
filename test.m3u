@@ -531,7 +531,7 @@ http://192.168.50.1:20231/rtp/239.21.1.248:5002?fcc=150.138.8.132:8027
 http://192.168.50.1:20231/rtp/239.21.2.161:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="" tvg-name="宁阳综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳一套.png" catchup="none" catchup-days="0" group-title="🏘️ 县级频道" resolution="1920x1080" ,宁阳综合
 http://192.168.50.1:20231/rtp/239.21.1.143:5002?fcc=150.138.8.132:8027
-#EXTINF:-1 tvg-id="" tvg-name="宁阳生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳.png" catchup="none" catchup-days="0" group-title="🏘️ 县级频道" resolution="720x576" ,宁阳生活
+#EXTINF:-1 tvg-id="" tvg-name="宁阳生活" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安宁阳二套.png" catchup="none" catchup-days="0" group-title="🏘️ 县级频道" resolution="720x576" ,宁阳生活
 http://192.168.50.1:20231/rtp/239.21.1.144:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="" tvg-name="东平综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/泰安东平.png" catchup="none" catchup-days="0" group-title="🏘️ 县级频道" resolution="1920x1080" ,东平综合
 http://192.168.50.1:20231/rtp/239.21.1.216:5002?fcc=150.138.8.132:8027
