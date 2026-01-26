@@ -33,6 +33,7 @@
 - **macOS**: [IINA](https://www.iina.io/)
 - **Linux**: VLC Media Player
 - **服务端**: [Emby](https://emby.media/), Plex, Jellyfin
+- **Android**: [酷9](https://github.com/sumingyd/ku9)
 
 ### 使用方法
 
@@ -46,8 +47,9 @@
 
 | 提供商 | 地址 | 特点 |
 |--------|------|------|
-| 112114 | `https://raw.githubusercontent.com/springs/epg/main/pp.xml` | 主用源，更新及时 |
-| 老张EPG | `http://epg.51zmt.top:8000/e.xml` | 总表，频道全面 |
+| 时光轨车 | `https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/refs/heads/main/EPG/sggc.xml.gz` | 适配本整理源并适配本源的县级频道 |
+| 112114 | `https://raw.githubusercontent.com/springs/epg/main/pp.xml` | 112114 |
+| 老张EPG | `http://epg.51zmt.top:8000/e.xml` | 老张 |
 | fanmingming | `https://live.fanmingming.com/e.xml` | 简洁高效 |
 | epg.pw | `https://epg.pw/xmltv/epg_CN.xml` | 中国频道专用 |
 
