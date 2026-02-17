@@ -17,13 +17,14 @@
 
 | 文件名称 | 描述 | 适用场景 |
 |---------|------|----------|
-| `Telecom-Shandong.m3u` | 单播播放列表 | 完整列表 |
-| `Telecom-Shandong-Multicast.m3u` | 组播播放列表 | 完整列表 |
+| `Telecom-Shandong.m3u` | 山东电信单播 | 完整列表 |
+| `Telecom-Shandong-Multicast.m3u` | 山东电信组播 | 完整列表 |
 | `Telecom-Jiangsu-Multicast.m3u` | 江苏组播列表 | 群友贡献 |
-| `External.m3u` | 外部资源 | UHD+FUHD画质，已测试秒开 |
+| `Unicom-Shandong-Multicast.m3u` | 山东联通组播 | 群友贡献 |
+| `Unicom-Shandong.m3u` | 山东联通单播 | 群友贡献 |
+| `Mobile-Shandong.m3u` | 山东移动单播 | 群友贡献 |
 | `扫描/` | 扫描数据 | 包含组播标清和高清的扫描数据表格 |
-| `img/` | 台标资源 | 所有频道的台标图片 |
-| `bak/` | 备份文件 | 历史版本的播放列表备份 |
+| `img/` | 台标资源 | 目前列表内使用的是扫描器仓库内的台标，此文件夹仅作保留，不再更新 |
 
 ## 📺 播放列表使用
 
@@ -33,7 +34,7 @@
 - **macOS**: [IINA](https://www.iina.io/)
 - **Linux**: VLC Media Player
 - **服务端**: [Emby](https://emby.media/), Plex, Jellyfin
-- **Android**: [酷9](https://github.com/sumingyd/ku9)
+- **Android**: 酷9
 
 ### 使用方法
 
@@ -48,9 +49,7 @@
 | 提供商 | 地址 | 特点 |
 |--------|------|------|
 | 时光轨车 | `https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/refs/heads/main/EPG/sggc.xml.gz` | 适配本整理源并适配本源的县级频道 |
-| 112114 | `https://raw.githubusercontent.com/springs/epg/main/pp.xml` | 112114 |
-| 老张EPG | `http://epg.51zmt.top:8000/e.xml` | 老张 |
-| fanmingming | `https://live.fanmingming.com/e.xml` | 简洁高效 |
+| 老张EPG | `http://epg.51zmt.top:8000/e.xml.gz` | 老张 |
 | epg.pw | `https://epg.pw/xmltv/epg_CN.xml` | 中国频道专用 |
 
 ### EPG工具
