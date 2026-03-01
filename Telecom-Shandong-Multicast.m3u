@@ -473,6 +473,8 @@ http://192.168.50.1:20231/rtp/239.21.1.220:5002?fcc=150.138.8.132:8027
 http://192.168.50.1:20231/rtp/239.21.1.209:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="238" tvg-name="莒县综合" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/日照莒县.png" group-title="🏘️ 县级频道" tvg-chno="238" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,莒县综合
 http://192.168.50.1:20231/rtp/239.21.1.236:5002?fcc=150.138.8.132:8027
+#EXTINF:-1 tvg-id="239" tvg-name="五莲综合" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/日照五莲.png" group-title="🏘️ 县级频道" tvg-chno="239" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,五莲综合
+http://192.168.50.1:20231/rtp/239.21.2.191:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="239" tvg-name="河东综合" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂河东.png" group-title="🏘️ 县级频道" tvg-chno="239" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,河东综合
 http://192.168.50.1:20231/rtp/239.21.2.136:5002?fcc=150.138.8.132:8027
 #EXTINF:-1 tvg-id="240" tvg-name="兰陵综合" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/临沂兰陵.png" group-title="🏘️ 县级频道" tvg-chno="240" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,兰陵综合
