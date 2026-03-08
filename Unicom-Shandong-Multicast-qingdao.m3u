@@ -1,0 +1,361 @@
+#EXTM3U url-tvg="https://gh.llkk.cc/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz" 
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV1.png" , CCTV1
+http://192.168.9.1:20231/rtp/239.253.254.77:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV2.png" , CCTV2
+http://192.168.9.1:20231/rtp/239.253.254.232:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV3.png" , CCTV3
+http://192.168.9.1:20231/rtp/239.253.254.191:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV4.png" , CCTV4
+http://192.168.9.1:20231/rtp/239.253.254.111:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV4欧洲.png" , CCTV4欧洲
+http://192.168.9.1:20231/rtp/239.253.254.186:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV4美洲.png" , CCTV4美洲
+http://192.168.9.1:20231/rtp/239.253.254.187:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV5.png" , CCTV5
+http://192.168.9.1:20231/rtp/239.253.254.192:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV5+.png" , CCTV5+
+http://192.168.9.1:20231/rtp/239.253.254.80:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV6.png" , CCTV6
+http://192.168.9.1:20231/rtp/239.253.254.193:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV7.png" , CCTV7
+http://192.168.9.1:20231/rtp/239.253.254.233:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV8.png" , CCTV8
+http://192.168.9.1:20231/rtp/239.253.254.194:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV9.png" , CCTV9
+http://192.168.9.1:20231/rtp/239.253.254.79:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV10.png" , CCTV10
+http://192.168.9.1:20231/rtp/239.253.254.234:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV11.png" , CCTV11
+http://192.168.9.1:20231/rtp/239.253.254.169:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV12.png" , CCTV12
+http://192.168.9.1:20231/rtp/239.253.254.235:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV13.png" , CCTV13
+http://192.168.9.1:20231/rtp/239.253.254.175:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV14.png" , CCTV14
+http://192.168.9.1:20231/rtp/239.253.254.236:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV15.png" , CCTV15
+http://192.168.9.1:20231/rtp/239.253.254.170:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV17.png" , CCTV17
+http://192.168.9.1:20231/rtp/239.253.254.168:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV4K.png" , CCTV4K
+http://192.168.9.1:20231/rtp/239.253.254.122:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东卫视4K" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东卫视4K.png" , 山东卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.172:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="江苏卫视4K" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//江苏卫视4K.png" , 江苏卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.133:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="湖南卫视4K" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//湖南卫视4K.png" , 湖南卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.28:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="浙江卫视4K" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//浙江卫视4K.png" , 浙江卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.27:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="东方卫视4K" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//东方卫视4K.png" , 东方卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.176:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="四川卫视4K" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//四川卫视4K.png" , 四川卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.123:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="北京卫视4K" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//北京卫视4K.png" , 北京卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.200:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="深圳卫视4K" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//深圳卫视4K.png" , 深圳卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.61:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="广东卫视4K" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//广东卫视4K.png" , 广东卫视4K
+http://192.168.9.1:20231/rtp/239.253.254.108:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="爱上4K测试体验" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//爱上4K测试体验.png" , 爱上4K测试体验
+http://192.168.9.1:20231/rtp/239.253.254.102:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东卫视" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东卫视.png" , 山东卫视
+http://192.168.9.1:20231/rtp/239.253.254.78:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东齐鲁" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东齐鲁.png" , 山东齐鲁
+http://192.168.9.1:20231/rtp/239.253.254.114:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东文旅" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东文旅.png" , 山东文旅
+http://192.168.9.1:20231/rtp/239.253.254.160:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东生活" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东生活.png" , 山东生活
+http://192.168.9.1:20231/rtp/239.253.254.151:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东综艺" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东综艺.png" , 山东综艺
+http://192.168.9.1:20231/rtp/239.253.254.159:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东体育" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东体育.png" , 山东体育
+http://192.168.9.1:20231/rtp/239.253.254.22:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东新闻" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东新闻.png" , 山东新闻
+http://192.168.9.1:20231/rtp/239.253.254.23:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东农科" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东农科.png" , 山东农科
+http://192.168.9.1:20231/rtp/239.253.254.24:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东少儿" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东少儿.png" , 山东少儿
+http://192.168.9.1:20231/rtp/239.253.254.25:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东教育" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东教育.png" , 山东教育
+http://192.168.9.1:20231/rtp/239.253.254.59:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东经济广播" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东经济广播.png" , 山东经济广播
+http://192.168.9.1:20231/rtp/239.253.254.166:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东海洋频道" group-title="山东频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山东海洋频道.png" , 山东海洋频道
+http://192.168.9.1:20231/rtp/239.253.254.67:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", 崂山
+http://192.168.9.1:20231/rtp/239.253.254.242:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", 西海岸新闻
+http://192.168.9.1:20231/rtp/239.253.254.243:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", 西海岸生活
+http://192.168.9.1:20231/rtp/239.253.254.244:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", 即墨
+http://192.168.9.1:20231/rtp/239.253.254.245:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", 胶州综合
+http://192.168.9.1:20231/rtp/239.253.254.246:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", 莱西综合
+http://192.168.9.1:20231/rtp/239.253.254.247:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", 平度电视台
+http://192.168.9.1:20231/rtp/239.253.254.248:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", QTV1
+http://192.168.9.1:20231/rtp/239.253.254.249:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", QTV2
+http://192.168.9.1:20231/rtp/239.253.254.250:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", QTV3
+http://192.168.9.1:20231/rtp/239.253.254.251:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", QTV4
+http://192.168.9.1:20231/rtp/239.253.254.252:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", QTV5
+http://192.168.9.1:20231/rtp/239.253.254.253:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 group-title="山东频道", QTV6
+http://192.168.9.1:20231/rtp/239.253.254.254:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CHC家庭影院.png" , CHC家庭影院
+http://192.168.9.1:20231/rtp/239.253.254.152:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CHC动作电影.png" , CHC动作电影
+http://192.168.9.1:20231/rtp/239.253.254.153:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CHC影迷电影.png" , CHC影迷电影
+http://192.168.9.1:20231/rtp/239.253.254.154:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CGTN" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CGTN.png" , CGTN
+http://192.168.9.1:20231/rtp/239.253.254.189:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CGTN纪录.png" , CGTN纪录
+http://192.168.9.1:20231/rtp/239.253.254.188:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CGTN西语" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CGTN西语.png" , CGTN西语
+http://192.168.9.1:20231/rtp/239.253.254.182:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CGTN法语" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CGTN法语.png" , CGTN法语
+http://192.168.9.1:20231/rtp/239.253.254.183:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CGTN阿语" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CGTN阿语.png" , CGTN阿语
+http://192.168.9.1:20231/rtp/239.253.254.184:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CGTN俄语.png" , CGTN俄语
+http://192.168.9.1:20231/rtp/239.253.254.185:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//北京卫视.png" , 北京卫视
+http://192.168.9.1:20231/rtp/239.253.254.85:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="北京纪实科教" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//北京纪实科教.png" , 北京纪实科教
+http://192.168.9.1:20231/rtp/239.253.254.165:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//卡酷少儿.png" , 卡酷少儿
+http://192.168.9.1:20231/rtp/239.253.254.66:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//湖南卫视.png" , 湖南卫视
+http://192.168.9.1:20231/rtp/239.253.254.82:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//金鹰纪实.png" , 金鹰纪实
+http://192.168.9.1:20231/rtp/239.253.254.103:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="茶" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//茶.png" , 茶
+http://192.168.9.1:20231/rtp/239.253.254.143:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//快乐垂钓.png" , 快乐垂钓
+http://192.168.9.1:20231/rtp/239.253.254.144:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//金鹰卡通.png" , 金鹰卡通
+http://192.168.9.1:20231/rtp/239.253.254.117:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//河南卫视.png" , 河南卫视
+http://192.168.9.1:20231/rtp/239.253.254.190:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="梨园" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//梨园.png" , 梨园
+http://192.168.9.1:20231/rtp/239.253.254.139:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="武术世界" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//武术世界.png" , 武术世界
+http://192.168.9.1:20231/rtp/239.253.254.140:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="文物宝库" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//文物宝库.png" , 文物宝库
+http://192.168.9.1:20231/rtp/239.253.254.141:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//浙江卫视.png" , 浙江卫视
+http://192.168.9.1:20231/rtp/239.253.254.84:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//东方卫视.png" , 东方卫视
+http://192.168.9.1:20231/rtp/239.253.254.86:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//江苏卫视.png" , 江苏卫视
+http://192.168.9.1:20231/rtp/239.253.254.83:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//安徽卫视.png" , 安徽卫视
+http://192.168.9.1:20231/rtp/239.253.254.87:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//天津卫视.png" , 天津卫视
+http://192.168.9.1:20231/rtp/239.253.254.89:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//辽宁卫视.png" , 辽宁卫视
+http://192.168.9.1:20231/rtp/239.253.254.92:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//深圳卫视.png" , 深圳卫视
+http://192.168.9.1:20231/rtp/239.253.254.91:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//东南卫视.png" , 东南卫视
+http://192.168.9.1:20231/rtp/239.253.254.105:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//湖北卫视.png" , 湖北卫视
+http://192.168.9.1:20231/rtp/239.253.254.88:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//广东卫视.png" , 广东卫视
+http://192.168.9.1:20231/rtp/239.253.254.90:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//黑龙江卫视.png" , 黑龙江卫视
+http://192.168.9.1:20231/rtp/239.253.254.93:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//贵州卫视.png" , 贵州卫视
+http://192.168.9.1:20231/rtp/239.253.254.113:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//河北卫视.png" , 河北卫视
+http://192.168.9.1:20231/rtp/239.253.254.112:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//重庆卫视.png" , 重庆卫视
+http://192.168.9.1:20231/rtp/239.253.254.38:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//海南卫视.png" , 海南卫视
+http://192.168.9.1:20231/rtp/239.253.254.179:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//四川卫视.png" , 四川卫视
+http://192.168.9.1:20231/rtp/239.253.254.180:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//江西卫视.png" , 江西卫视
+http://192.168.9.1:20231/rtp/239.253.254.47:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//广西卫视.png" , 广西卫视
+http://192.168.9.1:20231/rtp/239.253.254.197:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//吉林卫视.png" , 吉林卫视
+http://192.168.9.1:20231/rtp/239.253.254.173:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//云南卫视.png" , 云南卫视
+http://192.168.9.1:20231/rtp/239.253.254.196:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//新疆卫视.png" , 新疆卫视
+http://192.168.9.1:20231/rtp/239.253.254.60:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//甘肃卫视.png" , 甘肃卫视
+http://192.168.9.1:20231/rtp/239.253.254.74:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//青海卫视.png" , 青海卫视
+http://192.168.9.1:20231/rtp/239.253.254.195:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//西藏卫视.png" , 西藏卫视
+http://192.168.9.1:20231/rtp/239.253.254.56:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//兵团卫视.png" , 兵团卫视
+http://192.168.9.1:20231/rtp/239.253.254.57:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//宁夏卫视.png" , 宁夏卫视
+http://192.168.9.1:20231/rtp/239.253.254.150:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//山西卫视.png" , 山西卫视
+http://192.168.9.1:20231/rtp/239.253.254.48:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//陕西卫视.png" , 陕西卫视
+http://192.168.9.1:20231/rtp/239.253.254.49:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//内蒙古卫视.png" , 内蒙古卫视
+http://192.168.9.1:20231/rtp/239.253.254.58:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="农林卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//农林卫视.png" , 农林卫视
+http://192.168.9.1:20231/rtp/239.253.254.70:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//厦门卫视.png" , 厦门卫视
+http://192.168.9.1:20231/rtp/239.253.254.106:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="延边卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//延边卫视.png" , 延边卫视
+http://192.168.9.1:20231/rtp/239.253.254.121:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//三沙卫视.png" , 三沙卫视
+http://192.168.9.1:20231/rtp/239.253.254.171:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="中国教育1" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//中国教育1.png" , 中国教育1
+http://192.168.9.1:20231/rtp/239.253.254.110:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="中国教育2" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//中国教育2.png" , 中国教育2
+http://192.168.9.1:20231/rtp/239.253.254.107:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="中国教育4" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//中国教育4.png" , 中国教育4
+http://192.168.9.1:20231/rtp/239.253.254.116:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//四海钓鱼.png" , 四海钓鱼
+http://192.168.9.1:20231/rtp/239.253.254.118:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="汽摩" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//汽摩.png" , 汽摩
+http://192.168.9.1:20231/rtp/239.253.254.161:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="生态环境" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//生态环境.png" , 生态环境
+http://192.168.9.1:20231/rtp/239.253.254.119:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="中华特产" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//中华特产.png" , 中华特产
+http://192.168.9.1:20231/rtp/239.253.254.76:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="中国交通" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//中国交通.png" , 中国交通
+http://192.168.9.1:20231/rtp/239.253.254.177:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="动漫秀场" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//动漫秀场.png" , 动漫秀场
+http://192.168.9.1:20231/rtp/239.253.254.115:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="金色学堂" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//金色学堂.png" , 金色学堂
+http://192.168.9.1:20231/rtp/239.253.254.101:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="生活时尚" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//生活时尚.png" , 生活时尚
+http://192.168.9.1:20231/rtp/239.253.254.99:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="都市剧场" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//都市剧场.png" , 都市剧场
+http://192.168.9.1:20231/rtp/239.253.254.98:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="乐游" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//乐游.png" , 乐游
+http://192.168.9.1:20231/rtp/239.253.254.97:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="法治天地" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//法治天地.png" , 法治天地
+http://192.168.9.1:20231/rtp/239.253.254.96:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="游戏风云" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//游戏风云.png" , 游戏风云
+http://192.168.9.1:20231/rtp/239.253.254.95:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="东方财经" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//东方财经.png" , 东方财经
+http://192.168.9.1:20231/rtp/239.253.254.94:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="精彩影视" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//精彩影视.png" , 精彩影视
+http://192.168.9.1:20231/rtp/239.253.254.142:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="求索纪录" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//求索纪录.png" , 求索纪录
+http://192.168.9.1:20231/rtp/239.253.254.231:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="谍战剧场" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//谍战剧场.png" , 谍战剧场
+http://192.168.9.1:20231/rtp/239.253.254.135:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="城市剧场" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//城市剧场.png" , 城市剧场
+http://192.168.9.1:20231/rtp/239.253.254.201:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="军旅剧场" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//军旅剧场.png" , 军旅剧场
+http://192.168.9.1:20231/rtp/239.253.254.203:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="古装剧场" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//古装剧场.png" , 古装剧场
+http://192.168.9.1:20231/rtp/239.253.254.205:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="经典剧场" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//经典剧场.png" , 经典剧场
+http://192.168.9.1:20231/rtp/239.253.254.211:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="武侠剧场" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//武侠剧场.png" , 武侠剧场
+http://192.168.9.1:20231/rtp/239.253.254.212:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="热播剧场" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//热播剧场.png" , 热播剧场
+http://192.168.9.1:20231/rtp/239.253.254.125:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="红色影院" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//红色影院.png" , 红色影院
+http://192.168.9.1:20231/rtp/239.253.254.209:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="家庭影院" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//家庭影院.png" , 家庭影院
+http://192.168.9.1:20231/rtp/239.253.254.218:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="喜剧影院" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//喜剧影院.png" , 喜剧影院
+http://192.168.9.1:20231/rtp/239.253.254.220:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="动作影院" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//动作影院.png" , 动作影院
+http://192.168.9.1:20231/rtp/239.253.254.221:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="足球" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//足球.png" , 足球
+http://192.168.9.1:20231/rtp/239.253.254.204:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="军事" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//军事.png" , 军事
+http://192.168.9.1:20231/rtp/239.253.254.207:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="地理" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//地理.png" , 地理
+http://192.168.9.1:20231/rtp/239.253.254.208:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="精选" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//精选.png" , 精选
+http://192.168.9.1:20231/rtp/239.253.254.210:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="美人" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//美人.png" , 美人
+http://192.168.9.1:20231/rtp/239.253.254.213:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="鉴赏" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//鉴赏.png" , 鉴赏
+http://192.168.9.1:20231/rtp/239.253.254.214:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="国学" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//国学.png" , 国学
+http://192.168.9.1:20231/rtp/239.253.254.215:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="星影" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//星影.png" , 星影
+http://192.168.9.1:20231/rtp/239.253.254.216:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="早教" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//早教.png" , 早教
+http://192.168.9.1:20231/rtp/239.253.254.217:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="墨宝" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//墨宝.png" , 墨宝
+http://192.168.9.1:20231/rtp/239.253.254.222:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="光影" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//光影.png" , 光影
+http://192.168.9.1:20231/rtp/239.253.254.223:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="戏曲" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//戏曲.png" , 戏曲
+http://192.168.9.1:20231/rtp/239.253.254.224:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="解密" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//解密.png" , 解密
+http://192.168.9.1:20231/rtp/239.253.254.226:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="武术" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//武术.png" , 武术
+http://192.168.9.1:20231/rtp/239.253.254.227:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="美妆" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//美妆.png" , 美妆
+http://192.168.9.1:20231/rtp/239.253.254.228:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="动画" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//动画.png" , 动画
+http://192.168.9.1:20231/rtp/239.253.254.229:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="好学生" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//好学生.png" , 好学生
+http://192.168.9.1:20231/rtp/239.253.254.219:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="音乐现场" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//音乐现场.png" , 音乐现场
+http://192.168.9.1:20231/rtp/239.253.254.202:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="经典电影" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//经典电影.png" , 经典电影
+http://192.168.9.1:20231/rtp/239.253.254.126:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="少儿动画" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//少儿动画.png" , 少儿动画
+http://192.168.9.1:20231/rtp/239.253.254.127:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="相声小品" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//相声小品.png" , 相声小品
+http://192.168.9.1:20231/rtp/239.253.254.136:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="魅力时尚" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//魅力时尚.png" , 魅力时尚
+http://192.168.9.1:20231/rtp/239.253.254.130:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="IPTV野外" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//IPTV野外.png" , IPTV野外
+http://192.168.9.1:20231/rtp/239.253.254.137:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="IPTV法治" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//IPTV法治.png" , IPTV法治
+http://192.168.9.1:20231/rtp/239.253.254.138:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="爱体育" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//爱体育.png" , 爱体育
+http://192.168.9.1:20231/rtp/239.253.254.109:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="爱生活" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//爱生活.png" , 爱生活
+http://192.168.9.1:20231/rtp/239.253.254.225:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="爱综艺" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//爱综艺.png" , 爱综艺
+http://192.168.9.1:20231/rtp/239.253.254.129:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="爱体育" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//爱体育.png" , 爱体育
+http://192.168.9.1:20231/rtp/239.253.254.131:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="爱电影" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//爱电影.png" , 爱电影
+http://192.168.9.1:20231/rtp/239.253.254.128:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="爱大剧" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//爱大剧.png" , 爱大剧
+http://192.168.9.1:20231/rtp/239.253.254.132:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="海看演艺" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//海看演艺.png" , 海看演艺
+http://192.168.9.1:20231/rtp/239.253.254.158:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="收视指南" group-title="轮播频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//收视指南.png" , 收视指南
+http://192.168.9.1:20231/rtp/239.253.254.124:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="书画" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//书画.png" , 书画
+http://192.168.9.1:20231/rtp/239.253.254.146:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="优优宝贝" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//优优宝贝.png" , 优优宝贝
+http://192.168.9.1:20231/rtp/239.253.254.72:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="优漫卡通" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//优漫卡通.png" , 优漫卡通
+http://192.168.9.1:20231/rtp/239.253.254.64:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//嘉佳卡通.png" , 嘉佳卡通
+http://192.168.9.1:20231/rtp/239.253.254.65:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="发现之旅" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//发现之旅.png" , 发现之旅
+http://192.168.9.1:20231/rtp/239.253.254.162:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="中学生" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//中学生.png" , 中学生
+http://192.168.9.1:20231/rtp/239.253.254.163:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="老故事" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//老故事.png" , 老故事
+http://192.168.9.1:20231/rtp/239.253.254.164:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="新动漫" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//新动漫.png" , 新动漫
+http://192.168.9.1:20231/rtp/239.253.254.157:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="财富天下" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//财富天下.png" , 财富天下
+http://192.168.9.1:20231/rtp/239.253.254.147:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="环球旅游" group-title="其他频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//环球旅游.png" , 环球旅游
+http://192.168.9.1:20231/rtp/239.253.254.71:8000?fcc=124.132.240.66:15970
