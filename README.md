@@ -48,6 +48,7 @@
 
 | 提供商 | 地址 | 特点 |
 |--------|------|------|
+| sumingyd | `https://raw.githubusercontent.com/sumingyd/xml/refs/heads/main/epg.xml` | 适配本整理源并适配本源的县级频道，含desc节目描述 |
 | 时光轨车 | `https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz` | 适配本整理源并适配本源的县级频道，含desc节目描述 |
 | 老张EPG | `http://epg.51zmt.top:8000/e.xml.gz` | 老张 |
 | epg.pw | `https://epg.pw/xmltv/epg_CN.xml` | 中国频道专用 |
