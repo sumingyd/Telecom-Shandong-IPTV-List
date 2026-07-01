@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV1
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8?channel-id=ystenlive&Contentid=cctv-1&livemode=1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-2/1.m3u8?channel-id=ystenlive&Contentid=cctv-2&livemode=1
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" group-title="央视频道",CCTV3
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-3/1.m3u8?channel-id=ystenlive&Contentid=cctv-3&livemode=1
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV4
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-4/1.m3u8?channel-id=ystenlive&Contentid=cctv-4&livemode=1
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" group-title="央视频道",CCTV5
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-5/1.m3u8?channel-id=ystenlive&Contentid=cctv-5&livemode=1
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive&Contentid=hdcctv05plus&livemode=1
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" group-title="央视频道",CCTV6
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-6/1.m3u8?channel-id=ystenlive&Contentid=cctv-6&livemode=1
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV7
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-7/1.m3u8?channel-id=ystenlive&Contentid=cctv-7&livemode=1
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" group-title="央视频道",CCTV8
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-8/1.m3u8?channel-id=ystenlive&Contentid=cctv-8&livemode=1
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-news/1.m3u8?channel-id=ystenlive&Contentid=cctv-news&livemode=1
+#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-9/1.m3u8?channel-id=ystenlive&Contentid=cctv-9&livemode=1
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV10
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-10/1.m3u8?channel-id=ystenlive&Contentid=cctv-10&livemode=1
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-11/1.m3u8?channel-id=ystenlive&Contentid=cctv-11&livemode=1
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV12
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-12/1.m3u8?channel-id=ystenlive&Contentid=cctv-12&livemode=1
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV13
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-13/1.m3u8?channel-id=ystenlive&Contentid=cctv-13&livemode=1
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV14
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-14/1.m3u8?channel-id=ystenlive&Contentid=cctv-14&livemode=1
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV15
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-15/1.m3u8?channel-id=ystenlive&Contentid=cctv-15&livemode=1
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16五环.png" group-title="央视频道",CCTV16
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-cctv16&livemode=1
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" group-title="央视频道",CCTV17
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-cctv17&livemode=1
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",中国教育1
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiaoyutv/1.m3u8?channel-id=ystenlive&Contentid=jiaoyutv&livemode=1
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" group-title="央视频道",中国教育4
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-4000k-576P-jiaoyutv4/1.m3u8?channel-id=ystenlive&Contentid=SD-4000k-576P-jiaoyutv4&livemode=1
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/anhuistv/1.m3u8?channel-id=ystenlive&Contentid=anhuistv&livemode=1
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/beijingstv/1.m3u8?channel-id=ystenlive&Contentid=beijingstv&livemode=1
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/chongqingstv/1.m3u8?channel-id=ystenlive&Contentid=chongqingstv&livemode=1
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongfangstv/1.m3u8?channel-id=ystenlive&Contentid=dongfangstv&livemode=1
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongnanstv/1.m3u8?channel-id=ystenlive&Contentid=dongnanstv&livemode=1
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/gansustv/1.m3u8?channel-id=ystenlive&Contentid=gansustv&livemode=1
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guangdongstv/1.m3u8?channel-id=ystenlive&Contentid=guangdongstv&livemode=1
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guangxistv/1.m3u8?channel-id=ystenlive&Contentid=guangxistv&livemode=1
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guizhoustv/1.m3u8?channel-id=ystenlive&Contentid=guizhoustv&livemode=1
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hebeistv/1.m3u8?channel-id=ystenlive&Contentid=hebeistv&livemode=1
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/henanstv/1.m3u8?channel-id=ystenlive&Contentid=henanstv&livemode=1
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-2500k-1080P-heilongjiangstv/1.m3u8?channel-id=ystenlive&Contentid=HD-2500k-1080P-heilongjiangstv&livemode=1
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-2500k-1080P-hubeistv/1.m3u8?channel-id=ystenlive&Contentid=HD-2500k-1080P-hubeistv&livemode=1
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hunanstv/1.m3u8?channel-id=ystenlive&Contentid=hunanstv&livemode=1
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jilinstv/1.m3u8?channel-id=ystenlive&Contentid=jilinstv&livemode=1
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangsustv/1.m3u8?channel-id=ystenlive&Contentid=jiangsustv&livemode=1
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-2500k-1080P-jiangxistv/1.m3u8?channel-id=ystenlive&Contentid=HD-2500k-1080P-jiangxistv&livemode=1
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/liaoningstv/1.m3u8?channel-id=ystenlive&Contentid=liaoningstv&livemode=1
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/neimenggustv/1.m3u8?channel-id=ystenlive&Contentid=neimenggustv&livemode=1
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/ningxiastv/1.m3u8?channel-id=ystenlive&Contentid=ningxiastv&livemode=1
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/qinghaistv/1.m3u8?channel-id=ystenlive&Contentid=qinghaistv&livemode=1
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongstv/1.m3u8?channel-id=ystenlive&Contentid=shandongstv&livemode=1
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山西卫视.png" group-title="卫视频道",山西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shanxistv/1.m3u8?channel-id=ystenlive&Contentid=shanxistv&livemode=1
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shanxi1stv/1.m3u8?channel-id=ystenlive&Contentid=shanxi1stv&livemode=1
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shenzhenstv/1.m3u8?channel-id=ystenlive&Contentid=shenzhenstv&livemode=1
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/sichuanstv/1.m3u8?channel-id=ystenlive&Contentid=sichuanstv&livemode=1
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/tianjinstv/1.m3u8?channel-id=ystenlive&Contentid=tianjinstv&livemode=1
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xizangstv/1.m3u8?channel-id=ystenlive&Contentid=xizangstv&livemode=1
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xinjiangstv/1.m3u8?channel-id=ystenlive&Contentid=xinjiangstv&livemode=1
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/yunnanstv/1.m3u8?channel-id=ystenlive&Contentid=yunnanstv&livemode=1
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/zhejiangstv/1.m3u8?channel-id=ystenlive&Contentid=zhejiangstv&livemode=1
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京纪实科教.png" group-title="数字频道",纪实科教
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-beijingjishi&livemode=1
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/哒啵电竞.png" group-title="数字频道",哒啵电竞
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dabodj/1.m3u8?channel-id=ystenlive&Contentid=dabodj&livemode=1
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/哒啵赛事.png" group-title="数字频道",哒啵赛事
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/wmyx/1.m3u8?channel-id=ystenlive&Contentid=wmyx&livemode=1
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑莓电影.png" group-title="数字频道",黑莓电影
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdianying/1.m3u8?channel-id=ystenlive&Contentid=jdianying&livemode=1
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑莓动画.png" group-title="数字频道",黑莓动画
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/donghuawg/1.m3u8?channel-id=ystenlive&Contentid=donghuawg&livemode=1
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jinyingkaton/1.m3u8?channel-id=ystenlive&Contentid=jinyingkaton&livemode=1
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/kakukaton/1.m3u8?channel-id=ystenlive&Contentid=kakukaton&livemode=1
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/优漫卡通.png" group-title="数字频道",优漫卡通
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/youmankaton/1.m3u8?channel-id=ystenlive&Contentid=youmankaton&livemode=1
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/睛彩青少.png" group-title="数字频道",睛彩青少
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-quanminrl&livemode=1
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/热播剧场.png" group-title="数字频道",热播剧场
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xiqumd/1.m3u8?channel-id=ystenlive&Contentid=xiqumd&livemode=1
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png" group-title="数字频道",山东教育
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongjy/1.m3u8?channel-id=ystenlive&Contentid=shandongjy&livemode=1
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/lvyoustv/1.m3u8?channel-id=ystenlive&Contentid=lvyoustv&livemode=1
+#EXTINF:-1 tvg-name="康养保健" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CEC国际健康.png" group-title="数字频道",康养保健
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-jiayougw/1.m3u8?channel-id=ystenlive&Contentid=SD-1500k-576P-jiayougw&livemode=1
+#EXTINF:-1 tvg-name="精品家居" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/台湾/幸福空间居家.png" group-title="数字频道",精品家居
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-haoxianggw/1.m3u8?channel-id=ystenlive&Contentid=SD-1500k-576P-haoxianggw&livemode=1
+#EXTINF:-1 tvg-name="万人推荐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/推荐.png" group-title="数字频道",万人推荐
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-kuailegw/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-kuailegw&livemode=1
+#EXTINF:-1 tvg-name="银发生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/台湾/TV5生活时尚.png" group-title="数字频道",银发生活
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/fengshanggw/1.m3u8?channel-id=ystenlive&Contentid=fengshanggw&livemode=1
+#EXTINF:-1 tvg-name="营养饮食" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中华美食.png" group-title="数字频道",营养饮食
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-huanqiugw/1.m3u8?channel-id=ystenlive&Contentid=SD-1500k-576P-huanqiugw&livemode=1
+#EXTINF:-1 tvg-name="运动文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/台湾/GINX运动.png" group-title="数字频道",运动文旅
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-yanxuangw/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-yanxuangw&livemode=1
+#EXTINF:-1 tvg-name="NewTV精品综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/New精品综合.png" group-title="数字频道",NewTV精品综合
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/mingxingdp/1.m3u8?channel-id=ystenlive&Contentid=mingxingdp&livemode=1
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV爱情喜剧.png" group-title="数字频道",NewTV爱情喜剧
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/aiqingxj/1.m3u8?channel-id=ystenlive&Contentid=aiqingxj&livemode=1
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV动作电影.png" group-title="数字频道",NewTV动作电影
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongzuody/1.m3u8?channel-id=ystenlive&Contentid=dongzuody&livemode=1
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV古装剧场.png" group-title="数字频道",NewTV古装剧场
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guzhuangjc/1.m3u8?channel-id=ystenlive&Contentid=guzhuangjc&livemode=1
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV家庭剧场.png" group-title="数字频道",NewTV家庭剧场
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiatingjc/1.m3u8?channel-id=ystenlive&Contentid=jiatingjc&livemode=1
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV金牌综艺.png" group-title="数字频道",NewTV金牌综艺
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/saishijx/1.m3u8?channel-id=ystenlive&Contentid=saishijx&livemode=1
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV惊悚悬疑.png" group-title="数字频道",NewTV惊悚悬疑
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingsongxy/1.m3u8?channel-id=ystenlive&Contentid=jingsongxy&livemode=1
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV精品大剧.png" group-title="数字频道",NewTV精品大剧
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdaju/1.m3u8?channel-id=ystenlive&Contentid=jdaju&livemode=1
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV精品纪录.png" group-title="数字频道",NewTV精品纪录
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingpinjl/1.m3u8?channel-id=ystenlive&Contentid=jingpinjl&livemode=1
+#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV精品萌宠.png" group-title="数字频道",NewTV精品萌宠
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingpinmc/1.m3u8?channel-id=ystenlive&Contentid=jingpinmc&livemode=1
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV精品体育.png" group-title="数字频道",NewTV精品体育
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jtiyu/1.m3u8?channel-id=ystenlive&Contentid=jtiyu&livemode=1
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV军旅剧场.png" group-title="数字频道",NewTV军旅剧场
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junlvjc/1.m3u8?channel-id=ystenlive&Contentid=junlvjc&livemode=1
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV军事评论.png" group-title="数字频道",NewTV军事评论
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junshipl/1.m3u8?channel-id=ystenlive&Contentid=junshipl&livemode=1
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV农业致富.png" group-title="数字频道",NewTV农业致富
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/nongyezf/1.m3u8?channel-id=ystenlive&Contentid=nongyezf&livemode=1
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV炫舞未来.png" group-title="数字频道",NewTV炫舞未来
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-xwwl/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-xwwl&livemode=1
+#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV怡伴健康.png" group-title="数字频道",NewTV怡伴健康
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/ljiankangyouyue/1.m3u8?channel-id=ystenlive&Contentid=ljiankangyouyue&livemode=1

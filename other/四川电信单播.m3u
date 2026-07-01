@@ -1,0 +1,495 @@
+#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV1
+http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV2
+http://live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV3
+http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV4
+http://live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV5
+http://live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV5+
+http://live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV6
+http://live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV7
+http://live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV8
+http://live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV9
+http://live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV10
+http://live2.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV11
+http://live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV12
+http://live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV13
+http://live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV14
+http://live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV15
+http://live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV16
+http://live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" http-user-agent="VLC/1.0" group-title="央视频道",CCTV17
+http://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/发现之旅.png" http-user-agent="VLC/1.0" group-title="央视频道",发现之旅
+http://live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/老故事.png" http-user-agent="VLC/1.0" group-title="央视频道",老故事
+http://live2.rxip.sc96655.com/live/lgs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中学生.png" http-user-agent="VLC/1.0" group-title="央视频道",中学生
+http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" http-user-agent="VLC/1.0" group-title="央视频道",CETV-1
+http://live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" http-user-agent="VLC/1.0" group-title="央视频道",CETV-4
+http://live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN.png" http-user-agent="VLC/1.0" group-title="央视频道",CGTN英语
+http://live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN俄语.png" http-user-agent="VLC/1.0" group-title="央视频道",CGTN俄语
+http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN法语.png" http-user-agent="VLC/1.0" group-title="央视频道",CGTN法语
+http://live2.rxip.sc96655.com/live/fy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN西语.png" http-user-agent="VLC/1.0" group-title="央视频道",CGTN西语
+http://live2.rxip.sc96655.com/live/xbyy_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/安徽卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",安徽卫视
+http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",北京卫视
+http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/兵团卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",兵团卫视
+http://live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/重庆卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",重庆卫视
+http://live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",东方卫视
+http://live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东南卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",东南卫视
+http://live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",广东卫视
+http://live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广西卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",广西卫视
+http://live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/贵州卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",贵州卫视
+http://live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/海南卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",海南卫视
+http://live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",河南卫视
+http://live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑龙江卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",黑龙江卫视
+http://live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖北卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",湖北卫视
+http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",湖南卫视
+http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/吉林卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",吉林卫视
+http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",江苏卫视
+http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",江西卫视
+http://live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",辽宁卫视
+http://live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",内蒙古卫视
+http://live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",山东卫视
+http://live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山西卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",山西卫视
+http://live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/陕西卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",陕西卫视
+http://live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",深圳卫视
+http://live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",四川卫视
+http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天津卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",天津卫视
+http://live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/西藏卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",西藏卫视
+http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/云南卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",云南卫视
+http://live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视.png" http-user-agent="VLC/1.0" group-title="卫视频道",浙江卫视
+http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/香港/凤凰中文.png" http-user-agent="VLC/1.0" group-title="港台频道",凤凰中文
+http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/香港/凤凰资讯.png" http-user-agent="VLC/1.0" group-title="港台频道",凤凰资讯
+http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC动作电影.png" http-user-agent="VLC/1.0" group-title="电影频道",CHC动作电影
+http://live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC家庭影院.png" http-user-agent="VLC/1.0" group-title="电影频道",CHC家庭影院
+http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CHC影迷电影.png" http-user-agent="VLC/1.0" group-title="电影频道",CHC影迷电影
+http://live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川经济.png" http-user-agent="VLC/1.0" group-title="四川省级",四川经济
+http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川科教.png" http-user-agent="VLC/1.0" group-title="四川省级",四川科教
+http://live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川乡村.png" http-user-agent="VLC/1.0" group-title="四川省级",四川乡村
+http://live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川新闻.png" http-user-agent="VLC/1.0" group-title="四川省级",四川新闻
+http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川文化旅游.png" http-user-agent="VLC/1.0" group-title="四川省级",四川文化旅游
+http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川影视文艺.png" http-user-agent="VLC/1.0" group-title="四川省级",四川影视文艺
+http://live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川康巴卫视.png" http-user-agent="VLC/1.0" group-title="四川省级",四川康巴卫视
+http://live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川峨眉电影.png" http-user-agent="VLC/1.0" group-title="四川省级",四川峨眉电影
+http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川妇女儿童.png" http-user-agent="VLC/1.0" group-title="四川省级",四川妇女儿童
+http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四川精品导视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川/四川精品导视.png" http-user-agent="VLC/1.0" group-title="四川省级",四川精品导视
+http://live2.rxip.sc96655.com/live/jpdsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国天气.png" http-user-agent="VLC/1.0" group-title="数字频道",中国天气
+http://live2.rxip.sc96655.com/live/zgqx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/都市剧场.png" http-user-agent="VLC/1.0" group-title="数字频道",都市剧场
+http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京纪实科教.png" http-user-agent="VLC/1.0" group-title="数字频道",纪实科教
+http://live2.rxip.sc96655.com/live/bjjs_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/卡酷少儿.png" http-user-agent="VLC/1.0" group-title="数字频道",卡酷少儿
+http://live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/嘉佳卡通.png" http-user-agent="VLC/1.0" group-title="数字频道",嘉佳卡通
+http://live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动漫秀场.png" http-user-agent="VLC/1.0" group-title="数字频道",动漫秀场
+http://live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰纪实.png" http-user-agent="VLC/1.0" group-title="数字频道",金鹰纪实
+http://live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/快乐垂钓.png" http-user-agent="VLC/1.0" group-title="数字频道",快乐垂钓
+http://live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰卡通.png" http-user-agent="VLC/1.0" group-title="数字频道",金鹰卡通
+http://live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/梨园.png" http-user-agent="VLC/1.0" group-title="数字频道",梨园频道
+http://live2.rxip.sc96655.com/live/ly_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/武术世界.png" http-user-agent="VLC/1.0" group-title="数字频道",武术世界
+http://live2.rxip.sc96655.com/live/wssj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/劲爆体育.png" http-user-agent="VLC/1.0" group-title="数字频道",劲爆体育
+http://live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/财富天下.png" http-user-agent="VLC/1.0" group-title="数字频道",财富天下
+http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/法治天地.png" http-user-agent="VLC/1.0" group-title="数字频道",法治天地
+http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/生活时尚.png" http-user-agent="VLC/1.0" group-title="数字频道",生活时尚
+http://live2.rxip.sc96655.com/live/shssH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四海钓鱼.png" http-user-agent="VLC/1.0" group-title="数字频道",四海钓鱼
+http://live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天元围棋.png" http-user-agent="VLC/1.0" group-title="数字频道",天元围棋
+http://live2.rxip.sc96655.com/live/tywq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/新视觉.png" http-user-agent="VLC/1.0" group-title="数字频道",新视觉
+http://live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/乐游.png" http-user-agent="VLC/1.0" group-title="数字频道",乐游
+http://live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png" http-user-agent="VLC/1.0" group-title="数字频道",山东教育卫视
+http://live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="阿坝州藏语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",阿坝州藏语
+http://live2.rxip.sc96655.com/live/wypdgqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="阿坝州TV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",阿坝州TV
+http://live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="安居综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",安居综合
+http://live2.rxip.sc96655.com/live/ajxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="安岳综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",安岳综合
+http://live2.rxip.sc96655.com/live/ayxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="安州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",安州综合
+http://live2.rxip.sc96655.com/live/azgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="巴中文旅生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",巴中文旅生活
+http://live2.rxip.sc96655.com/live/bzetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="巴中综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",巴中综合
+http://live2.rxip.sc96655.com/live/bzytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="巴州电视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",巴州电视
+http://live2.rxip.sc96655.com/live/bzxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宝兴综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宝兴综合
+http://live2.rxip.sc96655.com/live/bxdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="北川综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",北川综合
+http://live2.rxip.sc96655.com/live/bcxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="苍溪综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",苍溪综合
+http://live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="朝天综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",朝天综合
+http://live2.rxip.sc96655.com/live/ctxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都都市生活
+http://live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都高新区" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都高新区
+http://live2.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都公共频道
+http://live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都经济资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都经济资讯
+http://live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都新闻综合
+http://live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",成都影视文艺
+http://live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="崇州" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",崇州
+http://live2.rxip.sc96655.com/live/czyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="川网导视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",川网导视
+http://live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="船山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",船山综合
+http://live2.rxip.sc96655.com/live/csxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="达川新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",达川新闻综合
+http://live2.rxip.sc96655.com/live/dcxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="达州导视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",达州导视
+http://live2.rxip.sc96655.com/live/dzds_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="达州公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",达州公共
+http://live2.rxip.sc96655.com/live/dzgg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="达州新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",达州新闻综合
+http://live2.rxip.sc96655.com/live/dzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="大邑电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",大邑电视台
+http://live2.rxip.sc96655.com/live/dyytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="大英新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",大英新闻综合
+http://live2.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="丹棱综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",丹棱综合
+http://live2.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="德昌电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",德昌电视台
+http://live2.rxip.sc96655.com/live/dcxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="东兴综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",东兴综合
+http://live2.rxip.sc96655.com/live/dxxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="都江堰" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",都江堰
+http://live2.rxip.sc96655.com/live/djyzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="峨边电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",峨边电视台
+http://live2.rxip.sc96655.com/live/ebdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="峨眉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",峨眉综合
+http://live2.rxip.sc96655.com/live/emsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="恩阳新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",恩阳新闻
+http://live2.rxip.sc96655.com/live/eyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="涪城综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",涪城综合
+http://live2.rxip.sc96655.com/live/fcgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="富顺综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",富顺综合
+http://live2.rxip.sc96655.com/live/fszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="甘孜综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",甘孜综合
+http://live2.rxip.sc96655.com/live/gzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="高县1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",高县-1
+http://live2.rxip.sc96655.com/live/gxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="珙县新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",珙县新闻
+http://live2.rxip.sc96655.com/live/gxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="古蔺新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",古蔺新闻综合
+http://live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广安公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广安公共
+http://live2.rxip.sc96655.com/live/gagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广安区电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广安区电视台
+http://live2.rxip.sc96655.com/live/gaqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广汉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广汉综合
+http://live2.rxip.sc96655.com/live/ghxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广元文化生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广元文化生活
+http://live2.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="广元综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",广元综合
+http://live2.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="汉源综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",汉源综合
+http://live2.rxip.sc96655.com/live/hyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="合江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",合江新闻综合
+http://live2.rxip.sc96655.com/live/hjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="黑水" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",黑水
+http://live2.rxip.sc96655.com/live/hsxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="洪雅新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",洪雅新闻综合
+http://live2.rxip.sc96655.com/live/hyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="华蓥综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",华蓥综合
+http://live2.rxip.sc96655.com/live/hyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="会理新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",会理新闻
+http://live2.rxip.sc96655.com/live/hlyt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="夹江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",夹江新闻综合
+http://live2.rxip.sc96655.com/live/jjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="犍为新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",犍为新闻综合
+http://live2.rxip.sc96655.com/live/qwxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="简阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",简阳新闻综合
+http://live2.rxip.sc96655.com/live/jyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="剑阁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",剑阁综合
+http://live2.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="江安电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",江安电视台
+http://live2.rxip.sc96655.com/live/jat_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="江油综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",江油综合
+http://live2.rxip.sc96655.com/live/jyxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金口河综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",金口河综合
+http://live2.rxip.sc96655.com/live/jkhdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金牛" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",金牛
+http://live2.rxip.sc96655.com/live/jnyx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="金堂电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",金堂电视台
+http://live2.rxip.sc96655.com/live/jtzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="开江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",开江新闻综合
+http://live2.rxip.sc96655.com/live/kjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="阆中综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",阆中综合
+http://live2.rxip.sc96655.com/live/lzxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="乐山公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",乐山公共
+http://live2.rxip.sc96655.com/live/lsggpd_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",乐山新闻综合
+http://live2.rxip.sc96655.com/live/lsxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="利州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",利州综合
+http://live2.rxip.sc96655.com/live/lzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",凉山新闻综合
+http://live2.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="凉山彝语综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",凉山彝语综合
+http://live2.rxip.sc96655.com/live/yyzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="邻水" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",邻水
+http://live2.rxip.sc96655.com/live/lsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="龙泉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",龙泉综合
+http://live2.rxip.sc96655.com/live/lqxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="隆昌综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",隆昌综合
+http://live2.rxip.sc96655.com/live/lcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="芦山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",芦山综合频道
+http://live2.rxip.sc96655.com/live/lszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="泸定综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",泸定综合频道
+http://live2.rxip.sc96655.com/live/ldxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="泸县综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",泸县综合
+http://live2.rxip.sc96655.com/live/lxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="罗江" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",罗江
+http://live2.rxip.sc96655.com/live/ljxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="马边综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",马边综合
+http://live2.rxip.sc96655.com/live/mbxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="马尔康" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",马尔康
+http://live2.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",眉山综合
+http://live2.rxip.sc96655.com/live/msxwzhgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="米易综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",米易综合
+http://live2.rxip.sc96655.com/live/myxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="绵阳科技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",绵阳科技
+http://live2.rxip.sc96655.com/live/myetH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="绵阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",绵阳新闻综合
+http://live2.rxip.sc96655.com/live/myytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="绵竹" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",绵竹
+http://live2.rxip.sc96655.com/live/mzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="冕宁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",冕宁综合
+http://live2.rxip.sc96655.com/live/mnxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="名山电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",名山电视台
+http://live2.rxip.sc96655.com/live/msdstH265_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="木里" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",木里
+http://live2.rxip.sc96655.com/live/mltHD_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="沐川综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",沐川综合
+http://live2.rxip.sc96655.com/live/mcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="纳溪1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",纳溪-1
+http://live2.rxip.sc96655.com/live/nxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="南部综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",南部综合
+http://live2.rxip.sc96655.com/live/nbxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="南充综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",南充综合
+http://live2.rxip.sc96655.com/live/ncxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="南江电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",南江电视台
+http://live2.rxip.sc96655.com/live/njxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="南溪综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",南溪综合
+http://live2.rxip.sc96655.com/live/nxt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="内江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",内江综合
+http://live2.rxip.sc96655.com/live/njzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宁南综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宁南综合
+http://live2.rxip.sc96655.com/live/nnt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="攀钢新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",攀钢新闻综合
+http://live2.rxip.sc96655.com/live/pgxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="攀枝花新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",攀枝花新闻综合
+http://live2.rxip.sc96655.com/live/pzhytH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="彭山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",彭山综合
+http://live2.rxip.sc96655.com/live/pszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="彭州综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",彭州综合
+http://live2.rxip.sc96655.com/live/pzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="蓬安综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",蓬安综合
+http://live2.rxip.sc96655.com/live/pazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="蓬溪新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",蓬溪新闻综合
+http://live2.rxip.sc96655.com/live/pxxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="郫县新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",郫县新闻综合
+http://live2.rxip.sc96655.com/live/pxds1_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="平昌综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",平昌综合
+http://live2.rxip.sc96655.com/live/pcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="平武综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",平武综合
+http://live2.rxip.sc96655.com/live/pwgq_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="屏山综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",屏山综合
+http://live2.rxip.sc96655.com/live/psxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="蒲江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",蒲江综合
+http://live2.rxip.sc96655.com/live/pjxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="普格综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",普格综合
+http://live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",七彩戏剧
+http://live2.rxip.sc96655.com/live/qcxj_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="前锋" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",前锋
+http://live2.rxip.sc96655.com/live/qfxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="青白江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",青白江综合
+http://live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="青川综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",青川综合
+http://live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="青神综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",青神综合
+http://live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="渠县新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",渠县新闻综合
+http://live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="仁和新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",仁和新闻
+http://live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="荣县综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",荣县综合
+http://live2.rxip.sc96655.com/live/rxzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="三台TV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",三台TV
+http://live2.rxip.sc96655.com/live/stxwHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="沙湾融媒" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",沙湾融媒
+http://live2.rxip.sc96655.com/live/swxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="射洪综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",射洪综合
+http://live2.rxip.sc96655.com/live/shzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="石棉" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",石棉
+http://live2.rxip.sc96655.com/live/smxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="双流综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",双流综合
+http://live2.rxip.sc96655.com/live/slgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="松潘" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",松潘
+http://live2.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="遂宁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",遂宁综合
+http://live2.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="天全新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",天全新闻
+http://live2.rxip.sc96655.com/live/tqzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="通川区" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",通川区
+http://live2.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="通江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",通江综合
+http://live2.rxip.sc96655.com/live/tjxwH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="万源" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",万源
+http://live2.rxip.sc96655.com/live/wyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",旺苍新闻综合
+http://live2.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="温江综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",温江综合频道
+http://live2.rxip.sc96655.com/live/wjytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="五通桥" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",五通桥
+http://live2.rxip.sc96655.com/live/wtqxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="武胜综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",武胜综合
+http://live2.rxip.sc96655.com/live/wsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="西昌" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",西昌
+http://live2.rxip.sc96655.com/live/xctHD_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="西充综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",西充综合
+http://live2.rxip.sc96655.com/live/xczh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="新都综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",新都综合
+http://live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="新津" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",新津
+http://live2.rxip.sc96655.com/live/xjzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="荥经电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",荥经电视台
+http://live2.rxip.sc96655.com/live/xjdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="兴文电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",兴文电视台
+http://live2.rxip.sc96655.com/live/xwt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="叙永电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",叙永电视台
+http://live2.rxip.sc96655.com/live/xyxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="叙州新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",叙州新闻综合
+http://live2.rxip.sc96655.com/live/ybx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宣汉综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宣汉综合
+http://live2.rxip.sc96655.com/live/xhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="雅安公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",雅安公共
+http://live2.rxip.sc96655.com/live/yagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",雅安新闻综合
+http://live2.rxip.sc96655.com/live/yazh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="雅安雨城" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",雅安雨城
+http://live2.rxip.sc96655.com/live/ycpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="盐边电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",盐边电视台
+http://live2.rxip.sc96655.com/live/ybtgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="盐亭1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",盐亭1
+http://live2.rxip.sc96655.com/live/ytzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="雁江" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",雁江
+http://live2.rxip.sc96655.com/live/yjxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="仪陇新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",仪陇新闻综合
+http://live2.rxip.sc96655.com/live/ylxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宜宾公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宜宾公共
+http://live2.rxip.sc96655.com/live/ybetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="宜宾新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",宜宾新闻综合
+http://live2.rxip.sc96655.com/live/ybytH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="营山" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",营山
+http://live2.rxip.sc96655.com/live/ysxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="岳池" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",岳池
+http://live2.rxip.sc96655.com/live/ycxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="越西综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",越西综合
+http://live2.rxip.sc96655.com/live/yxt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="筠连TV" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",筠连TV
+http://live2.rxip.sc96655.com/live/ylyt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",长宁综合
+http://live2.rxip.sc96655.com/live/znzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="昭化综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",昭化综合
+http://live2.rxip.sc96655.com/live/zhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="中江新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",中江新闻综合
+http://live2.rxip.sc96655.com/live/zjxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="资阳新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",资阳新闻综合
+http://live2.rxip.sc96655.com/live/zyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="资中综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",资中综合
+http://live2.rxip.sc96655.com/live/zzzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="梓潼综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",梓潼综合
+http://live2.rxip.sc96655.com/live/ztgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="自贡文化生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",自贡文化生活
+http://live2.rxip.sc96655.com/live/zggg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" http-user-agent="VLC/1.0" group-title="四川地方",自贡综合
+http://live2.rxip.sc96655.com/live/zgxw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
