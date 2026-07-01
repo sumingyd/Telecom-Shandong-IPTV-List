@@ -30,11 +30,10 @@
 
 ### 支持的播放器
 
-- **Windows**: [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro) [PotPlayer](http://potplayer.tv/)
-- **macOS**: [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro) [IINA](https://www.iina.io/)
-- **Linux**: [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro) VLC Media Player
-- **服务端**: [Emby](https://emby.media/), Plex, Jellyfin
-- **Android**: [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro) 酷9
+- **Windows**: [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro)    |   [PotPlayer](http://potplayer.tv/)
+- **macOS**: [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro)     |   [IINA](https://www.iina.io/)
+- **Linux**: [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro)     |   VLC Media Player
+- **Android**: [IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro)     |   酷9
 
 ### 使用方法
 
