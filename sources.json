@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "hide": ["test.m3u"],
+  "groups": [
+    {
+      "name": "电信 Telecom",
+      "icon": "T",
+      "items": [
+        { "file": "Telecom-Shandong.m3u", "name": "山东电信 · 单播", "note": "可直接播放" },
+        { "file": "Telecom-Shandong-Multicast.m3u", "name": "山东电信 · 组播", "note": "需运营商内网 / UDProxy" },
+        { "file": "Telecom-Jiangsu-Multicast.m3u", "name": "江苏电信 · 组播", "note": "需运营商内网 / UDProxy" }
+      ]
+    },
+    {
+      "name": "移动 Mobile",
+      "icon": "M",
+      "items": [
+        { "file": "Mobile-Shandong.m3u", "name": "山东移动 · 单播", "note": "可直接播放" },
+        { "file": "Mobile-Shandong-taian.m3u", "name": "山东移动 · 泰安", "note": "泰安地区专用" }
+      ]
+    },
+    {
+      "name": "联通 Unicom",
+      "icon": "U",
+      "items": [
+        { "file": "Unicom-Shandong.m3u", "name": "山东联通 · 单播", "note": "可直接播放" },
+        { "file": "Unicom-Shandong-Multicast.m3u", "name": "山东联通 · 组播", "note": "需运营商内网 / UDProxy" },
+        { "file": "Unicom-Shandong-Multicast-qingdao.m3u", "name": "山东联通 · 青岛组播", "note": "青岛地区专用" }
+      ]
+    }
+  ]
+}
