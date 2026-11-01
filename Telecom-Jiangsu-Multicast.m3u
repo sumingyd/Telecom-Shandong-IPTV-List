@@ -1,361 +1,411 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-rtp://239.49.0.1:8000
-#EXTINF:-1 ,CCTV2
-rtp://239.49.0.2:8008
-#EXTINF:-1 ,CCTV3
-rtp://239.49.0.3:9566
-#EXTINF:-1 ,CCTV4
-rtp://239.49.0.4:8024
-#EXTINF:-1 ,CCTV5
-rtp://239.49.0.5:9570
-#EXTINF:-1 ,CCTV6
-rtp://239.49.0.6:9574
-#EXTINF:-1 ,CCTV7
-rtp://239.49.8.126:8000
-#EXTINF:-1 ,CCTV8
-rtp://239.49.0.8:9578
-#EXTINF:-1 ,CCTV9HD
-rtp://239.49.8.53:9814
-#EXTINF:-1 ,CCTV10
-rtp://239.49.0.10:8072
-#EXTINF:-1 ,CCTV11
-rtp://239.49.0.11:8080
-#EXTINF:-1 ,CCTV12
-rtp://239.49.0.12:8088
-#EXTINF:-1 ,CCTV新闻
-rtp://239.49.0.13:8096
-#EXTINF:-1 ,CCTV少儿
-rtp://239.49.0.14:8104
-#EXTINF:-1 ,CCTV音乐
-rtp://239.49.0.15:8112
-#EXTINF:-1 ,CGTN
-rtp://239.49.0.9:8064
-#EXTINF:-1 ,CCTV17
-rtp://239.49.0.7:8048
-#EXTINF:-1 ,江苏卫视
-rtp://239.49.0.16:8120
-#EXTINF:-1 ,江苏城市
-rtp://239.49.0.17:8128
-#EXTINF:-1 ,江苏综艺
-rtp://239.49.0.18:8136
-#EXTINF:-1 ,江苏体育休闲
-rtp://239.49.0.19:8144
-#EXTINF:-1 ,江苏影视
-rtp://239.49.0.20:8152
-#EXTINF:-1 ,优漫卡通
-rtp://239.49.0.21:8160
-#EXTINF:-1 ,江苏公共新闻
-rtp://239.49.0.149:9186
-#EXTINF:-1 ,江苏国际
-rtp://239.49.0.22:8168
-#EXTINF:-1 ,好享购物
-rtp://239.49.8.121:8000
-#EXTINF:-1 ,江苏教育
-rtp://239.49.0.23:8176
-#EXTINF:-1 ,靓妆频道
-rtp://239.49.0.150:9194
-#EXTINF:-1 ,环球购物
-rtp://239.49.0.212:8000
-#EXTINF:-1 ,CCTV中视购物
-rtp://239.49.0.112:8000
-#EXTINF:-1 ,家有购物
-rtp://239.49.8.124:8000
-#EXTINF:-1 ,央广购物
-rtp://239.49.0.110:9014
-#EXTINF:-1 ,财富天下
-rtp://239.49.0.166:9322
-#EXTINF:-1 ,学习频道
-rtp://239.49.0.210:8884
-#EXTINF:-1 ,东方卫视
-rtp://239.49.0.48:8376
-#EXTINF:-1 ,北京卫视
-rtp://239.49.0.49:8384
-#EXTINF:-1 ,浙江卫视
-rtp://239.49.0.50:8392
-#EXTINF:-1 ,辽宁卫视
-rtp://239.49.0.51:8400
-#EXTINF:-1 ,安徽卫视
-rtp://239.49.0.52:8408
-#EXTINF:-1 ,山东卫视
-rtp://239.49.0.53:8416
-#EXTINF:-1 ,湖南卫视
-rtp://239.49.0.54:8424
-#EXTINF:-1 ,广东卫视
-rtp://239.49.0.55:8432
-#EXTINF:-1 ,广西卫视
-rtp://239.49.0.56:8440
-#EXTINF:-1 ,海南卫视
-rtp://239.49.0.57:8448
-#EXTINF:-1 ,重庆卫视
-rtp://239.49.0.58:8456
-#EXTINF:-1 ,四川卫视
-rtp://239.49.0.59:8464
-#EXTINF:-1 ,河南卫视
-rtp://239.49.0.60:8472
-#EXTINF:-1 ,东南卫视
-rtp://239.49.0.61:8480
-#EXTINF:-1 ,天津卫视
-rtp://239.49.0.62:8488
-#EXTINF:-1 ,江西卫视
-rtp://239.49.0.63:8496
-#EXTINF:-1 ,湖北卫视
-rtp://239.49.0.64:8504
-#EXTINF:-1 ,吉林卫视
-rtp://239.49.0.65:8512
-#EXTINF:-1 ,黑龙江卫视
-rtp://239.49.0.66:8520
-#EXTINF:-1 ,山西卫视
-rtp://239.49.0.67:8528
-#EXTINF:-1 ,贵州卫视
-rtp://239.49.0.68:8536
-#EXTINF:-1 ,青海卫视
-rtp://239.49.0.69:8544
-#EXTINF:-1 ,CETV1
-rtp://239.49.0.70:8552
-#EXTINF:-1 ,CETV2
-rtp://239.49.0.71:8560
-#EXTINF:-1 ,空中课堂
-rtp://239.49.0.72:8568
-#EXTINF:-1 ,深圳卫视
-rtp://239.49.0.100:8788
-#EXTINF:-1 ,云南卫视
-rtp://239.49.0.147:8000
-#EXTINF:-1 ,河北卫视
-rtp://239.49.0.170:8000
-#EXTINF:-1 ,宁夏卫视
-rtp://239.49.0.171:8000
-#EXTINF:-1 ,甘肃卫视
-rtp://239.49.0.172:8000
-#EXTINF:-1 ,新疆卫视
-rtp://239.49.0.178:8000
-#EXTINF:-1 ,内蒙古卫视
-rtp://239.49.0.180:8000
-#EXTINF:-1 ,西藏卫视
-rtp://239.49.0.245:8000
-#EXTINF:-1 ,第一剧场
-rtp://239.49.0.44:8000
-#EXTINF:-1 ,电视指南
-rtp://239.49.0.161:9282
-#EXTINF:-1 ,风云足球
-rtp://239.49.0.153:9218
-#EXTINF:-1 ,高尔夫网球
-rtp://239.49.0.154:9226
-#EXTINF:-1 ,世界地理
-rtp://239.49.0.155:9234
-#EXTINF:-1 ,兵器科技
-rtp://239.49.0.160:9274
-#EXTINF:-1 ,风云剧场
-rtp://239.49.0.152:9210
-#EXTINF:-1 ,央视精品
-rtp://239.49.0.156:9242
-#EXTINF:-1 ,央视怀旧剧场
-rtp://239.49.0.157:9250
-#EXTINF:-1 ,风云音乐
-rtp://239.49.0.151:9202
-#EXTINF:-1 ,女性时尚
-rtp://239.49.0.159:9266
-#EXTINF:-1 ,快乐垂钓HD
-rtp://239.49.0.114:8000
-#EXTINF:-1 ,先锋乒羽
-rtp://239.49.0.145:8000
-#EXTINF:-1 ,茶HD
-rtp://239.49.0.146:8000
-#EXTINF:-1 ,导视
-rtp://239.49.0.80:8632
-#EXTINF:-1 ,精彩推荐
-rtp://239.49.0.190:9458
-#EXTINF:-1 ,书画频道
-rtp://239.49.0.123:8000
-#EXTINF:-1 ,陕西卫视
-rtp://239.49.0.233:8000
-#EXTINF:-1 ,山东教育卫视
-rtp://239.49.0.235:8000
-#EXTINF:-1 ,直播室1
-rtp://239.49.8.151:6000
-#EXTINF:-1 ,直播室2
-rtp://239.49.8.63:9354
-#EXTINF:-1 ,CCTV1HD
-rtp://239.49.8.19:9614
-#EXTINF:-1 ,CCTV2HD
-rtp://239.49.8.50:9802
-#EXTINF:-1 ,CCTV3HD
-rtp://239.49.8.74:8000
-#EXTINF:-1 ,CCTV4HD
-rtp://239.49.8.51:9806
-#EXTINF:-1 ,CCTV5HD
-rtp://239.49.8.75:8000
-#EXTINF:-1 ,CCTV6HD
-rtp://239.49.8.76:8000
-#EXTINF:-1 ,CCTV8HD
-rtp://239.49.8.77:8000
-#EXTINF:-1 ,CCTV10HD
-rtp://239.49.8.54:9818
-#EXTINF:-1 ,CCTV12HD
-rtp://239.49.8.55:9822
-#EXTINF:-1 ,CCTV13HD
-rtp://239.49.8.109:8000
-#EXTINF:-1 ,CCTV14HD
-rtp://239.49.8.56:9826
-#EXTINF:-1 ,CCTV16HD
-rtp://239.49.8.31:8000
-#EXTINF:-1 ,CCTV17HD
-rtp://239.49.8.52:9810
-#EXTINF:-1 ,CCTV5HD
-rtp://239.49.8.18:9610
-#EXTINF:-1 ,CGTN俄语HD
-rtp://239.49.0.111:8000
-#EXTINF:-1 ,江苏卫视HD
-rtp://239.49.8.16:9602
-#EXTINF:-1 ,江苏城市HD
-rtp://239.49.8.107:8000
-#EXTINF:-1 ,江苏综艺HD
-rtp://239.49.8.108:8000
-#EXTINF:-1 ,江苏体育休闲HD
-rtp://239.49.8.117:8000
-#EXTINF:-1 ,江苏影视HD
-rtp://239.49.8.118:8000
-#EXTINF:-1 ,优漫卡通HD
-rtp://239.49.8.119:8000
-#EXTINF:-1 ,江苏公共新闻HD
-rtp://239.49.8.120:8000
-#EXTINF:-1 ,好享购物HD
-rtp://239.49.8.121:8000
-#EXTINF:-1 ,江苏教育HD
-rtp://239.49.8.122:8000
-#EXTINF:-1 ,广西卫视HD
-rtp://239.49.8.10:8000
-#EXTINF:-1 ,天津卫视HD
-rtp://239.49.8.35:8620
-#EXTINF:-1 ,江苏跨年4K SDR
-rtp://239.49.8.38:8000
-#EXTINF:-1 ,浙江卫视HD
-rtp://239.49.8.20:9618
-#EXTINF:-1 ,重庆卫视HD
-rtp://239.49.8.57:9830
-#EXTINF:-1 ,环球购物HD
-rtp://239.49.8.123:8000
-#EXTINF:-1 ,辽宁卫视HD
-rtp://239.49.8.48:8000
-#EXTINF:-1 ,海南卫视HD
-rtp://239.49.8.83:8000
-#EXTINF:-1 ,四川卫视HD
-rtp://239.49.8.110:8000
-#EXTINF:-1 ,江西卫视HD
-rtp://239.49.8.111:8000
-#EXTINF:-1 ,东南卫视HD
-rtp://239.49.8.112:8000
-#EXTINF:-1 ,吉林卫视HD
-rtp://239.49.8.113:8000
-#EXTINF:-1 ,河北卫视HD
-rtp://239.49.8.114:8000
-#EXTINF:-1 ,东方卫视HD
-rtp://239.49.8.17:9606
-#EXTINF:-1 ,北京卫视HD
-rtp://239.49.8.11:9414
-#EXTINF:-1 ,湖南卫视HD
-rtp://239.49.8.12:9418
-#EXTINF:-1 ,广东卫视HD
-rtp://239.49.8.13:9422
-#EXTINF:-1 ,黑龙江卫视HD
-rtp://239.49.8.14:9426
-#EXTINF:-1 ,深圳卫视HD
-rtp://239.49.8.15:9430
-#EXTINF:-1 ,云南卫视HD
-rtp://239.49.0.177:8000
-#EXTINF:-1 ,山东卫视HD
-rtp://239.49.8.7:9306
-#EXTINF:-1 ,精彩推荐高清
-rtp://239.49.8.34:8612
-#EXTINF:-1 ,CETV1HD
-rtp://239.49.8.115:8000
-#EXTINF:-1 ,贵州卫视HD
-rtp://239.49.8.49:8000
-#EXTINF:-1 ,江苏跨年HD
-rtp://239.49.8.73:8000
-#EXTINF:-1 ,安徽卫视HD
-rtp://239.49.8.80:8000
-#EXTINF:-1 ,湖北卫视HD
-rtp://239.49.8.8:9632
-#EXTINF:-1 ,河南卫视HD
-rtp://239.49.8.29:8000
-#EXTINF:-1 ,金鹰纪实HD
-rtp://239.49.8.79:8000
-#EXTINF:-1 ,第一剧场HD
-rtp://239.49.8.94:8000
-#EXTINF:-1 ,电视指南HD
-rtp://239.49.8.84:8000
-#EXTINF:-1 ,风云足球HD
-rtp://239.49.8.85:8000
-#EXTINF:-1 ,高尔夫网球HD
-rtp://239.49.8.86:8000
-#EXTINF:-1 ,世界地理HD
-rtp://239.49.8.87:8000
-#EXTINF:-1 ,兵器科技HD
-rtp://239.49.8.88:8000
-#EXTINF:-1 ,风云剧场HD
-rtp://239.49.8.89:8000
-#EXTINF:-1 ,央视精品HD
-rtp://239.49.8.90:8000
-#EXTINF:-1 ,央视怀旧剧场HD
-rtp://239.49.8.91:8000
-#EXTINF:-1 ,风云音乐HD
-rtp://239.49.8.92:8000
-#EXTINF:-1 ,女性时尚HD
-rtp://239.49.8.93:8000
-#EXTINF:-1 ,央视台球HD
-rtp://239.49.8.32:8000
-#EXTINF:-1 ,金鹰卡通HD
-rtp://239.49.8.33:8000
-#EXTINF:-1 ,多机位5
-rtp://239.49.8.69:9384
-#EXTINF:-1 ,文物宝库HD
-rtp://239.49.0.209:8000
-#EXTINF:-1 ,梨园HD
-rtp://239.49.8.193:8000
-#EXTINF:-1 ,大湾区卫视
-rtp://239.49.0.234:8000
-#EXTINF:-1 ,武术世界HD
-rtp://239.49.0.205:8000
-#EXTINF:-1 ,CCTV164K（SDR）
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV4K.png" group-title="4K频道",CCTV4K
+rtp://239.49.0.82:8000
+#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV16.png" group-title="4K频道",CCTV16-4K
 rtp://239.49.0.109:8000
-#EXTINF:-1 ,多机位7
-rtp://239.49.0.191:8000
-#EXTINF:-1 ,多机位6
-rtp://239.49.0.251:8000
-#EXTINF:-1 ,央广购物HD
-rtp://239.49.0.39:8000
-#EXTINF:-1 ,辽宁游戏竞技
-rtp://239.49.0.162:9290
-#EXTINF:-1 ,苏州生活资讯
-rtp://239.49.8.116:8000
-#EXTINF:-1 ,CBA直播6
-rtp://239.49.8.96:8000
-#EXTINF:-1 ,直播室388
-rtp://239.49.8.66:9372
-#EXTINF:-1 ,CBA直播5
-rtp://239.49.8.95:8000
-#EXTINF:-1 ,篮球世界
-rtp://239.49.8.105:8000
-#EXTINF:-1 ,CBA直播1
-rtp://239.49.8.91:8000
-#EXTINF:-1 ,家族诞生夜
-rtp://239.49.8.68:9380
-#EXTINF:-1 ,云上昆聚
-rtp://239.49.8.67:9376
-#EXTINF:-1 ,CBA直播4
-rtp://239.49.8.94:8000
-#EXTINF:-1 ,直播室387
-rtp://239.49.8.65:9368
-#EXTINF:-1 ,江苏跨年4K HDR
+#EXTINF:-1 tvg-name="北京卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/北京卫视4K.png" group-title="4K频道",北京卫视4K-SDR
+rtp://239.49.0.42:8000
+#EXTINF:-1 tvg-name="北京卫视4K-HDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/北京卫视4K.png" group-title="4K频道",北京卫视4K-HDR
+rtp://239.49.0.253:8000
+#EXTINF:-1 tvg-name="东方卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/东方卫视4K.png" group-title="4K频道",东方卫视4K-SDR
+rtp://239.49.1.69:8000
+#EXTINF:-1 tvg-name="广东卫视4K-HDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/广东卫视4K.png" group-title="4K频道",广东卫视4K-HDR
+rtp://239.49.1.26:8000
+#EXTINF:-1 tvg-name="广东卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/广东卫视4K.png" group-title="4K频道",广东卫视4K-SDR
+rtp://239.49.1.24:8000
+#EXTINF:-1 tvg-name="深圳卫视4K-HDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/深圳卫视4K.png" group-title="4K频道",深圳卫视4K-HDR
+rtp://239.49.1.28:8000
+#EXTINF:-1 tvg-name="深圳卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/深圳卫视4K.png" group-title="4K频道",深圳卫视4K-SDR
+rtp://239.49.1.27:8000
+#EXTINF:-1 tvg-name="江苏卫视4K-HDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏卫视4K.png" group-title="4K频道",江苏卫视4K-HDR
+rtp://239.49.1.62:8000
+#EXTINF:-1 tvg-name="江苏卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏卫视4K.png" group-title="4K频道",江苏卫视4K-SDR
+rtp://239.49.1.61:8000
+#EXTINF:-1 tvg-name="山东卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/山东卫视4K.png" group-title="4K频道",山东卫视4K-SDR
+rtp://239.49.1.71:8000
+#EXTINF:-1 tvg-name="浙江卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/浙江卫视4K.png" group-title="4K频道",浙江卫视4K-SDR
+rtp://239.49.1.63:8000
+#EXTINF:-1 tvg-name="湖南卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/湖南卫视4K.png" group-title="4K频道",湖南卫视4K-SDR
+rtp://239.49.1.67:8000
+#EXTINF:-1 tvg-name="四川卫视4K-SDR" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/四川卫视4K.png" group-title="4K频道",四川卫视4K-SDR
+rtp://239.49.1.65:8000
+#EXTINF:-1 tvg-name="4K跨年直播1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/纯享4K.png" group-title="4K频道",4K跨年直播1
+rtp://239.49.8.38:8000
+#EXTINF:-1 tvg-name="4K跨年直播2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/纯享4K.png" group-title="4K频道",4K跨年直播2
 rtp://239.49.8.82:8000
-#EXTINF:-1 ,CBA直播2
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV1.png" group-title="央视频道",CCTV1
+rtp://239.49.0.1:8000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV1.png" group-title="央视频道",CCTV1
+rtp://239.49.8.19:9614
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV2.png" group-title="央视频道",CCTV2
+rtp://239.49.0.2:8008
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV2.png" group-title="央视频道",CCTV2
+rtp://239.49.8.50:9802
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV3.png" group-title="央视频道",CCTV3
+rtp://239.49.0.3:9566
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV3.png" group-title="央视频道",CCTV3
+rtp://239.49.8.74:8000
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV4.png" group-title="央视频道",CCTV4
+rtp://239.49.0.4:8024
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV4.png" group-title="央视频道",CCTV4
+rtp://239.49.8.51:9806
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV5.png" group-title="央视频道",CCTV5
+rtp://239.49.0.5:9570
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV5.png" group-title="央视频道",CCTV5
+rtp://239.49.8.75:8000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV5.png" group-title="央视频道",CCTV5
+rtp://239.49.8.18:9610
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV6.png" group-title="央视频道",CCTV6
+rtp://239.49.0.6:9574
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV6.png" group-title="央视频道",CCTV6
+rtp://239.49.8.76:8000
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV7.png" group-title="央视频道",CCTV7
+rtp://239.49.8.126:8000
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV7.png" group-title="央视频道",CCTV7
+rtp://239.49.0.126:8000
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV8.png" group-title="央视频道",CCTV8
+rtp://239.49.0.8:9578
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV8.png" group-title="央视频道",CCTV8
+rtp://239.49.8.77:8000
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV9.png" group-title="央视频道",CCTV9
+rtp://239.49.8.53:9814
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV10.png" group-title="央视频道",CCTV10
+rtp://239.49.0.10:8072
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV10.png" group-title="央视频道",CCTV10
+rtp://239.49.8.54:9818
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV11.png" group-title="央视频道",CCTV11
+rtp://239.49.0.11:8080
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV11.png" group-title="央视频道",CCTV11
+rtp://239.49.0.127:8000
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV12.png" group-title="央视频道",CCTV12
+rtp://239.49.0.12:8088
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV12.png" group-title="央视频道",CCTV12
+rtp://239.49.8.55:9822
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV13.png" group-title="央视频道",CCTV13
+rtp://239.49.0.13:8096
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV13.png" group-title="央视频道",CCTV13
+rtp://239.49.8.109:8000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV14.png" group-title="央视频道",CCTV14
+rtp://239.49.0.14:8104
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV14.png" group-title="央视频道",CCTV14
+rtp://239.49.8.56:9826
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV15.png" group-title="央视频道",CCTV15
+rtp://239.49.0.15:8112
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV15.png" group-title="央视频道",CCTV15
+rtp://239.49.0.128:8000
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV16.png" group-title="央视频道",CCTV16
+rtp://239.49.8.31:8000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV17.png" group-title="央视频道",CCTV17
+rtp://239.49.0.7:8048
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CCTV17.png" group-title="央视频道",CCTV17
+rtp://239.49.8.52:9810
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/中学生.png" group-title="央视频道",中学生
+rtp://239.49.1.82:8000
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CETV1.png" group-title="央视频道",CETV1
+rtp://239.49.8.115:8000
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CETV1.png" group-title="央视频道",CETV1
+rtp://239.49.0.70:8552
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CETV2.png" group-title="央视频道",CETV2
+rtp://239.49.0.71:8560
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CETV4.png" group-title="央视频道",CETV4
+rtp://239.49.0.125:8000
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CETV4.png" group-title="央视频道",CETV4
+rtp://239.49.0.72:8568
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CGTN.png" group-title="央视频道",CGTN
+rtp://239.49.0.9:8064
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CGTN俄语.png" group-title="央视频道",CGTN俄语
+rtp://239.49.0.111:8000
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CGTN法语.png" group-title="央视频道",CGTN法语
+rtp://239.49.1.31:8000
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/CGTN西语.png" group-title="央视频道",CGTN西语
+rtp://239.49.1.30:8000
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/北京卫视.png" group-title="卫视频道",北京卫视
+rtp://239.49.0.49:8384
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/北京卫视.png" group-title="卫视频道",北京卫视
+rtp://239.49.8.11:9414
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/东方卫视.png" group-title="卫视频道",东方卫视
+rtp://239.49.0.48:8376
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/东方卫视.png" group-title="卫视频道",东方卫视
+rtp://239.49.8.17:9606
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/广东卫视.png" group-title="卫视频道",广东卫视
+rtp://239.49.0.55:8432
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/广东卫视.png" group-title="卫视频道",广东卫视
+rtp://239.49.8.13:9422
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/深圳卫视.png" group-title="卫视频道",深圳卫视
+rtp://239.49.0.100:8788
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/深圳卫视.png" group-title="卫视频道",深圳卫视
+rtp://239.49.8.15:9430
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏卫视.png" group-title="卫视频道",江苏卫视
+rtp://239.49.0.16:8120
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏卫视.png" group-title="卫视频道",江苏卫视
+rtp://239.49.8.16:9602
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/山东卫视.png" group-title="卫视频道",山东卫视
+rtp://239.49.0.53:8416
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/山东卫视.png" group-title="卫视频道",山东卫视
+rtp://239.49.8.7:9306
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/浙江卫视.png" group-title="卫视频道",浙江卫视
+rtp://239.49.0.50:8392
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/浙江卫视.png" group-title="卫视频道",浙江卫视
+rtp://239.49.8.20:9618
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/湖南卫视.png" group-title="卫视频道",湖南卫视
+rtp://239.49.0.54:8424
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/湖南卫视.png" group-title="卫视频道",湖南卫视
+rtp://239.49.8.12:9418
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/四川卫视.png" group-title="卫视频道",四川卫视
+rtp://239.49.0.59:8464
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/四川卫视.png" group-title="卫视频道",四川卫视
+rtp://239.49.8.110:8000
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/安徽卫视.png" group-title="卫视频道",安徽卫视
+rtp://239.49.0.52:8408
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/安徽卫视.png" group-title="卫视频道",安徽卫视
+rtp://239.49.8.80:8000
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/重庆卫视.png" group-title="卫视频道",重庆卫视
+rtp://239.49.0.58:8456
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/重庆卫视.png" group-title="卫视频道",重庆卫视
+rtp://239.49.8.57:9830
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/东南卫视.png" group-title="卫视频道",东南卫视
+rtp://239.49.0.61:8480
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/东南卫视.png" group-title="卫视频道",东南卫视
+rtp://239.49.8.112:8000
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+rtp://239.49.0.172:8000
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+rtp://239.49.0.250:8000
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/广西卫视.png" group-title="卫视频道",广西卫视
+rtp://239.49.0.56:8440
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/广西卫视.png" group-title="卫视频道",广西卫视
+rtp://239.49.8.10:8000
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/贵州卫视.png" group-title="卫视频道",贵州卫视
+rtp://239.49.0.68:8536
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/贵州卫视.png" group-title="卫视频道",贵州卫视
+rtp://239.49.8.49:8000
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/海南卫视.png" group-title="卫视频道",海南卫视
+rtp://239.49.0.57:8448
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/海南卫视.png" group-title="卫视频道",海南卫视
+rtp://239.49.8.83:8000
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/河北卫视.png" group-title="卫视频道",河北卫视
+rtp://239.49.0.170:8000
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/河北卫视.png" group-title="卫视频道",河北卫视
+rtp://239.49.8.114:8000
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/河南卫视.png" group-title="卫视频道",河南卫视
+rtp://239.49.0.60:8472
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/河南卫视.png" group-title="卫视频道",河南卫视
+rtp://239.49.8.29:8000
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+rtp://239.49.0.66:8520
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+rtp://239.49.8.14:9426
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/湖北卫视.png" group-title="卫视频道",湖北卫视
+rtp://239.49.0.64:8504
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/湖北卫视.png" group-title="卫视频道",湖北卫视
+rtp://239.49.8.8:9632
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/吉林卫视.png" group-title="卫视频道",吉林卫视
+rtp://239.49.0.65:8512
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/吉林卫视.png" group-title="卫视频道",吉林卫视
+rtp://239.49.8.113:8000
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江西卫视.png" group-title="卫视频道",江西卫视
+rtp://239.49.0.63:8496
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江西卫视.png" group-title="卫视频道",江西卫视
+rtp://239.49.8.111:8000
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+rtp://239.49.0.51:8400
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+rtp://239.49.8.48:8000
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+rtp://239.49.0.180:8000
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+rtp://239.49.1.75:8000
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+rtp://239.49.0.171:8000
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+rtp://239.49.1.60:8000
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/青海卫视.png" group-title="卫视频道",青海卫视
+rtp://239.49.0.69:8544
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/青海卫视.png" group-title="卫视频道",青海卫视
+rtp://239.49.0.81:8000
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/三沙卫视.png" group-title="卫视频道",三沙卫视
+rtp://239.49.0.165:8000
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/三沙卫视.png" group-title="卫视频道",三沙卫视
+rtp://239.49.0.167:8000
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/厦门卫视.png" group-title="卫视频道",厦门卫视
+rtp://239.49.0.230:8000
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/山西卫视.png" group-title="卫视频道",山西卫视
+rtp://239.49.0.67:8528
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/山西卫视.png" group-title="卫视频道",山西卫视
+rtp://239.49.1.55:8000
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/陕西卫视.png" group-title="卫视频道",陕西卫视
+rtp://239.49.0.233:8000
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/陕西卫视.png" group-title="卫视频道",陕西卫视
+rtp://239.49.1.74:8000
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/天津卫视.png" group-title="卫视频道",天津卫视
+rtp://239.49.0.62:8488
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/天津卫视.png" group-title="卫视频道",天津卫视
+rtp://239.49.8.35:8620
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/西藏卫视.png" group-title="卫视频道",西藏卫视
+rtp://239.49.0.245:8000
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/西藏卫视.png" group-title="卫视频道",西藏卫视
+rtp://239.49.1.56:8000
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/云南卫视.png" group-title="卫视频道",云南卫视
+rtp://239.49.0.147:8000
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/云南卫视.png" group-title="卫视频道",云南卫视
+rtp://239.49.0.177:8000
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/新疆卫视.png" group-title="卫视频道",新疆卫视
+rtp://239.49.0.178:8000
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/新疆卫视.png" group-title="卫视频道",新疆卫视
+rtp://239.49.1.57:8000
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/兵团卫视.png" group-title="卫视频道",兵团卫视
+rtp://239.49.0.240:8000
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/兵团卫视.png" group-title="卫视频道",兵团卫视
+rtp://239.49.1.58:8000
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏国际.png" group-title="江苏频道",江苏国际
+rtp://239.49.0.22:8168
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏国际.png" group-title="江苏频道",江苏国际
+rtp://239.49.1.81:8000
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏教育.png" group-title="江苏频道",江苏教育
+rtp://239.49.0.23:8176
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏教育.png" group-title="江苏频道",江苏教育
+rtp://239.49.8.122:8000
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏新闻.png" group-title="江苏频道",江苏新闻
+rtp://239.49.0.149:9186
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏新闻.png" group-title="江苏频道",江苏新闻
+rtp://239.49.8.120:8000
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏影视.png" group-title="江苏频道",江苏影视
+rtp://239.49.0.20:8152
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏影视.png" group-title="江苏频道",江苏影视
+rtp://239.49.8.118:8000
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏综艺.png" group-title="江苏频道",江苏综艺
+rtp://239.49.0.18:8136
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏综艺.png" group-title="江苏频道",江苏综艺
+rtp://239.49.8.108:8000
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏城市.png" group-title="江苏频道",江苏城市
+rtp://239.49.8.107:8000
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏城市.png" group-title="江苏频道",江苏城市
+rtp://239.49.0.17:8128
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏体育休闲.png" group-title="江苏频道",江苏体育休闲
+rtp://239.49.0.19:8144
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/江苏体育休闲.png" group-title="江苏频道",江苏体育休闲
+rtp://239.49.8.117:8000
+#EXTINF:-1 tvg-name="江苏足球联赛1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/苏超联赛.png" group-title="江苏频道",江苏足球联赛1
+rtp://239.49.8.96:8000
+#EXTINF:-1 tvg-name="江苏足球联赛2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/苏超联赛.png" group-title="江苏频道",江苏足球联赛2
 rtp://239.49.8.97:8000
-#EXTINF:-1 ,CBA直播3
-rtp://239.49.8.93:8000
-#EXTINF:-1 ,CBA直播7
-rtp://239.49.8.97:8000
-#EXTINF:-1 ,羽毛球直播
-rtp://239.49.8.104:8000
-#EXTINF:-1 ,CBA直播8
+#EXTINF:-1 tvg-name="江苏足球联赛3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/苏超联赛.png" group-title="江苏频道",江苏足球联赛3
 rtp://239.49.8.98:8000
+#EXTINF:-1 tvg-name="江苏足球联赛4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/苏超联赛.png" group-title="江苏频道",江苏足球联赛4
+rtp://239.49.8.99:8000
+#EXTINF:-1 tvg-name="江苏足球联赛5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/苏超联赛.png" group-title="江苏频道",江苏足球联赛5
+rtp://239.49.8.100:8000
+#EXTINF:-1 tvg-name="江苏足球联赛6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/苏超联赛.png" group-title="江苏频道",江苏足球联赛6
+rtp://239.49.8.101:8000
+#EXTINF:-1 tvg-name="江苏财经广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏财经广播
+rtp://239.49.1.94:8000
+#EXTINF:-1 tvg-name="江苏故事广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏故事广播
+rtp://239.49.1.93:8000
+#EXTINF:-1 tvg-name="江苏健康广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏健康广播
+rtp://239.49.1.95:8000
+#EXTINF:-1 tvg-name="江苏交通广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏交通广播
+rtp://239.49.1.87:8000
+#EXTINF:-1 tvg-name="江苏文艺广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏文艺广播
+rtp://239.49.1.92:8000
+#EXTINF:-1 tvg-name="江苏新闻广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏新闻广播
+rtp://239.49.1.86:8000
+#EXTINF:-1 tvg-name="江苏音乐广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏音乐广播
+rtp://239.49.1.89:8000
+#EXTINF:-1 tvg-name="江苏经典音乐广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏经典音乐广播
+rtp://239.49.1.88:8000
+#EXTINF:-1 tvg-name="江苏新闻综合广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",江苏新闻综合广播
+rtp://239.49.1.91:8000
+#EXTINF:-1 tvg-name="金陵之声" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="江苏频道",金陵之声
+rtp://239.49.1.90:8000
+#EXTINF:-1 tvg-name="南通1台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/南通1台.png" group-title="江苏频道",南通1台
+rtp://239.49.0.223:8000
+#EXTINF:-1 tvg-name="南通2台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/南通2台.png" group-title="江苏频道",南通2台
+rtp://239.49.0.224:8000
+#EXTINF:-1 tvg-name="南通3台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/南通3台.png" group-title="江苏频道",南通3台
+rtp://239.49.0.197:8000
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/都市剧场.png" group-title="数字频道",都市剧场
+rtp://239.49.0.99:8000
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/中国天气.png" group-title="数字频道",中国天气
+rtp://239.49.0.94:8000
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/快乐垂钓.png" group-title="数字频道",快乐垂钓
+rtp://239.49.0.114:8000
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/金鹰纪实.png" group-title="数字频道",金鹰纪实
+rtp://239.49.8.79:8000
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/金鹰卡通.png" group-title="数字频道",金鹰卡通
+rtp://239.49.8.33:8000
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/梨园频道.png" group-title="数字频道",梨园
+rtp://239.49.8.193:8000
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/文物宝库.png" group-title="数字频道",文物宝库
+rtp://239.49.0.209:8000
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/武术世界.png" group-title="数字频道",武术世界
+rtp://239.49.0.205:8000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/卡酷少儿.png" group-title="数字频道",卡酷少儿
+rtp://239.49.0.148:8000
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/睛彩竞技.png" group-title="数字频道",睛彩竞技
+rtp://239.49.8.39:8000
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/睛彩篮球.png" group-title="数字频道",睛彩篮球
+rtp://239.49.8.42:8000
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/睛彩青少.png" group-title="数字频道",睛彩青少
+rtp://239.49.8.46:8000
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
+rtp://239.49.8.64:8000
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/精彩影视.png" group-title="数字频道",精彩影视
+rtp://239.49.0.190:9458
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/精彩影视.png" group-title="数字频道",精彩影视
+rtp://239.49.8.34:8612
+#EXTINF:-1 tvg-name="篮球世界" group-title="数字频道",篮球世界
+rtp://239.49.8.105:8000
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/书画.png" group-title="数字频道",书画
+rtp://239.49.0.123:8000
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/优漫卡通.png" group-title="数字频道",优漫卡通
+rtp://239.49.0.21:8160
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/优漫卡通.png" group-title="数字频道",优漫卡通
+rtp://239.49.8.119:8000
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/财富天下.png" group-title="数字频道",财富天下
+rtp://239.49.1.76:8000
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/东方财经.png" group-title="数字频道",东方财经
+rtp://239.49.0.95:8000
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/法治天地.png" group-title="数字频道",法治天地
+rtp://239.49.0.96:8000
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/生活时尚.png" group-title="数字频道",生活时尚
+rtp://239.49.0.97:8000
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/山东教育卫视.png" group-title="数字频道",山东教育
+rtp://239.49.0.252:8000
+#EXTINF:-1 tvg-name="省台直播室1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",省台直播室1
+rtp://239.49.8.151:6000
+#EXTINF:-1 tvg-name="省台直播室2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",省台直播室2
+rtp://239.49.8.63:9354
+#EXTINF:-1 tvg-name="多画面导航" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",多画面导航
+rtp://239.49.8.73:8000
+#EXTINF:-1 tvg-name="羽毛球直播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",羽毛球直播
+rtp://239.49.8.104:8000
+#EXTINF:-1 tvg-name="慢直播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",慢直播
+rtp://239.49.8.67:9376
+#EXTINF:-1 tvg-name="多机位4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",多机位4
+rtp://239.49.8.68:9380
+#EXTINF:-1 tvg-name="多机位5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",多机位5
+rtp://239.49.8.69:9384
+#EXTINF:-1 tvg-name="多机位6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",多机位6
+rtp://239.49.0.251:8000
+#EXTINF:-1 tvg-name="多机位7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/直播中国.png" group-title="直播频道",多机位7
+rtp://239.49.0.191:8000
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/优购物.png" group-title="购物频道",优购物
+rtp://239.49.0.84:8000
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/优购物.png" group-title="购物频道",优购物
+rtp://239.49.0.85:8000
+#EXTINF:-1 tvg-name="好享购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/好享购物.png" group-title="购物频道",好享购物
+rtp://239.49.8.121:8000
+#EXTINF:-1 tvg-name="好享购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/好享购物.png" group-title="购物频道",好享购物
+rtp://239.49.0.103:8000
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/家有购物.png" group-title="购物频道",家有购物
+rtp://239.49.8.124:8000
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/家有购物.png" group-title="购物频道",家有购物
+rtp://239.49.0.87:8000
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/央广购物.png" group-title="购物频道",央广购物
+rtp://239.49.0.110:9014
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/guangyu/main/img/央广购物.png" group-title="购物频道",央广购物
+rtp://239.49.0.39:8000
+#EXTINF:-1 tvg-name="环球购物" group-title="购物频道",环球购物
+rtp://239.49.0.212:8000
+#EXTINF:-1 tvg-name="环球购物" group-title="购物频道",环球购物
+rtp://239.49.8.123:8000
