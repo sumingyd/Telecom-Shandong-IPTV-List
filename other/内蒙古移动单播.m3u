@@ -1,0 +1,357 @@
+#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz"
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="4K频道",CCTV4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16五环.png" group-title="4K频道",CCTV16-4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="4K频道",北京卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226322/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视4K.png" group-title="4K频道",东方卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226360/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视4K.png" group-title="4K频道",广东卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226357/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视4K.png" group-title="4K频道",深圳卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226335/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视4K.png" group-title="4K频道",江苏卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226356/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png" group-title="4K频道",山东卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226365/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视4K.png" group-title="4K频道",浙江卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226338/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视4K.png" group-title="4K频道",湖南卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226361/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视4K.png" group-title="4K频道",四川卫视4K
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226364/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="多彩文体4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/多彩文体4K.png" group-title="4K频道",多彩文体4K
+http://111.56.121.176/000000001000/5000000007000010001/1.m3u8?fmt=ts2hls%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV1
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" group-title="央视频道",CCTV3
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV4
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225898/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" group-title="央视频道",CCTV5
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225663/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" group-title="央视频道",CCTV6
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV7
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225897/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" group-title="央视频道",CCTV8
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225919/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV10
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225917/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225867/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV12
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV13
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225957/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV14
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225916/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV15
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="央视频道",CCTV16
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" group-title="央视频道",CCTV17
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225977/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
+http://111.56.121.176/050000001888/5000000188800000155/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
+http://111.56.121.176/050000001888/5000000188800000192/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
+http://111.56.121.176/050000001888/5000000188800000157/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV风云音乐.png" group-title="央视频道",CCTV风云音乐
+http://111.56.121.176/050000001888/5000000188800000158/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV风云足球.png" group-title="央视频道",CCTV风云足球
+http://111.56.121.176/050000001888/5000000188800000159/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV央视台球.png" group-title="央视频道",CCTV央视台球
+http://111.56.121.176/050000001888/5000000188800000162/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
+http://111.56.121.176/050000001888/5000000188800000161/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
+http://111.56.121.176/050000001888/5000000188800000156/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV兵器科技.png" group-title="央视频道",CCTV兵器科技
+http://111.56.121.176/050000001888/5000000188800000163/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV电视指南.png" group-title="央视频道",CCTV电视指南
+http://111.56.121.176/050000001888/5000000188800000164/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球
+http://111.56.121.176/050000001888/5000000188800000183/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV央视文化精品.png" group-title="央视频道",CCTV央视文化精品
+http://111.56.121.176/050000001888/5000000188800000160/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/老故事.png" group-title="央视频道",老故事
+http://111.56.121.176/050000001888/5000000188800000166/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中学生.png" group-title="央视频道",中学生
+http://111.56.121.176/050000001888/5000000188800000167/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/发现之旅.png" group-title="央视频道",发现之旅
+http://111.56.121.176/050000001888/5000000188800000171/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/早期教育.png" group-title="央视频道",早期教育
+http://111.56.121.176/050000001888/5000000188800000165/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",中国教育1
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226328/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",中国教育1
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226328/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育2.png" group-title="央视频道",中国教育2
+http://111.56.121.176/050000001888/5000000188800000078/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="中国教育3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育3.png" group-title="央视频道",中国教育3
+http://111.56.121.176/050000001888/5000000188800000079/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" group-title="央视频道",中国教育4
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225892/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" group-title="央视频道",中国教育4
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225892/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225913/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225908/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225905/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225910/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225909/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225904/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225906/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225733/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225901/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225907/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225900/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226336/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225903/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226324/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225914/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226344/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226339/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225899/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226310/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山西卫视.png" group-title="卫视频道",山西卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226326/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226352/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226337/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226348/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226334/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226330/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225911/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226332/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225902/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN纪录.png" group-title="国际频道",CGTN纪录
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225972/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN.png" group-title="国际频道",CGTN英语
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225971/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN法语.png" group-title="国际频道",CGTN法语
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225974/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN西语.png" group-title="国际频道",CGTN西语
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225973/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN俄语.png" group-title="国际频道",CGTN俄语
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225976/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CGTN阿语.png" group-title="国际频道",CGTN阿语
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225975/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国天气.png" group-title="数字频道",中国天气
+http://111.56.121.176/000000001000/5000000005000031974/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/都市剧场.png" group-title="数字频道",都市剧场
+http://111.56.121.176/000000001000/5000000011000031111/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225687/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225687/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京纪实科教.png" group-title="数字频道",纪实科教
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225744/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京纪实科教.png" group-title="数字频道",纪实科教
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225744/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225726/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225726/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://111.56.121.176/000000001000/5000000006000040024/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
+http://111.56.121.176/000000001000/5000000011000031206/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png" group-title="数字频道",山东教育
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225773/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png" group-title="数字频道",山东教育
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225773/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png" group-title="数字频道",山东教育
+http://www.unraid.asia:4022/udp/239.29.0.134:5000
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东教育.png" group-title="数字频道",山东教育
+http://kent.dzzkent.top:4022/udp/234.1.3.69:5000
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225968/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动漫秀场.png" group-title="数字频道",动漫秀场
+http://111.56.121.176/000000001000/5000000011000031113/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/环球奇观.png" group-title="数字频道",环球奇观
+http://111.56.121.176/050000001888/5000000188800000173/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/睛彩竞技.png" group-title="数字频道",睛彩竞技
+http://111.56.121.176/050000001888/5000000188800000106/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/睛彩篮球.png" group-title="数字频道",睛彩篮球
+http://111.56.121.176/050000001888/5000000188800000107/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/睛彩青少.png" group-title="数字频道",睛彩青少
+http://111.56.121.176/050000001888/5000000188800000109/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金色学堂.png" group-title="数字频道",金色学堂
+http://111.56.121.176/000000001000/5000000010000026105/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/书画.png" group-title="数字频道",书画频道
+http://111.56.121.176/050000001888/5000000188800000172/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/乐游.png" group-title="数字频道",乐游频道
+http://111.56.121.176/000000001000/5000000011000031112/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/汽摩.png" group-title="数字频道",汽摩频道
+http://111.56.121.176/050000001888/5000000188800000169/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/生活时尚.png" group-title="数字频道",生活时尚
+http://111.56.121.176/000000001000/5000000002000019634/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/游戏风云.png" group-title="数字频道",游戏风云
+http://111.56.121.176/000000001000/5000000011000031114/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/上海/上海都市.png" group-title="数字频道",上海都市
+http://111.56.121.176/000000001000/5000000010000018926/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方财经.png" group-title="数字频道",东方财经
+http://111.56.121.176/000000001000/5000000007000010003/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/上海/上海第一财经.png" group-title="数字频道",第一财经
+http://111.56.121.176/000000001000/5000000010000027146/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/财富天下.png" group-title="数字频道",财富天下
+http://111.56.121.176/000000001000/5000000011000031208/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/家庭理财.png" group-title="数字频道",家庭理财
+http://111.56.121.176/000000001000/5000000011000031210/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/国学.png" group-title="数字频道",国学频道
+http://111.56.121.176/050000001888/5000000188800000170/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="内蒙古蒙语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/内蒙古蒙语.png" group-title="内蒙古省级",内蒙古蒙语
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225705/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="内蒙古蒙语2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/内蒙古蒙语.png" group-title="内蒙古省级",内蒙古蒙语2
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/内蒙古文体娱乐.png" group-title="内蒙古省级",内蒙古文体娱乐
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225877/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/内蒙古经济生活.png" group-title="内蒙古省级",内蒙古经济生活
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/内蒙古少儿.png" group-title="内蒙古省级",内蒙古少儿频道
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/内蒙古农牧.png" group-title="内蒙古省级",内蒙古农牧频道
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/内蒙古新闻综合.png" group-title="内蒙古省级",内蒙古新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/鄂尔多斯.png" group-title="内蒙古地方",鄂尔多斯新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225835/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="鄂尔多斯经济服务" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/鄂尔多斯.png" group-title="内蒙古地方",鄂尔多斯经济服务
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225836/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="鄂尔多斯蒙语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/鄂尔多斯.png" group-title="内蒙古地方",鄂尔多斯蒙语
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225838/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/呼伦贝尔.png" group-title="内蒙古地方",呼伦贝尔新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225933/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="呼伦贝尔文化旅游" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/呼伦贝尔.png" group-title="内蒙古地方",呼伦贝尔文化旅游
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225934/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="呼伦贝尔生活资讯" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古/呼伦贝尔.png" group-title="内蒙古地方",呼伦贝尔生活资讯
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225935/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",呼和浩特新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225814/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="呼和浩特影视娱乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",呼和浩特影视娱乐
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225815/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="包头经济" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",包头经济
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225864/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",通辽新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225825/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="通辽城市服务" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",通辽城市服务
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225823/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="通辽蒙语" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",通辽蒙语
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225824/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",巴彦淖尔新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225830/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="巴彦淖尔经济生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",巴彦淖尔经济生活
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225831/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="巴彦淖尔影视娱乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",巴彦淖尔影视娱乐
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225832/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",乌海新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225810/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="乌海都市生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",乌海都市生活
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225811/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",赤峰新闻综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225812/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="赤峰经济服务" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",赤峰经济服务
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225813/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="赤峰影视娱乐" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",赤峰影视娱乐
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225819/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="伊金霍洛旗综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",伊金霍洛旗综合频道
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225868/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="准格尔旗综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",准格尔旗综合频道
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225808/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="达拉特旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",达拉特旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226307/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="鄂托克旗综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",鄂托克旗综合
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226319/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="杭锦旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",杭锦旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226297/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="苏尼特右旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",苏尼特右旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225839/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="达茂旗电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",达茂旗电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225884/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="额济纳旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",额济纳旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225787/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="杭锦后旗电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",杭锦后旗电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225793/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="察哈尔右翼后旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",察哈尔右翼后旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226295/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="苏尼特左旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",苏尼特左旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225797/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="突泉县广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",突泉县广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225798/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="凉城县广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",凉城县广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225928/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="乌拉特中旗电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",乌拉特中旗电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225804/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="西乌珠穆沁旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",西乌珠穆沁旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225840/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="科尔沁右翼中旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",科尔沁右翼中旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225881/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="乌拉特前旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",乌拉特前旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225796/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="库伦旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",库伦旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225925/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="翁牛特旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",翁牛特旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225807/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="阿尔山市广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",阿尔山市广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225926/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="察哈尔右翼中旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",察哈尔右翼中旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225869/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="阿荣旗广播电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",阿荣旗广播电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226341/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F
+#EXTINF:-1 tvg-name="丰镇电视台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/内蒙古卫视.png" group-title="内蒙古地方",丰镇电视台
+http://111.56.121.176/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225871/1.m3u8?fmt=ts2hls%24%E3%80%8E%E5%85%A8%E7%BD%91%E3%80%8F%3E
+#EXTINF:-1 tvg-name="儿童秀场轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/轮播.png" group-title="轮播频道",儿童秀场轮播台
+http://111.56.121.176/050000001888/5000000188800000185/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="综艺天地轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/轮播.png" group-title="轮播频道",综艺天地轮播台
+http://111.56.121.176/050000001888/5000000188800000188/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="精彩纪实轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/轮播.png" group-title="轮播频道",精彩纪实轮播台
+http://111.56.121.176/050000001888/5000000188800000187/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="动作电影轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/轮播.png" group-title="轮播频道",动作电影轮播台
+http://111.56.121.176/050000001888/5000000188800000190/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="古装神剧轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/轮播.png" group-title="轮播频道",古装神剧轮播台
+http://111.56.121.176/050000001888/5000000188800000186/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="情感大剧轮播台" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/轮播.png" group-title="轮播频道",情感大剧轮播台
+http://111.56.121.176/050000001888/5000000188800000189/1.m3u8?fmt=ts2hls
