@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz"
+#EXTM3U url-tvg="https://gh-proxy.org/https://sumingyd.github.io/xml/epg.xml.gz"
 
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800", CCTV1
 rtp://239.253.240.77:8000 
