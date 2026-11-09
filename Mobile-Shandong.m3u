@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvapi.92e.cn/epg/epg.php"
+#EXTM3U url-tvg="https://sumingyd.github.io/xml/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K.png" group-title="4K频道" resolution="" ,CCTV-4K 超高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
