@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gh.llkk.cc/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz" 
+#EXTM3U url-tvg="https://gh.llkk.cc/https://sumingyd.github.io/xml/epg.xml.gz" 
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV1.png" , CCTV1
 http://192.168.9.1:20231/rtp/239.253.254.77:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/img//CCTV2.png" , CCTV2
